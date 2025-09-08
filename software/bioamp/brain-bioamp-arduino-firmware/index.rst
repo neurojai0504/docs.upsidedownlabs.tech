@@ -14,7 +14,7 @@ placed along the scalp (commonly called "scalp EEG") using the International 10â
 or variations of it. Clinical interpretation of EEG recordings is most often performed by visual inspection of 
 the tracing or quantitative EEG analysis
 
-To know more about EEG `visit <https://en.wikipedia.org/wiki/Electroencephalography>`_
+To know more about EEG: https://en.wikipedia.org/wiki/Electroencephalography
 
 The International 10â€“20 system is a standard method for placing EEG electrodes on the scalp in relation
 to the brain's cerebral cortex. Electrode positions are labeled with letters (like Fp, F, T, C, P, O, and Z for
