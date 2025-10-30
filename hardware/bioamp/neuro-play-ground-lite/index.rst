@@ -150,16 +150,19 @@ This guide walks you through setup, connections, and running your experiments wi
     :align: center
 
 .. admonition:: Troubleshooting
-   :class: troubleshoot
 
    Having trouble connecting your **NPG Device** with :ref:`Chords Web <chords>`?
 
    If you try to connect the device and the pop-up window for **Bluetooth Connection** doesn't appear, make sure your chromium based browser has
    following feature Enabled:
 
-   1. Open a new tab and go to ``chrome://flags``.
-   2. Find and enable the "**Experimental Web Platform features**" flag.
-
+   1. Open a new tab and go to ``chrome://flags``
+   2. Find and enable the following flags:
+    
+   - **Web Bluetooth**
+   - **Use the new permissions backend for Web Bluetooth**
+   - **Web Bluetooth confirm pairing support**
+   - **Experimental Web Platform features**
 
 Compatible Software
 ************************
@@ -375,7 +378,7 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
 .. card:: 7. Playing GTA V with Your Focus & Muscles
 
     Control GTA V using your mind! The Brain-Controlled Gaming system uses the 
-    wireless Neuro Playground Lite to translate your brainwaves (EEG) and muscle contractions (EMG) 
+    wireless Neuro PlayGround Lite to translate your brainwaves (EEG) and muscle contractions (EMG) 
     into game controls. Focus to accelerate, and flex your left or right arm to steer. This BCI project 
     delivers a mind-bending glimpse into the future of gaming, letting you command your car with 
     nothing but your body signals.
@@ -425,7 +428,7 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
         - M2W Web Application: `Web Interface <https://upsidedownlabs.github.io/M2W/>`__ 
 
 
-.. dropdown:: Neuro-Playground Lite C3 (Obsolete)
+.. dropdown:: Neuro-PlayGround Lite C3 (Obsolete)
 
     .. rubric:: Overview
 
