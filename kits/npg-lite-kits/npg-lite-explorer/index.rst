@@ -9,14 +9,20 @@ Whether you are a beginner, educator, or enthusiast, this pack allows you to qui
 
 👉🏻 **Get yours on CrowdSupply**: `Neuro PlayGround Lite <https://www.crowdsupply.com/upside-down-labs/neuro-playground-lite>`__
 
+.. figure:: ./media/npg-lite-explorer-box.*
+    :align: center
+    :alt: Neuro PlayGround Lite Explorer Pack
+    
+    Neuro PlayGround Lite Explorer Pack
+
+Contents of the kit
+********************
+
 .. figure:: ./media/npg-lite-explorer-pack.*
     :align: center
     :alt: Kit Content Explorer Pack
     
     Kit Contents of NPG Lite Explorer Pack
-
-Contents of the kit
-********************
 
 +-------------------+-----+
 | Kit Contents      | Qty |
@@ -33,3 +39,14 @@ Contents of the kit
 +-------------------+-----+
 | Battery connector |  1  |
 +-------------------+-----+
+
+
+
+Proto Playmate
+***************
+
+Proto Playmate offers a flexible prototyping space with a dedicated area for adding your 
+own components or circuits. It includes a QWIIC port for quick sensor integration, 
+2.54 mm electrode header pins, an ON/OFF slide switch, and a connector interface for electrodes. 
+By combining electrodes with custom electronics, users can rapidly prototype biosignal-driven experiments, 
+build add-on circuits, or test new designs without needing a separate breadboard.
