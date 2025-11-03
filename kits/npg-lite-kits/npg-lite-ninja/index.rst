@@ -28,21 +28,21 @@ Contents of the kit
 +-------------------+-----+
 | Kit Contents      | Qty |
 +===================+=====+
-| NPG Lite board    |  1  |
+| NPG Lite Board    |  1  |
 +-------------------+-----+
 | VibZ Playmate     |  1  |
 +-------------------+-----+
-| Snap cables       |  7  |
+| Snap Cables       |  7  |
 +-------------------+-----+
-| Alligator cables  |  5  |
+| Alligator Cables  |  5  |
 +-------------------+-----+
-| Gel electrodes    | 24  |
+| Gel Electrodes    | 24  |
 +-------------------+-----+
-| LiPo battery      |  1  |
+| LiPo Battery      |  1  |
 +-------------------+-----+
-| Type-C cable      |  1  |
+| Type-C Cable      |  1  |
 +-------------------+-----+
-| 3D-printed case   |  1  |
+| 3D-Printed Case   |  1  |
 +-------------------+-----+
 
 VibZ Playmate
@@ -66,7 +66,7 @@ Step 1: Skin Preparation
 =========================
 
 Apply Nuprep skin preparation Gel on the target areas where the
-electrodes will be placed → rub in circular motion → clean with an alcohol swab or wet wipe.
+Electrodes will be placed → Rub in circular motion → Clean with an alcohol swab or wet wipe.
 
 For more information, please check out detailed step by step :ref:`Skin Preparation Guide <skin-preparation>`.
 
@@ -79,9 +79,15 @@ wires according to the number of channels required:
 .. figure:: ./media/npg-lite-vibz-back.*
     :align: center
     :width: 70%
-    :alt: NPG Lite Vibz Back Side
+    :alt: NPG Lite VibZ Playmate Back
     
-    NPG Lite Vibz Back Side
+    NPG Lite VibZ Playmate Back
+
+.. figure:: ./media/npg-lite-vibz-connection.*
+    :align: center
+    :alt: NPG Lite VibZ Playmate Connection
+    
+    NPG Lite VibZ Playmate Connection
 
 +---------+---------+----------------------------+
 | Channel | Pin     | Channel Connection         |
@@ -106,6 +112,72 @@ wires according to the number of channels required:
 Step 3: Place Gel Electrodes
 ===============================
 
+EMG (Electromyography)
+-------------------------
+
+- **1-CH Setup**: Place +ve and -ve cables of Channel 0 on the targeted muscle and REF cable on a bony part (back of the palm or elbow).
+
+- **2-CH Setup**: Place +ve, -ve cables of Channel 0 & 1 on the targeted muscles and 1 REF cable on a bony part.
+
+- **3-CH Setup**:  Place +ve, -ve cables of Channel 0, 1 and 2 on the targeted muscles and 1 REF cable on a bony part.
+
+.. figure:: ../../../hardware/bioamp/neuro-play-ground-lite/media/npg-lite-EMG.*
+    :align: center
+    :alt: Connection for EMG
+    
+    Connection for EMG
+
+ECG (Electrocardiogram)
+-------------------------
+
+- **1-CH Setup**: Place -ve cable of Channel 0 on the left side of the chest, +ve cable just to its right, and REF cable on the right side of chest.
+
+.. figure:: ../../../hardware/bioamp/neuro-play-ground-lite/media/npg-lite-ECG.*
+    :align: center
+    :alt: Connection for ECG
+    
+    Connection for ECG
+
+EOG (Electroculography)
+-------------------------
+
+**Horizontal Movement Recording**
+
+- **1-CH Setup**: Place -ve cable of Channel 0 on the right side of your right eye, +ve cable on the left side of the left eye, and REF cable on the bony part at the back side of your earlobe.
+
+.. figure:: ../../../hardware/bioamp/neuro-play-ground-lite/media/npg-lite-EOG-Horizontal.*
+    :align: center
+    :alt: Connection for EOG Horizontal
+    
+    Connection for EOG Horizontal
+
+**Vertical Movement Recording**
+
+- **1-CH Setup**: Place the -ve cable of Channel 0 above either of your eyes, the +ve electrode below same eye, and the REF cable on the bony area behind your earlobe.
+
+- **2-CH Setup**:  To record both horizontal & vertical eye movement together, follow the electrode placements mentioned above for Channels 0 and 1. Make sure to use just 1 REF cable.
+
+.. figure:: ../../../hardware/bioamp/neuro-play-ground-lite/media/npg-lite-EOG-Vertical.*
+    :align: center
+    :alt: Connection for EOG Vertical
+    
+    Connection for EOG Vertical
+
+EEG (Electroencephalogram)
+----------------------------
+
+- **1-CH Setup**: Place +ve cable of Channel 0 on the targeted area, REF and -ve cable on the bony part at the back of each earlobe. (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_)
+
+- **2-CH Setup**: Place +ve cables of Channel 0 and 1 on the targeted area (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_), 1 REF and 1 CN (Common Negative) cable on the bony parts at the back of each earlobe.
+
+- **3-CH Setup**:  Place +ve cables of Channel 0, 1 and 2 on the targeted area (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_), 1 REF and 1 CN (Common Negative) cable on the bony part at the back of each earlobe.
+
+.. figure:: ../../../hardware/bioamp/neuro-play-ground-lite/media/npg-lite-EEG.*
+    :align: center
+    :alt: Connection for EEG
+    
+    Connection for EEG
+
 Step 4: Upload Firmware
 ========================
 
@@ -128,7 +200,7 @@ Follow the steps below to view real-time biopotential signal data from your NPG 
 - Click on ``Visualize Now``, navigate to the ``NPG-Lite``, hit the ``Connect`` button and choose your device. 
 - You can see the biopotential signals in real-time. 
 
-For the detailed guide, visit: :ref:`Chords Web<chords>`
+For the detailed guide, visit: :ref:`Chords Web Documentation<chords>`
 
 Explore features like play/pause data stream, apply filters,
 increase channel count, enable features for recording and

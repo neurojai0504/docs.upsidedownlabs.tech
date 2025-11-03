@@ -9,14 +9,20 @@ Pre-assembled in a sturdy 3D-printed case, this kit provides maximum capability 
 
 👉🏻 **Get yours on CrowdSupply**: `Neuro PlayGround Lite <https://www.crowdsupply.com/upside-down-labs/neuro-playground-lite>`__
 
+.. figure:: ./media/npg-lite-beast-box.*
+    :align: center
+    :alt: Neuro PlayGround Lite Beast Pack
+    
+    Neuro PlayGround Lite Beast Pack
+
+Contents of the kit
+********************
+
 .. figure:: ./media/npg-lite-beast-pack.*
     :align: center
     :alt: Kit Content Beast Pack
     
     Kit Contents of NPG Lite Beast Pack
-
-Contents of the kit
-********************
 
 +-------------------+-----+
 | Kit Contents      | Qty |
