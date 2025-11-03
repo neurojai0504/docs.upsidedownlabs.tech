@@ -27,20 +27,18 @@ Contents of the kit
 +-------------------+-----+
 | Kit Contents      | Qty |
 +===================+=====+
-| NPG Lite board    |  1  |
+| NPG Lite Board    |  1  |
 +-------------------+-----+
 | Proto Playmate    |  1  |
 +-------------------+-----+
-| Snap cables       |  7  |
+| Snap Cables       |  7  |
 +-------------------+-----+
-| Alligator cables  |  5  |
+| Alligator Cables  |  5  |
 +-------------------+-----+
-| Gel electrodes    | 12  |
+| Gel Electrodes    | 12  |
 +-------------------+-----+
-| Battery connector |  1  |
+| Battery Connector |  1  |
 +-------------------+-----+
-
-
 
 Proto Playmate
 ***************
