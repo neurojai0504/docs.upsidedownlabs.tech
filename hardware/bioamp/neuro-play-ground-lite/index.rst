@@ -124,7 +124,7 @@ Components
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 3      | **6 Addressable RGB LEDs** | Enables visualization of device states, signal strength, or neural feedback using dynamic color indicators.                                                       |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4      | **User ESD Protection**    | ESD protection components secure user-accessible I/O pins, ensuring durability and reliability when connecting electrodes, sensors, or peripherals.               |
+| 4      | **User ESD Protection**    | ESD protection components, ensuring durability and reliability when connecting electrodes.                                                                        |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 5      | **BioAmp**                 | The onboard BioAmp is a low-noise, high-gain biopotential amplifier that captures and amplifies EMG, ECG, and EEG signals for digital processing by the ESP32-C6. |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -132,7 +132,7 @@ Components
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 7      | **600mA LDO**              | The voltage regulator converts higher input voltages (USB or battery) into a stable 3.3V output.                                                                  |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 8      | **Battery Connector**      | It offers a safe, polarity-protected port for battery power, allowing portable operation of the board.                                                            |
+| 8      | **Battery Connector**      | It offers a safe, port for battery power, allowing portable operation of the board. **Note:** There is no polarity protection.                                    |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 9      | **LiPo Charging**          | The integrated LiPo charging controller safely manages charging cycles, supporting automatic termination and trickle charging for optimal battery health.         |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -140,7 +140,7 @@ Components
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 11     | **Reset Button**           | The reset button restarts the microcontroller and running program without power loss, aiding debugging and firmware testing.                                      |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 12     | **Charging LED**           | The LED indicates battery status, lighting during charging and turning off when fully charged for immediate feedback.                                             |
+| 12     | **Charging LED**           | The Charging LED indicates battery charging status, lighting during charging and turning off when fully charged for immediate feedback.                           |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 13     | **USB C**                  | USB C port for data transfer and power input.                                                                                                                     |
 +--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
