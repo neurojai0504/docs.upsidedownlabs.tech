@@ -15,7 +15,6 @@ This kit is perfect for users who want a smoother, plug-and-play experience with
     
     Neuro PlayGround Lite Ninja Pack
 
-
 Contents of the kit
 ********************
 
