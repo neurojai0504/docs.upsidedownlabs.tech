@@ -74,7 +74,7 @@ For more information, please check out detailed step by step :ref:`Skin Preparat
 Step 2: Connect BioAmp Cables
 ===============================
 
-Using VibZ you can record 3-channel biopotential signals, connect the jumper
+Using VibZ+ you can record 3-channel biopotential signals, connect the jumper
 wires according to the number of channels required:
 
 .. figure:: ./media/npg-lite-vibz+-back.*
