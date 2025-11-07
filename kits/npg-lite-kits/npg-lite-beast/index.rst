@@ -199,11 +199,11 @@ EEG (Electroencephalogram)
 
 - **1-CH Setup**: Place +ve cable of Channel 0 on the targeted area, REF and -ve cable on the bony part at the back of each earlobe. (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_)
 
-- **2-CH Setup**: Place +ve cables of Channel 0 and 1 on the targeted area (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_), 1 REF and 1 CN (Common Negative) cable on the bony parts at the back of each earlobe.
+- **2-CH Setup**: Place +ve cables of Channel 0 and 1 on the targeted area (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_), 1 REF and 1 CN (Common Negative) cable on the bony parts at the back of each earlobe. Make sure the common negative switch for the respective channels is flipped accordingly, as per the information provided above.
 
-- **3-CH Setup**:  Place +ve cables of Channel 0, 1 and 2 on the targeted area (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_), 1 REF and 1 CN (Common Negative) cable on the bony part at the back of each earlobe.
+- **3-CH Setup**:  Place +ve cables of Channel 0, 1 and 2 on the targeted area (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_), 1 REF and 1 CN (Common Negative) cable on the bony part at the back of each earlobe. Make sure the common negative switch for the respective channels is flipped accordingly, as per the information provided above.
 
-- **General Multi-Channel Setup:** For any multi-channel recording (2-CH or more), place the +ve cable for each respective channel on the targeted areas, then use only one REF cable and one CN (Common Negative) cable for all channels, placing them on your chosen reference points. (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_)
+- **General Multi-Channel Setup:** For any multi-channel recording (2-CH or more), place the +ve cable for each respective channel on the targeted areas, then use only one REF cable and one CN (Common Negative) cable for all channels, placing them on your chosen reference points. (refer to the `International 10-20 system for recording EEG <https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)>`_). Make sure the common negative switch for the respective channels is flipped accordingly, as per the information provided above.
 
 .. figure:: media/npg-lite-EEG-vibz+.*
     :align: center
