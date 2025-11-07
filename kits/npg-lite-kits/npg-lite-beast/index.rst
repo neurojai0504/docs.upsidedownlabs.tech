@@ -218,7 +218,7 @@ Follow the quick steps below to upload the firmware to your NPG Lite device:
 
 For detailed firmware upload guide, visit: :ref:`How to Flash Firmware on NPG Lite<npg-lite-flasher>`
 
-- Power ON NPG Lite by flipping the on/off switch.
+- Power ON NPG Lite by flipping the ON/OFF switch.
 - Connect it to Laptop/PC via USB-C cable.
 - Download the :ref:`NPG Lite Flasher<npg-lite-flasher>` and run the app.
 - Select a firmware type, select your port, and flash it on your NPG Lite.
