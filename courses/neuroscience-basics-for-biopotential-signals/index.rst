@@ -1,7 +1,13 @@
-.. _basics-of-neuroscience:
+.. _neuroscience-basics-for-biopotential-signals:
 
 Course Curriculum
 ##########################
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   module-1/index
 
 .. toctree::
    :hidden:

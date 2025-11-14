@@ -1,6 +1,6 @@
-.. _basics-of-neuroscience-module-3:
+.. _neuroscience-basics-for-biopotential-signals-module-2:
 
-Module 3: Understanding the resting potential
+Module 2: Understanding the resting potential
 ###############################################
 
 .. |Na+| replace:: Na\ :sup:`+`\
@@ -23,12 +23,12 @@ potential and how they process and transmit information. However, before delving
 important to first explore the electrical properties of neurons, as electricity is the primary means by 
 which neurons communicate.
 
-3.1 Fundamentals of electricity
+2.1 Fundamentals of electricity
 *********************************
 
 Let's review some fundamental concepts of electricity that will help us explore the electrical properties of neurons.
 
-3.1.1 Current
+2.1.1 Current
 ==============
 
 It is defined as the rate of flow of charge. In neurons, it is the movement of ions like sodium (|Na+|), potassium (|K+|), Chloride (|Cl-|), and Calcium (|Ca2+|)  across the membrane, which is essential for generating electrical signals.
@@ -39,7 +39,7 @@ It is defined as the rate of flow of charge. In neurons, it is the movement of i
 
    Current: The movement of ions across the membrane
 
-3.1.2 Voltage
+2.1.2 Voltage
 ==============
 
 It is the electrical potential that drives the flow of charge which was discovered by Alessandro Volta in 1778. In the context of neurons, voltage refers to the electric potential difference across the neuron's membrane, which is critical for generating and transmitting electrical signals.
@@ -52,7 +52,7 @@ It is the electrical potential that drives the flow of charge which was discover
 
 To better understand electric potential, it's essential to define electrostatic force.
 
-3.1.3 Electrostatic force
+2.1.3 Electrostatic force
 ==========================
 
 It is the force that arises due to the interaction between charged objects or particles. These forces 
@@ -64,7 +64,7 @@ are part of the fundamental forces of nature and are described by Coulomb's law.
 
    Electrostatic force
 
-3.1.4 Coulomb's law
+2.1.4 Coulomb's law
 ====================
 
 The electrostatic force (F) between two point charges (q1​ and q2) is given by:
@@ -84,7 +84,7 @@ Equation 1:
 
    Coulomb’s law was first published in 1785 by French physicist Charles-Augustin de Coulomb.
 
-3.1.5 Law of attraction & repulsion
+2.1.5 Law of attraction & repulsion
 ====================================
 
 **Attractive force:** If the charges are of opposite signs (positive and negative), the force is attractive in nature.
@@ -103,7 +103,7 @@ Equation 1:
 
    Repulsive force
 
-3.2 Resting Potential
+2.2 Resting Potential
 **********************
 
 Resting potential refers to the electrical potential difference across the neuron's membrane when a neuron is at rest. It is primarily determined by the unequal distribution of ions, particularly potassium (|K+|) and sodium (|Na+|), across the neuron's membrane. [1]_
@@ -123,7 +123,7 @@ Resting potential refers to the electrical potential difference across the neuro
 
 The resting potential of a neuron is primarily influenced by two key factors: diffusion and electrostatic forces. Let's understand them individually. [1]_
 
-3.2.1 Diffusion [1]_
+2.2.1 Diffusion [1]_
 =====================
 
 Ion Concentration Gradients
@@ -142,12 +142,12 @@ Due to the concentration gradient, ions tend to move from areas of higher concen
 
    Diffusion of ions
 
-3.2.2 Electrostatic forces [1]_
+2.2.2 Electrostatic forces [1]_
 ================================
 
 Electrostatic forces are essential in creating the resting potential of neurons. It arises from the movement of ions like potassium and sodium, which are influenced by concentration gradients and the attractive/repulsive forces between charged particles. The unequal distribution of these ions across the membrane, combined with electrostatic forces, results in a negative charge inside the neuron relative to the outside, leading to a typical resting potential of around -70mV, which is crucial for the neuron's ability to generate action potentials and communicate with other neurons.
 
-3.3 Equilibrium potential
+2.3 Equilibrium potential
 ***************************
 
 The equilibrium potential (also known as the Nernst potential) for a specific ion is the membrane potential at which the net flow of that ion across the membrane is zero. At this potential, the concentration gradient (diffusive forces) is balanced by the electrical gradient (electrostatic forces). This means that the electrostatic forces pulling the ion into the cell are exactly balanced by the concentration gradient pushing it out (or vice versa). [1]_
@@ -178,7 +178,7 @@ Equilibrium Potentials for major ions: [1]_
 - |K+|: Approximately -90 mV (when |K+| has an intracellular concentration of 120 mM and an extracellular concentration of 4 mM)
 - |Na+|: Approximately +60 mV (when |Na+| has an intracellular concentration of 14 mM and an extracellular concentration of 140 mM)
 
-3.4 Goldman Equation [3]_
+2.4 Goldman Equation [3]_
 **************************
 
 The Goldman equation, often referred to as the GHK equation, calculates the resting potential of a cell based on the permeability and concentrations of multiple ions. It accounts for the relative contributions of different ions to the resting potential. The equation is as follows:
@@ -199,10 +199,10 @@ where:
 
 .. note:: The Nernst potential (or equilibrium potential) indicates the voltage for a specific ion, but since the resting potential is affected by multiple ions, we use the Goldman equation to calculate the overall resting potential of the cell. [1]_
 
-3.5 Ion channels
+2.5 Ion channels
 *****************
 
-Ion channels (also called ion filters or ion-selective channels) are special proteins in nerve cells (neurons) that control the movement of ions across the cell membrane. [4]_ These channels help certain ions — like sodium (|Na+|), potassium (|K+|), calcium (|Ca2+|), or chloride (|Cl-|) — move quickly across the membrane based on concentration gradient (i.e. from high to low concentration). [5]_
+Ion channels (also called ion filters or ion-selective channels) are special proteins in nerve cells (neurons) that control the movement of ions across the cell membrane. [4]_ These channels help certain ions - like sodium (|Na+|), potassium (|K+|), calcium (|Ca2+|), or chloride (|Cl-|) - move quickly across the membrane based on concentration gradient (i.e. from high to low concentration). [5]_
 
 There are majorly two types of ion channels:
 
@@ -240,7 +240,7 @@ Similarly potassium ions only pass through potassium ion channels.
 
 .. todo:: Add graphic for potassium ion channel
 
-3.6 Sodium potassium pump
+2.6 Sodium potassium pump
 **************************
 
 The sodium-potassium pump (|Na+|/|K+| ATPase) is a crucial membrane protein that helps maintain the proper balance of sodium (|Na+|) and potassium (|K+|) ions across the cell membrane, particularly in neurons. [7]_
@@ -278,9 +278,20 @@ With every cycle, the sodium-potassium pump moves 3 |Na+| ions out of the neuron
 
 .. admonition:: Fun fact
 
-   The sodium-potassium pump consumes approximately 70% (2/3rd) energy of the nerve cell. [11]_
+   The sodium-potassium pump consumes approximately 70% (2/3rd) energy of the nerve cell. [11]_ 
 
-.. rubric:: References
+2.7 Summary 
+**************
+In this module, we learned how neurons maintain a stable electrical state called the resting potential (about ~70 mV). We reviewed essential electrical concepts-current, voltage, electrostatic forces, and Coulomb’s law-to understand how ions drive membrane voltage. We explored how diffusion and electrostatic forces together establish the membrane potential, and learned how individual ions have their own equilibrium potentials (via the Nernst equation). We also studied the Goldman (GHK) equation, which calculates the overall resting potential based on ion permeabilities.
+We examined ion channels, their selectivity, and how leak channels maintain resting potential, along with the essential role of the sodium-potassium pump, which uses ATP to preserve ionic gradients by pumping 3 Na⁺ out and 2 K⁺ in.
+This module forms the electrical foundation needed to understand:
+
+- Passive membrane properties (Module 3), which determine how signals spread along neurons, and
+
+- Action potentials (Module 4), which are rapid spikes used for long-distance communication.
+
+2.8 References
+*********************
 
 .. [1] `Chrysafides SM, Bordes SJ, Sharma S. Physiology, Resting Potential. In: StatPearls. StatPearls Publishing, Treasure Island (FL); 2023. PMID: 30855922 <https://europepmc.org/article/NBK/nbk538338#article-28427.r1>`_
 .. [2] `Veech RL, Kashiwaya Y, King MT. The resting membrane potential of cells are measures of electrical work, not of ionic currents. Integr Physiol Behav Sci. 1995 Sep-Dec;30(4):283-307 <https://pubmed.ncbi.nlm.nih.gov/8788226>`_

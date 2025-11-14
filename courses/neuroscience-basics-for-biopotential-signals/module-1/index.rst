@@ -1,9 +1,9 @@
-.. _module-2:
+.. _neuroscience-basics-for-biopotential-signals-module-1:
 
-Module 2: Human Nervous System
+Module 1: Human Nervous System
 ###############################
 
-2.1 Introduction
+1.1 Introduction
 ******************
 
 The Human nervous system consists of a brain, spinal cord, nerves and is one of the most complex and vital systems 
@@ -27,12 +27,12 @@ It is divided into two major parts:
 
     An overview of the nervous system
 
-2.2 Central Nervous System (CNS)
+1.2 Central Nervous System (CNS)
 ********************************
 
 The central nervous system (CNS) is the body’s command center and is made up of your brain and spinal cord. The brain is protected by the cranium (also known as skull) while your vertebrae protects your spinal cord.
 
-2.2.1 The Brain
+1.2.1 The Brain
 ================
 
 The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system. Structure of the brain can be divided into 3 major parts.
@@ -103,10 +103,10 @@ c. **Medulla:** At the bottom of the brainstem, the medulla is where the brain m
 
     Overview of the brainstem
 
-2.2.2 The Spinal Cord
+1.2.2 The Spinal Cord
 ======================
 
-The spinal cord begins at the base of the medulla and passes through a large opening at the bottom of the skull. Supported by the vertebrae, it serves as a communication highway between the brain and the rest of the body. This long, tubular structure transmits sensory information from the body to the brain and sends motor commands from the brain to the body. Additionally, it is responsible for reflex actions, which are quick and involuntary responses to stimuli.
+The spinal cord begins at the base of the medulla and passes through a large opening(foramen magnum) at the bottom of the skull. Supported by the vertebrae, it serves as a communication highway between the brain and the rest of the body. This long, tubular structure transmits sensory information from the body to the brain and sends motor commands from the brain to the body. Additionally, it is responsible for reflex actions, which are quick and involuntary responses to stimuli.
 
 .. todo:: The number of vertebrae is wrong, we have to update the image.
 
@@ -116,12 +116,12 @@ The spinal cord begins at the base of the medulla and passes through a large ope
 
     Spinal cord and vertebrae
 
-2.3 Peripheral Nervous System (PNS)
+1.3 Peripheral Nervous System (PNS)
 **************************************
 
 The Peripheral Nervous System connects the Central Nervous System to the rest of the body and is responsible for transmitting signals to and from various organs and tissues. It is divided into two major systems:
 
-2.3.1 Somatic Nervous System (SNS)
+1.3.1 Somatic Nervous System (SNS)
 =====================================
 
 The somatic nervous system controls voluntary movements and transmits sensory information to and from the central nervous system. It consists:
@@ -129,7 +129,7 @@ The somatic nervous system controls voluntary movements and transmits sensory in
 a. **Sensory Neurons (Afferent Neurons):** These neurons carry signals from sensory receptors (skin, muscles, joints) to the CNS, allowing us to perceive sensations like pain, temperature, and touch.
 b. **Motor Neurons (Efferent Neurons):** These neurons transmit commands from the CNS to the skeletal muscles, enabling voluntary movement such as walking, talking, and picking up objects.
 
-2.3.2 Autonomic Nervous System (ANS)
+1.3.2 Autonomic Nervous System (ANS)
 ======================================
 
 The autonomic nervous system controls involuntary physiological processes, such as heart rate, digestion, and respiratory rate. It operates without conscious control and is divided into two main parts:
@@ -137,16 +137,16 @@ The autonomic nervous system controls involuntary physiological processes, such 
 a. **Sympathetic Nervous System:** Known as the "fight or flight" system, it prepares the body for stress or emergency situations by increasing heart rate, dilating pupils, releasing adrenaline, and redirecting blood flow to muscles.
 b. **Parasympathetic Nervous System:** It does the opposite of the sympathetic nervous system. Often referred to as the "rest and digest" system, it promotes relaxation by slowing the heart rate, promoting digestion, and conserving energy after a stressful event.
 
-2.4 Neurons
+1.4 Neurons
 **************
 
 Neurons are the building blocks of the nervous system and are responsible for receiving and transmitting electrochemical signals throughout the body.
 
 .. admonition:: Fun Fact
     
-    - Our brain is made up of about 80 billion  neurons (that is 80,000,000,000).
+    - Our brain is made up of about 80 billion  neurons (100 trillion synaptic connections).
 
-2.4.1 Types of neurons
+1.4.1 Types of neurons
 =========================
 
 1. **Sensory Neurons:** Transmit sensory information (e.g., pain, temperature, pressure) from receptors to the CNS.
@@ -159,7 +159,7 @@ Neurons are the building blocks of the nervous system and are responsible for re
     :align: center
     :alt: types of neurons
 
-2.4.2 Structure of neuron
+1.4.2 Structure of neuron
 ============================
 
 .. figure:: ../media/parts-of-a-neuron.*
@@ -179,7 +179,103 @@ Neurons are the building blocks of the nervous system and are responsible for re
     
     There are axon-less neurons too where the signal is transmitted and received both by the dendrites.
 
-2.5 References
+1.5 Glial cells
 ******************
 
+Glial cells (or neuroglia) are non neuronal cells of the nervous system which provide structural support, nourishment and protection to the neurons. 
+
+1.5.1 Difference between neurons and glial cells
+====================================================
+
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| Features                      | Neurons                                         | Glial Cells                                         |   
++===============================+=================================================+=====================================================+
+| **Primary role**              | Communication via electrical & chemical signals | Support, protection, nourishment to neurons         |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Generate action potential** | Yes                                             | No                                                  |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Structure**                 | Dendrites, axon, synapses                       | No axon/dendrites                                   |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Division**                  | Divides rarely                                  | Can divide                                          |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Number**                    | Less                                            | More                                                |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Myelination**               | Receive myelin                                  | Produce myelin                                      |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Role in repair**            | Limited                                         | Active in repair (especially PNS)                   |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+| **Examples**                  | Motor neuron, sensory neuron, interneuron       | Astrocyte, oligodendrocyte, Schwann cell, microglia |
++-------------------------------+-------------------------------------------------+-----------------------------------------------------+
+
+1.5.2 Types of glial cells
+=============================
+
+.. todo:: Upload types of glial cells images
+
+1.5.2.1. Microglia
+---------------------
+
+Microglia are the small defense cells of the CNS.
+
+- Immune cells of the brain
+- Phagocytic in nature as they remove dead cells and pathogens
+- Activates during infection or injury
+- Releases inflammatory molecules when needed
+
+1.5.2.2. Macroglia
+----------------------
+
+Macroglia are the large supporting glial cells. Macroglia are of different types which are given below :
+
+a. Astrocytes
+^^^^^^^^^^^^^^^^^^
+
+- Star-shaped cells
+- Provide nutrients to neurons
+- Regulate ion balance, neurotransmitters (e.g., glutamate uptake)
+- Help in synapse formation
+- MOST ABUNDANT GLIAL CELLS IN CNS 
+
+b. Oligodendrocytes
+^^^^^^^^^^^^^^^^^^^^^
+
+- Produce myelin around multiple CNS axons
+- One oligodendrocyte can myelinate many axons
+- Increase speed of action potential conduction (saltatory conduction)
+
+c. In CNS
+^^^^^^^^^^^^^^
+
+1. **EPENDYMAL CELLS**
+   
+   - Line the ventricles of the brain and central canal of spinal cord
+   - Produce and circulate cerebrospinal fluid (CSF)
+   - Part of the choroid plexus
+
+d. In PNS
+^^^^^^^^^^^^
+
+1. **SCHWANN CELLS**
+
+   - Similar to oligodendrocytes
+   - Produce myelin in the peripheral nervous system 
+   - One Schwann cell myelinates only one segment of a single axon 
+
+2. **SATELLITE CELLS**
+
+   - Satellite cells in the PNS are glial cells that surround neuronal cell bodies in ganglia and regulate their chemical environment, providing support, protection, and metabolic assistance.
+
+1.6 Summary
+******************
+
+In this module, we learned the basic structure and organization of the human nervous system. We studied the CNS (brain and spinal cord) and PNS (somatic and autonomic divisions) and how they work together to control the body.
+We explored neurons - their types (sensory, motor, interneurons) and structure (dendrites, soma, axon, myelin, synapse) - as the primary cells that transmit electrical signals.
+
+We also learned about glial cells, the supporting cells of the nervous system, including astrocytes, oligodendrocytes, Schwann cells, microglia, ependymal cells, and satellite cells, and their essential roles in support, protection, and myelination.
+This module builds the foundation needed to understand how neurons create electrical signals, which will be covered in the next module on Resting Potential.
+
+1.7 References 
+*******************
+
 1. https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain
+2. https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/types-glia
