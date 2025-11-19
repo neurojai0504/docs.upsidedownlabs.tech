@@ -26,16 +26,17 @@ It is divided into two major parts:
     :alt: nervous system flowchart
 
     An overview of the nervous system
+**This overview is a simplified representation and does not show the full nervous system. You may refer to advanced textbook for further explanation.**
 
 1.2 Central Nervous System (CNS)
 ********************************
 
 The central nervous system (CNS) is the body’s command center and is made up of your brain and spinal cord. The brain is protected by the cranium (also known as skull) while your vertebrae protects your spinal cord.
 
-1.2.1 The Brain
-================
+1.2.1 The Brain(Encephalon)
+===============================
 
-The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system. Structure of the brain can be divided into 3 major parts.
+The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system. The structure of the brain can be divided into 3 major parts :
 
 .. figure:: ../media/parts-of-human-brain.*
     :align: center
@@ -45,7 +46,7 @@ The brain is the most complex organ which communicates with the body by sending 
 
 .. admonition:: Fun Fact
 
-    - Brain weighs about 3 pounds in the average adult and contains about 60% fat. The remaining 40% is a combination of water, protein, carbohydrates and salts. 
+    - The brain weighs about 3 pounds in the average adult and contains about 60% fat as its dry weight. The remaining 40% is a combination of water, protein, carbohydrates and salts. 
     - The brain itself is not a muscle. It contains blood vessels and nerves, including neurons and glial cells.
 
 Cerebrum
@@ -64,7 +65,7 @@ Cerebrum is the largest part of the brain  which can be divided into 2 hemispher
     - The right hemisphere controls the left side of the body, and the left hemisphere controls the right side of the body.
     - The two halves communicate with one another through a large C shaped structure called corpus callosum which is the center part of the cerebrum.
 
-Each hemisphere is further divided into four lobes:
+Each hemisphere is further divided into four major lobes:
    
 a. **Frontal lobe:** The largest brain lobe, situated at the front of the head, the frontal lobe is involved in personality characteristics, decision-making, movement, speech and smell.
 b. **Parietal lobe:** Located in the middle part of the brain, the parietal lobe helps a person identify objects and understand spatial relationships (where one’s body is compared with objects around the person). The parietal lobe is also involved in processing sensory information (touch, pain, temperature) and understanding spoken language.
@@ -80,7 +81,8 @@ d. **Occipital lobe:** Found at the back of the brain, the occipital lobe is pri
 Cerebellum
 -------------------
 
-The cerebellum (little brain) is a fist-sized portion of the brain located at the back of the head and above the brainstem. Its function is to coordinate voluntary muscle movements and to maintain posture, balance and equilibrium.
+The cerebellum (little brain) is a fist-sized portion of the brain located at the back of the head and above the brainstem. Its function is to coordinate voluntary muscle movements and to maintain posture, balance and equilibrium. The 2 hemispheres of cerebellum are connected by the vermis.
+
 
 .. figure:: ../media/parts-of-human-brain-1.*
     :align: center
@@ -95,13 +97,21 @@ The brainstem (middle of brain) connects the cerebrum to the spinal cord. The br
 
 a. **Midbrain:** Involved in motor control and auditory/visual processing.
 b. **Pons:** It is a connection between midbrain and medulla. It controls sleep, respiration, and some motor functions.
-c. **Medulla:** At the bottom of the brainstem, the medulla is where the brain meets the spinal cord. The medulla is crucial for survival, as it regulates vital bodily functions, including heart rate, breathing, blood circulation, and the balance of oxygen and carbon dioxide levels. It also controls reflexive actions such as sneezing, vomiting, coughing, and swallowing.
+c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where the brain meets the spinal cord. The medulla is crucial for survival, as it regulates vital bodily functions, including heart rate, breathing, blood circulation, and the balance of oxygen and carbon dioxide levels. It also controls reflexive actions such as sneezing, vomiting, coughing, and swallowing.
+
+.. todo:: oblongata spelling is wrong
 
 .. figure:: ../media/brainstem.*
     :align: center
     :alt: Brainstem
 
     Overview of the brainstem
+
+.. admonition:: Blood brain barrier (BBB) 
+
+ - It is a highly selective, protective barrier that separates the circulating blood from the brain and fluid in the central nervous system (CNS).
+ - It protects the brain from toxins, pathogens, and fluctuations in blood composition (e.g., hormones, neurotransmitters, potassium).
+ - Clinical importance: Many drugs can’t treat brain diseases because they can’t cross the BBB therefore, special methods are used such as lipid-soluble drugs, nanoparticles, or direct brain injections.
 
 1.2.2 The Spinal Cord
 ======================
@@ -144,14 +154,18 @@ Neurons are the building blocks of the nervous system and are responsible for re
 
 .. admonition:: Fun Fact
     
-    - Our brain is made up of about 80 billion  neurons (100 trillion synaptic connections).
+    - Our brain is made up of about 86 billion  neurons (100 trillion synaptic connections).
 
 1.4.1 Types of neurons
 =========================
 
+Based on Function
+------------------------
+ 
+
 1. **Sensory Neurons:** Transmit sensory information (e.g., pain, temperature, pressure) from receptors to the CNS.
-2. **Motor Neurons:** Carry commands from the CNS to muscles and glands, enabling actions like muscle contraction or hormone release. It is the most common type of neuron.
-3. **Interneurons:** These neurons are found in the CNS and act as connectors between sensory and motor neurons. They help process and integrate information.
+2. **Motor Neurons:** Carry commands from the CNS to muscles and glands, enabling actions like muscle contraction or hormone release.
+3. **Interneurons:** These neurons are found in the CNS and act as connectors between sensory and motor neurons. They help process and integrate information. It is the most common type of neuron.
 
 .. todo:: CORRECT INTERNEURON DIAGRAM
 
@@ -177,12 +191,12 @@ Neurons are the building blocks of the nervous system and are responsible for re
 
 .. admonition:: Fun fact
     
-    There are axon-less neurons too where the signal is transmitted and received both by the dendrites.
+    There are axon-less neurons too, where the signal is transmitted and received both by the dendrites.
 
 1.5 Glial cells
 ******************
 
-Glial cells (or neuroglia) are non neuronal cells of the nervous system which provide structural support, nourishment and protection to the neurons. 
+Glial cells (or neuroglia) are non-neuronal cells of the nervous system which provide structural support, nourishment and protection to the neurons. 
 
 1.5.1 Difference between neurons and glial cells
 ====================================================
@@ -208,12 +222,15 @@ Glial cells (or neuroglia) are non neuronal cells of the nervous system which pr
 +-------------------------------+-------------------------------------------------+-----------------------------------------------------+
 
 1.5.2 Types of glial cells
-=============================
+===============================
 
 .. todo:: Upload types of glial cells images
 
-1.5.2.1. Microglia
----------------------
+1.5.2.1 In Central nervous system
+-----------------------------------------
+
+1. Microglia
+^^^^^^^^^^^^^^^^^^^
 
 Microglia are the small defense cells of the CNS.
 
@@ -222,13 +239,13 @@ Microglia are the small defense cells of the CNS.
 - Activates during infection or injury
 - Releases inflammatory molecules when needed
 
-1.5.2.2. Macroglia
-----------------------
+2. Macroglia
+^^^^^^^^^^^^^^^^^^^
 
 Macroglia are the large supporting glial cells. Macroglia are of different types which are given below :
 
 a. Astrocytes
-^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""
 
 - Star-shaped cells
 - Provide nutrients to neurons
@@ -237,33 +254,33 @@ a. Astrocytes
 - MOST ABUNDANT GLIAL CELLS IN CNS 
 
 b. Oligodendrocytes
-^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""
 
 - Produce myelin around multiple CNS axons
 - One oligodendrocyte can myelinate many axons
 - Increase speed of action potential conduction (saltatory conduction)
 
-c. In CNS
-^^^^^^^^^^^^^^
+c. EPENDYMAL CELLS
+""""""""""""""""""""""""""
 
-1. **EPENDYMAL CELLS**
-   
-   - Line the ventricles of the brain and central canal of spinal cord
-   - Produce and circulate cerebrospinal fluid (CSF)
-   - Part of the choroid plexus
+- Line the ventricles of the brain and central canal of spinal cord
+- Produce and circulate cerebrospinal fluid (CSF)
+- Part of the choroid plexus
 
-d. In PNS
-^^^^^^^^^^^^
+1.5.2.2 In Peripheral nervous system
+----------------------------------------
 
-1. **SCHWANN CELLS**
+1. SCHWANN CELLS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   - Similar to oligodendrocytes
-   - Produce myelin in the peripheral nervous system 
-   - One Schwann cell myelinates only one segment of a single axon 
+- Similar to oligodendrocyte
+- Produce myelin in the peripheral nervous system 
+- One Schwann cell myelinates only one segment of a single axon 
 
-2. **SATELLITE CELLS**
+2. SATELLITE CELLS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   - Satellite cells in the PNS are glial cells that surround neuronal cell bodies in ganglia and regulate their chemical environment, providing support, protection, and metabolic assistance.
+- Satellite cells in the PNS are glial cells that surround neuronal cell bodies in ganglia and regulate their chemical environment, providing support, protection, and metabolic assistance.
 
 1.6 Summary
 ******************
@@ -278,4 +295,5 @@ This module builds the foundation needed to understand how neurons create electr
 *******************
 
 1. https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain
-2. https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/types-glia
+2. https://my.clevelandclinic.org/health/body/24931-blood-brain-barrier-bbb
+3. https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/types-glia 
