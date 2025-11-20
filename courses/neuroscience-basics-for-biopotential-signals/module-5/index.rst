@@ -68,7 +68,7 @@ There are 2 major types of receptors : **Ionotropic** and **Metabotropic** recep
 
 .. admonition:: Important fact 
 
-    - In developing nervous system, electrical synpase is more common. 
+    - In developing nervous system, electrical synapse is more common. 
     - In developed nervous system, chemical synapse is more common.  
 
 5.2 EPSPs and IPSPs [2]_
