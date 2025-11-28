@@ -67,8 +67,8 @@ potentials.
 -------------------------------------------
 
 Since these signals are extremely weak (measured in microvolts), they are first amplified to make them readable. Then, unwanted
-noise-like movement disturbances or interference from other body signals such as the heart-is filtered out to ensure the 
-recorded data is clean and accurate. 
+noise-like movement disturbances or interference from other body signals, such as cardiac signals, is filtered out to ensure the 
+recorded data is clean and accurate.
 
 7.4 Key Components of a sEMG System
 =======================================
