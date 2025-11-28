@@ -177,33 +177,38 @@ quality.
 6.3 Basic electrode configuration
 ********************************************
 
-- Most biological recording systems use an **instrumentation amplifier**. 
-- An **instrumentation amplifier** (In-Amp) for biomedical devices is a high-gain, amplifier designed to 
-  extract a weak biological signal (the instrumentation voltage) while rejecting high levels of unwanted noise (the common-mode
-  voltage).
+
 
 6.3.1 What do IN+, IN-, and REF mean?
-==============================================
+=======================================
+
+.. note:: IN+ & IN- are two inputs of a special amplifier used by most biological recording systems, it's called an **instrumentation amplifier**. An **instrumentation amplifier** (In-Amp) for biomedical devices is a high-gain, amplifier designed to 
+    extract a weak biological signal (the instrumentation voltage) while rejecting high levels of unwanted noise (the common-mode voltage).
 
 IN+ (Non-inverting input)
 -----------------------------
+
 - Positive input of the instrumentation amplifier
 - Placed directly on or very close to the tissue that generates the signal (muscle, heart, forehead, eye, etc.)
 - If the voltage here increases, the amplifier output increases.
 
 IN- (Inverting input) 
 -------------------------
+
 - Negative input of the instrumentation amplifier
 - Placed 2-10 cm away from IN+ (same muscle, same general area) OR on the opposite side (e.g., for EOG/ECG)
 - If the voltage here increases, the amplifier output decreases (it is inverted).
 
-REF (Reference or Ground electrode)
+REF (Mid-supply or DRL)
 ----------------------------------------
+
 - Placed at a neutral, electrically silent site.
 - Placed on bony area far from the signal source (elbow, wrist bone, ankle)
 - Removes common noise like 50/60 Hz noise that appears on both IN+ and IN- .
 
-**For better signal acquisition guide, refer:** :ref:`Tips for best signal acquisition<tips-for-best-signal-acquisition>`
+.. tip:: For better signal acquisition guide, refer: :ref:`Tips for best signal acquisition<tips-for-best-signal-acquisition>`
+
+.. note:: For some system REF can mean common negative or ground electrode, for BioAmp we use REF to denote mid-supply electrode which is same as BIAS on other systems.
 
 6.4 Summary 
 ********************
@@ -217,7 +222,7 @@ friendly BioAmp hardwares and open source softwares.
 
 
 6.5 References
-***************************
+***************
 
 .. [1] `Chapter 10: Biopotential Signals. <https://alanmacy.com/books/the-handbook-of-human-physiological-recording/chapter-10-biopotential-signals/>`_
 
