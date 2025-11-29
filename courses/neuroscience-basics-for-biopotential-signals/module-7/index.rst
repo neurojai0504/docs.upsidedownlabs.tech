@@ -104,7 +104,7 @@ only with 5v so you should use Arduino UNO.
 
 .. admonition:: Note
 
-    **We recommend to use Arduino for best compatibility and high ADC resolution of 14-bits.**
+    **We recommend using Arduino UNO R4 Minima for the best compatibility and high ADC resolution of 14 bits.**
 
 7.4.4 Software for Signal Processing
 --------------------------------------
