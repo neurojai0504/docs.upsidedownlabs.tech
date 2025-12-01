@@ -30,8 +30,8 @@ about the function of the **neuromuscular junction (NMJ)**, the site where nerve
 does not directly measure the activity at the NMJ, it can provide indirect insights into the functioning of this critical site
 through the electrical activity it detects in muscles. 
 
-**EMG frequency range**: The EMG signal ranges from **0 to 500 Hz** in frequency, but most of its useful energy is concentrated 
-between **50 and 150 Hz**. [1]_
+**EMG frequency range**: The EMG signal ranges from **10 to 500 Hz** in frequency, but most of its useful energy is concentrated 
+between **50 and 150 Hz**.
 
 7.2 Basic principle 
 =============================
@@ -259,11 +259,6 @@ are highlighted below:
 ===============
 
 In this module, we studied the basics of EMG, its terminology, and focused on Surface EMG (sEMG) as a non-invasive method to measure muscle electrical activity. We learned how sEMG works, including electrode placement, signal detection, amplification, and processing. This module discussed its major applications in clinical diagnosis, sports, rehabilitation, prosthetics, and robotics, along with advantages like real-time feedback and non-invasiveness. We also covered limitations such as crosstalk, movement artifacts, and inability to detect deep muscles, and highlighted its potential in future biomedical and technological innovations.
-
-7.9 References
-=======================
-
-.. [1] `EMG frequency spectrum. <https://www.researchgate.net/figure/Frequency-spectrum-of-EMG-signal_fig2_232905752>`_
 
 
 
