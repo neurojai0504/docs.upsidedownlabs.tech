@@ -42,7 +42,7 @@ b. Mechanism
 - These neurotransmitters bind to specific receptors on the postsynaptic membrane, leading to changes in the postsynaptic neuron (either excitatory or inhibitory).
 - Slow in comparison to electrical synapse and unidirectional .
 
-.. admonition:: Note
+.. Note:: 
    
    - For a very long time, scientists believed that electrical synapse is present in whole nervous system (DEVELOPED) but in reality it was chemical synapse which is more common.  
    - As the axon of the presynaptic neuron gets closer to the synapse, it balloons out a little bit and this region is known as presynaptic terminal.

@@ -112,7 +112,7 @@ Use gentle, circular motions to rub the gel on the skin surface. This removes al
 
     Rub the gel gently using the cotton swab
 
-.. admonition:: Warning 
+.. Warning:: 
 
     Do not rub the gel for too long as it has abrasive properties and may cause skin redness and 
     irritation.
@@ -127,7 +127,7 @@ Wipe away excess gel with alcohol swabs or wet wipes.
 
     Wipe away excess gel
 
-.. admonition:: Warning 
+.. Warning::
 
     - Using alcohol swabs can dry out the skin, so do not use them if your skin is already dry.
     - Close your eyes while using the alcohol swabs for EOG recording else it may cause eye redness & irritation.
@@ -147,7 +147,7 @@ according to your specific biopotential recording.
 
     Placing gel electrodes on skin surface
 
-.. admonition:: NOTE
+.. Note::
 
     While placing the gel electrodes on the skin, make sure to place the non-sticky tab of the electrode in the direction
     opposite to your hair growth. This allows you to remove the electrodes easily without pulling off much body hair.
