@@ -9,7 +9,7 @@ Module 7: EMG
   2. **Electromyograph** : Device used to measure the electrical activity of the muscle. 
   3. **Electromyogram** : Graphical representation of the electrical activity of the muscle.
 
-- **If you want to know detailed history of EMG, you can refer this section:** `History of EMG <https://www.jalimedical.com/CC01132024>`_
+- **If you want to know detailed history of EMG, you can refer to this section:** `History of EMG <https://www.jalimedical.com/CC01132024>`_
 
 - **Types of EMG**: There are many different types of EMG . The main two types are 
 
@@ -89,7 +89,7 @@ of our development board can digitize the small bio-potential signals from the b
 
 - :ref:`Neuro PlayGround Lite <neuro-play-ground-lite>`
 - :ref:`Bioamp EXG Pill <bioamp-exg-pill>`
-- :ref:`Muscle Bioamp Candy <heart-bioamp-candy>`
+- :ref:`Heart Bioamp Candy <heart-bioamp-candy>`
 - :ref:`Muscle Bioamp Patchy <muscle-bioamp-patchy>`
 - :ref:`Muscle Bioamp Blip <muscle-bioamp-blip>`
 - :ref:`Muscle Bioamp BisCute <muscle-bioamp-biscute>`
