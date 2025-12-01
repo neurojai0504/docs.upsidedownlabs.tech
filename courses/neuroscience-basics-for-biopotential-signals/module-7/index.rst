@@ -109,10 +109,7 @@ only with 5v so you should use Arduino UNO.
 7.4.4 Software for Signal Processing
 --------------------------------------
 
-The software allows for the filtering of unnecessary noise, data analysis, and visualization. Advanced analysis might include 
-frequency analysis (such as power spectral density), amplitude measurement, or muscle fatigue assessment.
-
-We have our own **open source** :ref:`Chords <upsidedownlabs_software_home>` software suite for signal visualisation.
+We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` software suite, featuring tools for signal visualization, data recording (with easy save and download options), time-based plotting, and a host of other benefits—such as analyzing signal frequencies and bandpower.
 
 7.5 Applications of sEMG
 =============================
