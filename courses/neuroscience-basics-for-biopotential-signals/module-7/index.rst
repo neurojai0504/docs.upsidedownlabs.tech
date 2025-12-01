@@ -50,7 +50,7 @@ In surface EMG, small sensors called electrodes are placed on the skin directly 
 usually pre-gelled  `(Gel electrodes) <https://store.upsidedownlabs.tech/?s=gel+electrodes&post_type=product>`_ or dry 
 electrodes `(BioAmp bands) <https://store.upsidedownlabs.tech/?s=bioamp+band&post_type=product>`_  which stick to the skin and don’t always require gel. 
 
-.. Note::
+.. note::
 
     To know more about electrodes please refer the following link :
     
@@ -102,7 +102,7 @@ After amplification, the signals are digitized for analysis. We use different ty
 Arduino UNO R4 Minima/WiFi, Raspberry Pi Pico, etc. Some BioAmps like BioAmp EXG Pill and Muscle BioAmp Patchy are compatible  
 only with 5v so you should use Arduino UNO. 
 
-.. Note:: 
+.. note:: 
 
     **We recommend using Arduino UNO R4 Minima for the best compatibility and high ADC resolution of 14 bits.**
 
