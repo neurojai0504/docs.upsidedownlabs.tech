@@ -256,8 +256,3 @@ are highlighted below:
 ===============
 
 In this module, we studied the basics of EMG, its terminology, and focused on Surface EMG (sEMG) as a non-invasive method to measure muscle electrical activity. We learned how sEMG works, including electrode placement, signal detection, amplification, and processing. This module discussed its major applications in clinical diagnosis, sports, rehabilitation, prosthetics, and robotics, along with advantages like real-time feedback and non-invasiveness. We also covered limitations such as crosstalk, movement artifacts, and inability to detect deep muscles, and highlighted its potential in future biomedical and technological innovations.
-
-
-
-
-
