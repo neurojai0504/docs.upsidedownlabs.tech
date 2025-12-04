@@ -152,7 +152,7 @@ Select Your Kit
 
 .. only:: html
 
-   .. grid:: 3 3 3 3
+   .. grid:: 1 1 3 3
       :margin: 3 3 3 3 
       :gutter: 2
 
