@@ -152,8 +152,8 @@ Select Your Kit
 
 .. only:: html
 
-   .. grid:: 3 2 2 3
-      :margin: 3 3 1 3 
+   .. grid:: 3 3 3 3
+      :margin: 3 3 3 3 
       :gutter: 2
 
       .. grid-item-card:: NPG Lite - Explorer Pack 
