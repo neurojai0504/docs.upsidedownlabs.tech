@@ -47,14 +47,14 @@ When groups of neurons in the brain fire synchronously, they generate tiny elect
 9.3.3 Signal Amplification and Filtering
 ==================================================
 
-Since these signals are extremely weak (measured in microvolts), they are first amplified to make them readable. Then, unwanted noise—like eye blinks, muscle artifacts, or 50/60 Hz power line interference—is filtered out to ensure the recorded data is clean and accurate.
+Since these signals are extremely weak (measured in microvolts), they are first amplified to make them readable. Then, unwanted noise-like eye blinks, muscle artifacts, or 50/60 Hz power line interference-is filtered out to ensure the recorded data is clean and accurate.
 
 **Upside Down Labs Hardware compatible with EEG signal acquisition and processing:**
 
 - :ref:`Neuro PlayGround Lite <neuro-play-ground-lite>`
 - :ref:`Bioamp EXG Pill <bioamp-exg-pill>`
 
-We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` software suite, featuring tools for signal visualization, data recording (with easy save and download options), time-based plotting, and a host of other benefits—such as analyzing signal frequencies and bandpower.
+We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` software suite, featuring tools for signal visualization, data recording (with easy save and download options), time-based plotting, and a host of other benefits-such as analyzing signal frequencies and bandpower.
 
 9.4 Key components of EEG
 ***********************************
@@ -77,34 +77,34 @@ In some advanced setups, additional electrodes are placed for more detailed spat
 9.4.2 Characteristics of different EEG waves types 
 ==========================================================
 
- 1. **Delta waves**
+1. **Delta waves**
 
- - Low frequency, high amplitude waves
- - Frequency range : 0.5 - 4 Hz
- - Associated with deep sleep (Non Rapid Eye Movement) stage 3 & 4 in adults
+   - Low frequency, high amplitude waves
+   - Frequency range : 0.5 - 4 Hz
+   - Associated with deep sleep (Non Rapid Eye Movement) stage 3 & 4 in adults
 
- 2. **Theta waves**
+2. **Theta waves**
 
- - Frequency range : 4-7 Hz
- - Associated with drowsiness and early sleep stages
+   - Frequency range : 4-7 Hz
+   - Associated with drowsiness and early sleep stages
 
- 3. **Alpha waves**
+3. **Alpha waves**
 
- - Frequency range : 8-12 Hz
- - Associated with relaxed wakefulness, particularly when a person is awake but calm and not focused on specific tasks. 
- - Alpha waves are most prominent when the eyes are closed.
+   - Frequency range : 8-12 Hz
+   - Associated with relaxed wakefulness, particularly when a person is awake but calm and not focused on specific tasks. 
+   - Alpha waves are most prominent when the eyes are closed.
 
- 4. **Beta waves**
+4. **Beta waves**
 
- - Frequency range : 13-30 Hz
- - Most common EEG pattern seen in awake, alert adults and children
- - Abnormal beta patterns can indicate neurological dysfunction such as in Parkinson’s disease.
+   - Frequency range : 13-30 Hz
+   - Most common EEG pattern seen in awake, alert adults and children
+   - Abnormal beta patterns can indicate neurological dysfunction such as in Parkinson’s disease.
 
- 5. **Gamma waves** 
-   
- - Frequency range : 30-80 Hz
- - Associated with higher mental activity, cognitive processing, and information integration. 
- - They are often seen in tasks requiring concentration and problem-solving. 
+5. **Gamma waves** 
+
+   - Frequency range : 30-80 Hz
+   - Associated with higher mental activity, cognitive processing, and information integration. 
+   - They are often seen in tasks requiring concentration and problem-solving. 
 
 9.5 Applications of EEG 
 ********************************
