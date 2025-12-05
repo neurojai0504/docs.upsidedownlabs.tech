@@ -199,6 +199,10 @@ are highlighted below:
 
 EEG is a non-invasive technique that records the brain’s electrical activity using scalp electrodes. It helps diagnose conditions such as epilepsy, sleep disorders, and psychiatric illnesses, and is also used in cognitive research and brain computer interfaces. Although it has limitations like poor spatial resolution and susceptibility to noise, EEG remains highly valuable due to its real-time monitoring capability and excellent temporal precision.
 
+.. warning::
+
+    **This content is provided solely for learning purposes only. Always seek medical advice from a healthcare expert for clinical application.**
+
 9.9 References
 ************************
 
