@@ -21,9 +21,8 @@ EEG is a non-invasive medical test that records the electrical activity of the b
 1. Delta waves : 0.5-4 Hz
 2. Theta waves : 4-7 Hz
 3. Alpha waves : 8-12 Hz
-4. Sigma waves : 12-16 Hz
-5. Beta waves : 13-30 Hz
-6. Gamma waves : 30-80 Hz
+4. Beta waves : 13-30 Hz
+5. Gamma waves : 30-80 Hz
 
 9.2 Basic principle
 *******************************
