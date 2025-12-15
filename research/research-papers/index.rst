@@ -7,7 +7,6 @@ Below is a list of research papers that have used BioAmp hardware for their rese
 
 .. tab-set::
 
-    
     .. tab-item:: 2025
 
         .. _EOG-Assist Real-Time EOG-Based Eye Tracking for Assistive Systems: https://ieeexplore.ieee.org/abstract/document/10821594
@@ -43,8 +42,6 @@ Below is a list of research papers that have used BioAmp hardware for their rese
         .. _VisionGrip Revolutionizing Motor Functionality in Carpal Tunnel Syndrome and Radial Nerve Palsy Patients Through EOG-Controlled Robotic Claw: https://link.springer.com/chapter/10.1007/978-981-96-7249-3_29
         .. _IoT-Based Health Monitoring System Using Four in One Electrogram Sensor: https://link.springer.com/chapter/10.1007/978-3-032-06697-8_30
         .. _Interactive Platform for Hand Motor Rehabilitation Using Electromyography and Optical Tracking: https://www.mdpi.com/2076-3417/15/23/12434
-
-
 
         +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
         | Title                                                                                                                                                                                 | Authors                                                                                                                                                                            | University of authors                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -116,7 +113,6 @@ Below is a list of research papers that have used BioAmp hardware for their rese
         | `Interactive Platform for Hand Motor Rehabilitation Using Electromyography and Optical Tracking`_                                                                                     | Luz A. Garcia-Villalba, Alma G. Rodríguez-Ramírez, Luis A. Rodríguez-Picón, Luis Carlos Méndez-González and Shaban Mousavi Ghasemlou                                               | Autonomous University of Ciudad Juarez, Chihuahua , Mexico                                                                                                                                                                                                                                                                                                                                                                                                                                |
         +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
         
-    
     .. tab-item:: 2024
 
         .. _Classification of obstructive sleep apnea using bio-control feedback EEG biosensor device: https://doi.org/10.60087/jklst.v3.n4.p247
@@ -142,8 +138,6 @@ Below is a list of research papers that have used BioAmp hardware for their rese
         .. _Revolutionizing Neurological Diagnosis Innovations in ErrP for Enhanced Detection: https://ieeexplore.ieee.org/abstract/document/10779962
         .. _End-to-End Processing-on-Chip Wearable Ear EEG Device with Tiny Neural Network for Multilevel Stress Detection: https://ieeexplore.ieee.org/abstract/document/10785105 
         .. _Neural Stress Mapping with Machine Learning from EEG Data: https://link.springer.com/chapter/10.1007/978-3-031-74682-6_5
-
-    
 
         +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
         | Title                                                                                                                                                                                 | Authors                                                                                                                                     | University of authors                                                                                                                                                    |
@@ -194,8 +188,6 @@ Below is a list of research papers that have used BioAmp hardware for their rese
         +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
         | `Neural Stress Mapping with Machine Learning from EEG Data`_                                                                                                                          | Meenakshi Raghupathy, Sakshi Salunkhe, Shweta Dhende, Kishor Bhangale, Dipali Dhake                                                         | Pimpri Chinchwad College of Engineering and Research, Ravet, Pune, India                                                                                                 |    
         +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-                                                                                                                                                
-        
         
     .. tab-item:: 2023
 
@@ -237,6 +229,5 @@ Below is a list of research papers that have used BioAmp hardware for their rese
         +===============================================================================+================================================================+===========================+
         | `Development of Low-Cost Biosignal Acquisition System for ECG, EMG, and EOG`_ | Hassanein Riyadh Mahmood, Manaf K. Hussein, Riyadh A. Abedraba | University of Wasit, Iraq |
         +-------------------------------------------------------------------------------+----------------------------------------------------------------+---------------------------+
-
 
 .. note:: Published your own research paper using BioAmp hardware? Send it to us at contact@upsidedownlabs.tech and we will add it to the list!
