@@ -641,7 +641,7 @@ Overview
 
 The **EOG Morse Decoder** is a Python-based application that enables users to input Morse code using eye movements detected via Electrooculography (EOG) signals. By moving your eyes left or right, you can generate dots and dashes, and by performing double or triple blinks, you can send characters or backspace. This application is ideal for hands-free communication and accessibility research.
 
-.. figure:: ./media/morse-decoder.*
+.. figure:: ./media/morse_decoder.png
    :align: center
    :alt: Morse Decoder
 
@@ -699,6 +699,12 @@ Proper electrode placement is crucial for accurate EOG signal detection. The tab
    - Channel 1 (A0P/A0N) detects vertical eye movements for blink detection
    - Channel 2 (A1P/A1N) detects horizontal eye movements for left/right detection
    - Proper skin preparation and electrode contact quality are essential for optimal performance
+
+.. figure:: ./media/morse-Code_electrode_placement.jpg
+   :align: center
+   :alt: Electrode Placement Diagram
+
+   Electrode Placement Diagram
 
 How It Works
 ------------
