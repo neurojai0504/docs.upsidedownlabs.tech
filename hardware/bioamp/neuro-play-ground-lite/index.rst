@@ -1,7 +1,7 @@
 .. _neuro-play-ground-lite:
 
 Neuro PlayGround (NPG) Lite
-############################
+#############################
 
 **An expandable 3-channel wireless BioAmp for HCI & BCI**
 
@@ -10,11 +10,13 @@ Neuro PlayGround (NPG) Lite
     :align: center
     :alt: NPG Lite Crowd Supply Banner
 
-
 Overview
 *********
 
-Neuro PlayGround Lite (NPG Lite) is a multichannel Adafruit feather form-factor wireless bio-physiological signal acquisition board. 
+.. youtube:: 9ZnYd7bmcgY
+    :align: center
+
+**Neuro PlayGround Lite (NPG Lite)** is a multichannel Adafruit feather form-factor wireless bio-physiological signal acquisition board. 
 It can be used for Electrocardiography (ECG), Electromyography (EMG), 
 Electrooculography (EOG), or Electroencephalography (EEG). Its compact footprint and hassle-free setup ensure 
 portability, quick deployment and a clutter-free experience, making it ideal for research, education and 
@@ -22,20 +24,24 @@ wearable applications.
 
 .. figure:: media/npg-lite-front-back.*
     :align: center
-    :alt: Neuro Play Ground (NPG) Lite
+    :alt: Neuro PlayGround (NPG) Lite
 
-    Neuro Play Ground (NPG) Lite
+    Neuro PlayGround (NPG) Lite
 
-With the addition of Playmate boards and 3rd party FeatherWing boards,
+With the addition of **NPG Playmate Boards** and 3rd party FeatherWing boards,
 users can easily enhance the device’s capabilities, enabling them
 to create awesome Human-Computer Interface (HCI) and Brain-Computer Interface (BCI) applications.
 Its extensive compatibility lets you equip your device with features like a vibration motor for 
 haptic feedback, a buzzer for audio feedback, and I2C connectivity, making it highly versatile for a 
 wide range of applications. 
 
-It leverages our powerful open source, cross-platform Chords software suite 
-(:ref:`Chords-Web<chords>`, :ref:`Chords-Python<chords-pythons>`, :ref:`Chords LSL Connector<chords-lsl-connector>` and :ref:`NPG Lite Flasher<npg-lite-flasher>`), 
-letting users visualize  captured bio-physiological signals in real-time, apply filtering, perform FFT analysis, and much, much, more. 
+It leverages our powerful open source, cross-platform **Chords software suite**
+(:ref:`Chords-Web<chords>`, :ref:`Chords-Python<chords-pythons>`, :ref:`Chords LSL Connector<chords-lsl-connector>` and :ref:`Chords LSL Visualizer<chords-lsl-visualizer>`), 
+letting users visualize captured bio-physiological signals in real-time, apply filtering, perform FFT analysis, and much more. 
+To simplify the process to **flash your NPG Lite board** we have also created a dedicated flasher 
+tool called :ref:`NPG Lite Flasher<npg-lite-flasher>`, it allows you to download pre-build firmware binaries from GitHub 
+and you can flash your own binary files as well.
+ 
 Because of its expandability, wide array of applications, and robust networking capabilities 
 (using Bluetooth, Zigbee, Wi-Fi, or Thread for mesh networking), NPG Lite lets you capture bio-physiological 
 signals how you want and where you want it.
@@ -49,33 +55,37 @@ signals how you want and where you want it.
 Features & Specifications
 **************************
 
-+--------------------------+----------------------------------------------------------------------+
-| **Feature**              | **Details**                                                          |
-+==========================+======================================================================+
-| Bio-signal channels      | 3-channel BioAmp (ECG, EMG, EOG, EEG)                                |
-+--------------------------+----------------------------------------------------------------------+
-| Microcontroller          | ESP32-C6 (RISC-V) with 8 MB flash                                    |
-+--------------------------+----------------------------------------------------------------------+
-| Wireless I/O             | Wi-Fi, Bluetooth LE, Thread, Zigbee                                  |
-+--------------------------+----------------------------------------------------------------------+
-| USB & Programming        | USB-C for power, charging & programming; UART, JTAG                  |
-+--------------------------+----------------------------------------------------------------------+
-| LEDs                     | 6 addressable RGB LEDs, User LED, Charging indicator LED             |
-+--------------------------+----------------------------------------------------------------------+
-| Buttons                  | Reset button + User/Boot buttons                                     |
-+--------------------------+----------------------------------------------------------------------+
-| Power Options            | USB-C or LiPo battery                                                |
-+--------------------------+----------------------------------------------------------------------+
-| Power Regulation         | 600 mA LDO with LiPo battery charging onboard                        |
-+--------------------------+----------------------------------------------------------------------+
-| Battery Connector        | PicoBlade LiPo                                                       |
-+--------------------------+----------------------------------------------------------------------+
-| Form Factor              | Standard Adafruit Feather (GPIO, Power, RX/TX pins)                  |
-+--------------------------+----------------------------------------------------------------------+
-| Protection               | On-board patient & USB ESD protection                                |
-+--------------------------+----------------------------------------------------------------------+
-| Compatible hardware      | NPG Playmates & FeatherWing boards                                   |
-+--------------------------+----------------------------------------------------------------------+
++---------------------+----------------------------------------------------------+
+| **Feature**         | **Details**                                              |
++=====================+==========================================================+
+| Bio-signal channels | 3-6 Channel BioAmp (ECG, EMG, EOG, EEG)                  |
++---------------------+----------------------------------------------------------+
+| Microcontroller     | ESP32-C6 (RISC-V) with 4 MB Flash                        |
++---------------------+----------------------------------------------------------+
+| Biopotential(s)     | EXG                                                      |
++---------------------+----------------------------------------------------------+
+| ADC Resolution      | 12 Bit                                                   |
++---------------------+----------------------------------------------------------+
+| Wireless I/O        | Wi-Fi 6, Bluetooth LE 5, Thread, Zigbee                  |
++---------------------+----------------------------------------------------------+
+| USB & Programming   | USB-C for power, charging & programming; UART, JTAG      |
++---------------------+----------------------------------------------------------+
+| LEDs                | 6 addressable RGB LEDs, User LED, Charging indicator LED |
++---------------------+----------------------------------------------------------+
+| Buttons             | Reset button + User/Boot Buttons                         |
++---------------------+----------------------------------------------------------+
+| Power Options       | USB-C or LiPo battery                                    |
++---------------------+----------------------------------------------------------+
+| Power Regulation    | 600 mA LDO with LiPo battery charging onboard            |
++---------------------+----------------------------------------------------------+
+| Battery Connector   | PicoBlade LiPo                                           |
++---------------------+----------------------------------------------------------+
+| Form Factor         | Standard Adafruit Feather (GPIO, Power, RX/TX pins)      |
++---------------------+----------------------------------------------------------+
+| Protection          | On-board patient & USB ESD protection                    |
++---------------------+----------------------------------------------------------+
+| Compatible Hardware | NPG Playmates & FeatherWing boards & QWIIC               |
++---------------------+----------------------------------------------------------+
 
 
 Board Layout & Pinout Diagram
@@ -83,88 +93,151 @@ Board Layout & Pinout Diagram
 
 .. figure:: media/npg-lite-annotated.*
     :align: center
-    :alt: Neuro Play Ground (NPG) Lite annotations
+    :alt: Neuro PlayGround (NPG) Lite annotations
 
-    Neuro Play Ground (NPG) Lite annotations
+    Neuro PlayGround (NPG) Lite annotations
 
 .. figure:: media/npg-lite-pinout.*
     :align: center
-    :alt: Neuro Play Ground (NPG) Lite Pinout
+    :alt: Neuro PlayGround (NPG) Lite Pinout
 
-    Neuro Play Ground (NPG) Lite Pinout
+    Neuro PlayGround (NPG) Lite Pinout
+
+Components
+************
+
+.. figure:: media/npg-lite-components.*
+    :align: center
+    :width: 80%
+    :alt: Neuro PlayGround (NPG) Lite Components
+
+    Neuro PlayGround (NPG) Lite Components
+
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Number | Components                 | Description                                                                                                                                                       |
++========+============================+===================================================================================================================================================================+
+| 1      | **ESP32-C6**               | The ESP32-C6 is a Wi-Fi 6 and Bluetooth 5 (LE) enabled microcontroller developed by Espressif Systems.                                                            |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2      | **Antenna**                | The onboard PCB antenna is tuned for 2.4GHz, ensuring strong, stable Wi-Fi and Bluetooth connectivity with low power use.                                         |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3      | **6 Addressable RGB LEDs** | Enables visualization of device states, signal strength, or neural feedback using dynamic color indicators.                                                       |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4      | **User ESD Protection**    | ESD protection components, ensuring durability and reliability when connecting electrodes.                                                                        |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5      | **BioAmp**                 | The onboard BioAmp is a low-noise, high-gain biopotential amplifier that captures and amplifies EMG, ECG, and EEG signals for digital processing by the ESP32-C6. |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6      | **Boot/User Button**       | The Boot/User button enables bootloader mode for firmware flashing and serves as a programmable user input.                                                       |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7      | **600mA LDO**              | The voltage regulator converts higher input voltages (USB or battery) into a stable 3.3V output.                                                                  |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8      | **Battery Connector**      | It offers a safe, port for battery power, allowing portable operation of the board. **Note:** There is no polarity protection.                                    |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9      | **LiPo Charging**          | The integrated LiPo charging controller safely manages charging cycles, supporting automatic termination and trickle charging for optimal battery health.         |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10     | **USB ESD Protection**     | USB ESD protection shields the interface from electrostatic and voltage spikes, ensuring reliable data transfer and preventing component damage.                  |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 11     | **Reset Button**           | The reset button restarts the microcontroller and running program without power loss, aiding debugging and firmware testing.                                      |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12     | **Charging LED**           | The Charging LED indicates battery charging status, lighting during charging and turning off when fully charged for immediate feedback.                           |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 13     | **USB C**                  | USB C port for data transfer and power input.                                                                                                                     |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 14     | **User LED**               | A programmable LED on a GPIO pin used to show board activity, connection status, or custom signals during development.                                            |
++--------+----------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Select Your Kit
+*******************
+
+**Identify your kit from the three options below, then let’s walk through the setup and kit usage guide:**
+
+.. only:: html
+
+   .. grid:: 1 1 3 3
+      :margin: 3 3 3 3 
+      :gutter: 2
+
+      .. grid-item-card:: NPG Lite - Explorer Pack 
+         :text-align: center
+         :link: npg-lite-explorer
+         :img-top: ../../../kits/npg-lite-kits/npg-lite-explorer/media/npg-lite-explorer-box.*
+         :img-alt: NPG Lite Explorer Box
+         :link-type: ref
+
+      .. grid-item-card:: NPG Lite - Ninja Pack 
+         :text-align: center
+         :link: npg-lite-ninja
+         :img-top: ../../../kits/npg-lite-kits/npg-lite-ninja/media/npg-lite-ninja-box.*
+         :img-alt: NPG Lite Ninja Box
+         :link-type: ref
+
+      .. grid-item-card:: NPG Lite - Beast Pack 
+         :text-align: center
+         :link: npg-lite-beast
+         :img-top: ../../../kits/npg-lite-kits/npg-lite-beast/media/npg-lite-beast-box.*
+         :img-alt: NPG Lite Beast Box
+         :link-type: ref
 
 Playmates
 **********
 
 Playmates are modular expansion boards designed to enhance the functionality of Neuro PlayGround (NPG) Lite. These add-ons seamlessly integrate with the core system, allowing users to extend their capabilities to create awesome Human-Computer Interface (HCI) & Brain-Computer Interface (BCI).
 
-NPG VibZ Playmate
-===================
+.. figure:: media/npg-playmates-grouped.*
+    :align: center
+    :alt: Neuro PlayGround (NPG) Lite Playmates
 
-VibZ Playmate introduces a vibration motor for haptic feedback, a buzzer for auditory feedback, a QWIIC port for easy I2C sensor integration, an ON/OFF slide switch, 2.54 mm electrode header pins
+    Neuro PlayGround (NPG) Lite Playmates
+
+1. NPG Proto Playmate
+======================
+
+**Proto Playmate** offers a flexible prototyping space with a dedicated area for adding your own components or 
+circuits. It includes a QWIIC port for quick sensor integration, 2.54 mm electrode header pins, 
+an ON/OFF slide switch, and a connector interface for electrodes. By combining electrodes with custom electronics, 
+users can rapidly prototype biosignal-driven experiments, build add-on circuits, or test new designs without needing a separate breadboard.
+
+2. NPG VibZ Playmate
+=====================
+
+**VibZ Playmate** introduces a vibration motor for haptic feedback, a buzzer for auditory feedback, a QWIIC port for easy I2C sensor integration, an ON/OFF slide switch, 2.54 mm electrode header pins
 and common negative electrode option. With these Playmates, users can customize their setup for specific applications, whether in research, education, or 
 interactive biofeedback experiments. This modular approach ensures flexibility, scalability, and better user experience.
 
-.. figure:: media/vibz-playmate-front-and-back.*
+3. NPG VibZ+ Playmate
+======================
+
+**VibZ+ Playmate** builds on the VibZ by including an additional 3-channel BioAmp, making it possible to record 
+and visualize up to 6 Biosignal channels simultaneously. It retains the vibration motor for haptic feedback, 
+buzzer for auditory cues, ON/OFF slide switch, QWIIC port, and electrode connector interface. 
+This makes VibZ+ ideal for experiments where higher-resolution input or greater spatial coverage is essential, 
+such as multi-channel EEG, EMG, or complex biofeedback applications.
+
+Usage Guide
+************
+
+To help you get started quickly, we’ve prepared a step-by-step video tutorial.  
+This guide walks you through setup, connections, and running your experiments with the Neuro PlayGround Lite.  
+
+.. youtube:: hBrbw9vF-m4
     :align: center
-    :alt: Neuro Play Ground (NPG) Vibz Playmate
 
-    Neuro Play Ground (NPG) Vibz Playmate
+.. admonition:: Troubleshooting
 
+   Having trouble connecting your **NPG Device** with :ref:`Chords Web <chords>`?
+
+   If you try to connect the device and the pop-up window for **Bluetooth Connection** doesn't appear, make sure your chromium based browser has
+   following feature Enabled:
+
+   1. Open a new tab and go to ``chrome://flags``
+   2. Find and enable the following flags:
+    
+   - **Web Bluetooth**
+   - **Use the new permissions backend for Web Bluetooth**
+   - **Web Bluetooth confirm pairing support**
+   - **Experimental Web Platform features**
+  
 Compatible Software
 ************************
-
-Chords Web
-=============
-
-- Visit `Chords Web <https://chords.upsidedownlabs.tech/>`_ for real-time biopotential signal visualization (EEG, EMG, ECG, EOG), featuring advanced plotting, filtering, snapshotting and CSV recording.
-
-.. figure:: ../../../software/chords/chords-web/media/chords_landing_page.*
-    :align: center
-    :alt: Chords Web Landing Page 
-
-    Chords Web Landing Page
-
-- To know more about Chords Web :ref:`click here<chords>` or watch the YouTube video.
-
-.. youtube:: Tqor4mo2Ji8
-    :align: center
-    :width: 100%
-
-
-Chords Python
-================
-
-- :ref:`Chords Python<chords-pythons>` is an open-source bag of tools for recording biopotential signals like ECG, EMG, EEG, or EOG, along with visualization using BioAmp hardware. 
-
-.. figure:: ../../../software/chords/chords-python/media/dark-interface.*
-    :align: center
-    :alt: Chords Python Landing Page
-
-    Chords Python Landing Page 
-
-- To know more about Chords Python watch the YouTube video.
-
-.. youtube:: TiDwSQEY2eY
-    :align: center
-    :width: 100%
-
-Chords LSL Connector
-=====================
-
-- :ref:`Chords LSL Connector<chords-lsl-connector>` is a Rust based bridge that streams data from devices running Chords firmware into the Lab Streaming Layer (LSL), enabling synchronized acquisition and analysis with BCI/EEG software.
-
-.. figure:: ../../../software/chords/chords-lsl-connector/media/chords-lsl-connector-landing-page.*
-    :align: center
-    :alt: Chords LSL Connector Landing Page 
-
-    Chords LSL Connector Landing Page 
-
-- To know more about Chords LSL Connector watch the YouTube video.
-
-.. youtube:: 94lPImB0eRo
-    :align: center
-    :width: 100%
 
 NPG Lite Flasher
 ===================
@@ -181,35 +254,65 @@ NPG Lite Flasher
 
 .. youtube:: NDk-P3nob_0
     :align: center
-    :width: 100%
 
+Chords Web
+=============
 
-Select Your Kit
-*******************
+- Visit `Chords Web <https://chords.upsidedownlabs.tech/>`_ for real-time biopotential signal visualization (EEG, EMG, ECG, EOG), featuring advanced plotting, filtering, snapshotting and CSV recording.
 
-**Identify your kit from the three options below, then let’s walk through the setup:**
+.. figure:: ../../../software/chords/chords-web/media/chords_landing_page.*
+    :align: center
+    :alt: Chords Web Landing Page 
 
-.. only:: html
+    Chords Web Landing Page
 
-   .. grid:: 1 2 2 1
-      :margin: 4 4 0 0 
-      :gutter: 2
+- To know more about Chords Web :ref:`click here<chords>` or watch the YouTube video.
 
-      .. grid-item-card:: Neuro PlayGround Lite Explorer Pack 
-         :text-align: center
-         :link: npg-lite-explorer
-         :link-type: ref
+.. youtube:: Tqor4mo2Ji8
+    :align: center
 
-      .. grid-item-card:: Neuro PlayGround Lite Ninja Pack 
-         :text-align: center
-         :link: npg-lite-ninja
-         :link-type: ref
+Chords Python
+================
 
-      .. grid-item-card:: Neuro PlayGround Lite Beast Pack 
-         :text-align: center
-         :link: npg-lite-beast
-         :link-type: ref
+- :ref:`Chords Python<chords-pythons>` is an open-source bag of tools for recording biopotential signals like ECG, EMG, EEG, or EOG, along with visualization using BioAmp hardware. 
 
+.. figure:: ../../../software/chords/chords-python/media/dark-interface.*
+    :align: center
+    :alt: Chords Python Landing Page
+
+    Chords Python Landing Page 
+
+- To know more about Chords Python watch the YouTube video.
+
+.. youtube:: TiDwSQEY2eY
+    :align: center
+
+Chords LSL Connector
+=====================
+
+- :ref:`Chords LSL Connector<chords-lsl-connector>` is a Rust based bridge that streams data from devices running Chords firmware into the Lab Streaming Layer (LSL), enabling synchronized acquisition and analysis with BCI/EEG software.
+
+.. figure:: ../../../software/chords/chords-lsl-connector/media/chords-lsl-connector-landing-page.*
+    :align: center
+    :alt: Chords LSL Connector Landing Page 
+
+    Chords LSL Connector Landing Page 
+
+- To know more about Chords LSL Connector watch the YouTube video.
+
+.. youtube:: 94lPImB0eRo
+    :align: center
+
+Chords LSL Visualizer
+=====================
+
+- :ref:`Chords LSL Visualizer<chords-lsl-visualizer>` is a Rust based program to visualize biopotenial signals from any LSL stream.
+  
+.. figure:: ../../../software/chords/chords-lsl-visualizer/media/chords-lsl-visualizer-landing-page.*
+    :align: center
+    :alt: Chords LSL Visualizer Landing Page 
+
+    Chords LSL Visualizer Landing Page 
 
 .. _neuro-play-ground-lite-project-tutorials:
 
@@ -238,7 +341,7 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
 
         - To learn about this project, visit our Instructables page for detailed guide: `Muscle Melody: Create Music With Your Muscle Movements (EMG) <https://www.instructables.com/Muscle-Melody-Play-Music-With-Your-Muscle-Movement/>`_
         
-        - Visit the `Web Interface <https://amanmahe.github.io/Muscle_game/>`_ to visualize in real time.
+        - Visit the `Web Interface <https://amanmahe.github.io/Muscle_game/>`__ to visualize in real time.
 
 .. card:: 2. Track Your Ticker
 
@@ -253,7 +356,7 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
 
         - To learn about this project, visit our Instructables page for detailed guide: `Monitor ECG and Heartrate on Your Mobile Phone <https://www.instructables.com/Monitor-ECG-and-Heartrate-on-Your-Mobile-Phone/>`_
 
-        - Visit the `Web Interface <https://ciumsy.github.io/ECG_Monitor/>`_ to visualize in real time.
+        - Visit the `Web Interface <https://ciumsy.github.io/ECG_Monitor/>`__ to visualize in real time.
 
 .. card:: 3. Jump In the Blink of an Eye
 
@@ -282,9 +385,53 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
 
         - To learn about this project, visit our Instructables page for detailed guide: `Pop Bubbles With Your Mind (EEG) | Neuro PlayGround (NPG) Lite <https://www.instructables.com/Pop-Bubbles-With-Your-Mind-EEG-Neuro-PlayGround-NP/>`_
         
-        - Visit the `Web Interface <https://upsidedownlabs.github.io/Focion/>`_ to visualize in real time.
+        - Visit the `Web Interface <https://upsidedownlabs.github.io/Focion/>`__ to visualize in real time.
 
-.. card:: 5. Cuboid
+.. card:: 5. CortEX
+
+    CortEX is an open-source neurofeedback meditation platform that combines EEG and ECG signals
+    to provide real-time feedback on your mental and emotional state. Designed to enhance mindfulness, 
+    it visualizes brainwave activity, heart rate, and hemisphere balance to help you meditate more 
+    effectively - all from your browser, using the NPG Lite device.
+    
+    .. youtube:: O3F-0UWxNfA
+        :align: center
+
+    .. Note::
+        
+        - To learn about this project, visit our Instructables page for detailed guide: `A Neurofeedback Meditation Journey <https://www.instructables.com/A-Neurofeedback-Meditation-Journey/>`_
+
+        - Visit the `Web Interface <https://upsidedownlabs.github.io/CortEX/>`__  to visualize in real time.
+ 
+.. card:: 6. Brain-Controlled Car: EEG + EMG Robotic Control
+
+    The Brain-Controlled Car transforms brainwaves (EEG) and muscle activity (EMG) into real-time robotic control,
+    letting you steer a car without traditional remotes - just focus your mind to move forward, 
+    flex your left or right arm to turn, or both arms to reverse. Powered by the Neuro PlayGround Lite,
+    a wireless biopotential device, the system captures your signals via electrodes and transmits 
+    them over BLE to an ESP32-based receiver that drives the motors. 
+    This project offers a hands-on glimpse into the future of human–machine interaction, 
+    where thoughts and movements seamlessly command machines.
+
+    .. youtube:: US_cDCRjV6c
+        :align: center
+
+    .. Note::
+        
+        - To learn about this project, visit our Instructables page for detailed guide: `Brain-Controlled Car :EEG + EMG Robotic Control <https://www.instructables.com/Brain-Controlled-Car-EEG-EMG-Robotic-Control/>`_
+ 
+.. card:: 7. Playing GTA V with Your Focus & Muscles
+
+    Control GTA V using your mind! The Brain-Controlled Gaming system uses the 
+    wireless Neuro PlayGround Lite to translate your brainwaves (EEG) and muscle contractions (EMG) 
+    into game controls. Focus to accelerate, and flex your left or right arm to steer. This BCI project 
+    delivers a mind-bending glimpse into the future of gaming, letting you command your car with 
+    nothing but your body signals.
+
+    .. youtube:: LhvBo8MP7iQ
+        :align: center
+
+.. card:: 8. Cuboid
 
     Cuboid is a neurofeedback-powered game that turns your focus into action. Using real-time brainwave
     data from the NPG Lite device, the game challenges you to move a geometric cuboid upward by
@@ -293,9 +440,9 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
     
     .. Note::
         
-        - Visit the `Web Interface <https://upsidedownlabs.github.io/Cuboid/>`_ to visualize in real time.
+        - Visit the `Web Interface <https://upsidedownlabs.github.io/Cuboid/>`__ to visualize in real time.
 
-.. card:: 6. Muscle Strength
+.. card:: 9. Muscle Strength
 
     Muscle Strength Game transforms your physical efforts into insightful data. Simply connect 
     to any muscle group you want to focus on, and you'll instantly visualize the raw electrical 
@@ -304,26 +451,29 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
     identify areas for improvement, and engage with your workouts in a whole new, data-driven way. 
     Whether you're an athlete, rehabilitating an injury, or just curious about your body, this project 
     offers a unique window into your muscular capabilities.
-    
+
 
     .. Note::
 
-        - Visit the `Web Interface <https://chords.upsidedownlabs.tech/muscle-strength>`_  to visualize in real time.
+        - Visit the `Web Interface <https://chords.upsidedownlabs.tech/muscle-strength>`__  to visualize in real time.
 
-.. card:: 7. CortEX
+.. card:: 10. Mind-to-Words Using EEG
 
-    CortEX is an open-source neurofeedback meditation platform that combines EEG and ECG signals
-    to provide real-time feedback on your mental and emotional state. Designed to enhance mindfulness, 
-    it visualizes brainwave activity, heart rate, and hemisphere balance to help you meditate more 
-    effectively - all from your browser, using the NPG Lite device.
-    
+    Mind-to-Words (M2W) application is an innovative Assistive Communication tool that enables users to 
+    control a menu interface solely through eye blinks. It utilizes the EOG artifacts present in a single 
+    channel EEG signal, which is captured by the NPG Lite device. The core functionality relies on a novel 
+    algorithm that separates and recognizes distinct control signals: a double blink is used to activate or 
+    switch between options, while a triple blink is used to confirm and make a selection.
+
+    .. youtube:: UyXsqCrVxh4
+        :align: center
 
     .. Note::
 
-        - Visit the `Web Interface <https://upsidedownlabs.github.io/CortEX/>`_  to visualize in real time.
- 
+        - M2W Web Application: `Web Interface <https://upsidedownlabs.github.io/M2W/>`__ 
 
-.. dropdown:: Neuro-Playground Lite C3 (Obsolete)
+
+.. dropdown:: Neuro-PlayGround Lite C3 (Obsolete)
 
     .. rubric:: Overview
 
@@ -337,9 +487,9 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
 
     .. figure:: media/npg-C3-hero-1.*
         :align: center
-        :alt: Neuro Play Ground (NPG) Lite C3
+        :alt: Neuro PlayGround (NPG) Lite C3
 
-        Neuro Play Ground (NPG) Lite C3
+        Neuro PlayGround (NPG) Lite C3
 
     .. rubric:: Features & Specifications
 
@@ -371,9 +521,9 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
 
     .. figure:: media/npg-C3-front-annotations.*
         :align: center
-        :alt: Neuro Play Ground (NPG) Lite C3 annotations
+        :alt: Neuro PlayGround (NPG) Lite C3 annotations
 
-        Neuro Play Ground (NPG) Lite C3 annotations
+        Neuro PlayGround (NPG) Lite C3 annotations
 
     .. rubric:: Playmates
 
@@ -402,15 +552,3 @@ Each of these projects runs on the ``BLE firmware``, which you can flash using t
     +---------------------------------------------------+
     | ON/OFF Switch                                     |
     +---------------------------------------------------+
-
-
-
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-   :caption: Neuro PlayGround Lite Pack
-
-   npg-lite-explorer/index
-   npg-lite-ninja/index
-   npg-lite-beast/index
-
