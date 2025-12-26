@@ -66,16 +66,7 @@ Upside Down Labs is committed to :
 
 By supporting this course, Upside Down Labs has demonstrated that innovation and empathy can coexist, and that meaningful opportunities can be created even outside traditional academic or corporate systems. 
 
-11.5 A Personal Note from the Author
-******************************************
-
-This course is not just an academic contribution, it is deeply personal.
-
-- While developing this content, I have been dealing with significant health challenges. There were periods of physical and mental difficulty where continuing this work felt overwhelming. Yet, the opportunity and trust given to me by Upside Down Labs became a source of purpose and motivation.
-- Being able to contribute to education, science, and an open-source ecosystem during a difficult phase of life reminded me that limitations do not erase value. If anything, they deepen perspective.
-- If you are a learner who is struggling - academically, financially, physically, or emotionally, this course stands as proof that progress is still possible, even if it is slow, nonlinear, or imperfect.
-
-11.6 Looking Forward
+11.5 Looking Forward
 ******************************
 
 Neuroscience and biopotential signal acquisition are rapidly evolving fields. With the foundation you have gained through this course, you are now equipped to:
@@ -88,7 +79,7 @@ Neuroscience and biopotential signal acquisition are rapidly evolving fields. Wi
 
 **The future of neuroscience belongs to curious minds, ethical innovation, and accessible knowledge and you are now part of that future.**
 
-11.7 Final Message
+11.6 Final Message
 ***********************
 
 Thank you for being part of this learning journey. May this course not only enhance your technical understanding but also inspire you to create, contribute, and care for science, for society and for yourself.
