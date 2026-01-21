@@ -400,11 +400,10 @@ inspire you, but the possibilities cover so many more use cases.
 
 .. note::
 
-   Each of these projects runs on the ``BLE firmware``, which you can flash using the following flasher tools: 
-   
-   - We recommend using :ref:`NPG Lite Flasher <npg-lite-flasher-uploading-firmware>` for flashing BLE Firmware.
-   - Alternatively, you can use `Arduino IDE <https://github.com/upsidedownlabs/Chords-Arduino-Firmware>`_ to manually upload the firmware.
-   - It is recommended to use ESP32 version **3.2.0** to ensure error free operations. 
+Each of these projects runs on the ``BLE firmware``, which you can flash using the following flasher tools: 
+
+- We recommend using :ref:`NPG Lite Flasher <npg-lite-flasher-uploading-firmware>` for flashing BLE Firmware.
+- Alternatively, you can use `Arduino IDE <https://github.com/upsidedownlabs/Chords-Arduino-Firmware>`_ to manually upload the firmware.
 
 .. card:: 1. Make Muscular Music
 
