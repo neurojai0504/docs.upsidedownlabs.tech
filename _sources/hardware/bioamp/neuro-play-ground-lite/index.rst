@@ -204,6 +204,7 @@ If you’re comfortable with soldering and only need a 3-channel wireless BioAmp
 
 Playmates
 *************
+*************
 
 Playmates are modular expansion boards designed to enhance the functionality of Neuro PlayGround (NPG) Lite. These add-ons seamlessly integrate with the core system, allowing users to extend their capabilities to create awesome Human-Computer Interface (HCI) & Brain-Computer Interface (BCI).
 
@@ -400,11 +401,11 @@ inspire you, but the possibilities cover so many more use cases.
 
 .. note::
 
-   Each of these projects runs on the ``BLE firmware``, which you can flash using the following flasher tools: 
-   
-   - We recommend using :ref:`NPG Lite Flasher <npg-lite-flasher-uploading-firmware>` for flashing BLE Firmware.
-   - Alternatively, you can use `Arduino IDE <https://github.com/upsidedownlabs/Chords-Arduino-Firmware>`_ to manually upload the firmware.
-   - It is recommended to use ESP32 version **3.2.0** to ensure error free operations. 
+    Each of these projects runs on the ``BLE firmware``, which you can flash using the following flasher tools: 
+    
+    - We recommend using :ref:`NPG Lite Flasher <npg-lite-flasher-uploading-firmware>` for flashing BLE Firmware.
+    - Alternatively, you can use `Arduino IDE <https://github.com/upsidedownlabs/Chords-Arduino-Firmware>`_ to manually upload the firmware.
+    - It is recommended to use ESP32 version ``3.2.0`` to ensure error free operations. 
 
 .. card:: 1. Make Muscular Music
 
