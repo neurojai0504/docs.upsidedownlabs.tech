@@ -204,7 +204,6 @@ If you’re comfortable with soldering and only need a 3-channel wireless BioAmp
 
 Playmates
 *************
-*************
 
 Playmates are modular expansion boards designed to enhance the functionality of Neuro PlayGround (NPG) Lite. These add-ons seamlessly integrate with the core system, allowing users to extend their capabilities to create awesome Human-Computer Interface (HCI) & Brain-Computer Interface (BCI).
 
@@ -222,7 +221,7 @@ Playmate offer a convenient way to expand the functionality of your NPG Lite set
 1. Proto Playmate 
 -----------------------
 
-.. figure:: media/npg-Proto-Playmate.*
+.. figure:: ./media/npg-proto-playmate.*
     :align: center
     :alt:   Neuro PlayGround (NPG) Lite Proto Playmate
 
@@ -236,7 +235,7 @@ d. Large prototyping area for custom circuits
 2. VibZ Playmate
 --------------------------
 
-.. figure:: media/npg-VibZ-Playmate.*
+.. figure:: ./media/npg-vibz-playmate.*
     :align: center
     :alt:   Neuro PlayGround (NPG) Lite VibZ Playmate
 
@@ -251,7 +250,7 @@ e. Buzzer for audio feedback
 3. VibZ+ Playmate
 ------------------------------
 
-.. figure:: media/npg-VibZ+-Playmate.*
+.. figure:: ./media/npg-vibz+-playmate.*
     :align: center
     :alt:   Neuro PlayGround (NPG) Lite VibZ+ Playmate
 
