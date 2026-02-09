@@ -29,22 +29,6 @@ It is divided into two major parts:
     
 **This overview is a simplified representation and does not show the full nervous system. You may refer to advanced textbook for further explanation.**
 
-.. admonition:: Fun Fact #1
-
-    **The human nervous system (primarily the brain) consumes about 20% of the body’s total resting state energy despite the fact that brain weight is just 2% of whole body weight (in adults).**
-    
-    .. figure:: ../media/module-1-fun-fact-1.*
-        :align: center
-        :alt: Human nervous system fun fact#1
-        
-.. admonition:: Fun Fact #2
-
-    **The human nervous system can transmit signals at speeds over 120m/s ( about 431 km/h), faster than a Formula 1 race car.**
-
-    .. figure:: ../media/module-1-fun-fact-2.*
-        :align: center
-        :alt: Human nervous system fun fact#2
-
 1.2 Central Nervous System (CNS)
 ********************************
 
@@ -53,29 +37,18 @@ The central nervous system (CNS) is the body’s command center and is made up o
 1.2.1 The Brain(Encephalon)
 ===============================
 
-The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system.
-
-.. admonition:: Fun Fact #3
-
-    **The human brain weighs about 3 pounds(1.3-1.4 KG) in the average adult. Out of which around 75% weight is just of water only.**
-
-    .. figure:: ../media/module-1-fun-fact-3.*
-        :align: center
-        :alt: Human nervous system fun fact#3
-
-.. admonition:: Fun Fact #4
-
-    **Despite the brain complexity, it just consumes a power of 20 watt which is roughly less than a typical bulb.**
-
-    .. figure:: ../media/module-1-fun-fact-4.*
-        :align: center
-        :alt: Human nervous system fun fact#4
+The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system. The structure of the brain can be divided into 3 major parts :
 
 .. figure:: ../media/parts-of-human-brain.*
     :align: center
     :alt: Part of the brain
 
     3 major parts of human brain
+
+.. admonition:: Fun Fact
+
+    - The brain weighs about 3 pounds in the average adult and contains about 60% fat as its dry weight. The remaining 40% is a combination of water, protein, carbohydrates and salts. 
+    - The brain itself is not a muscle. It contains blood vessels and nerves, including neurons and glial cells.
 
 Cerebrum
 -------------
@@ -87,6 +60,11 @@ Cerebrum is the largest part of the brain  which can be divided into 2 hemispher
     :alt: Brain Anatomy
 
     The 2 hemispheres of the brain
+
+.. admonition:: Fun Fact
+    
+    - The right hemisphere controls the left side of the body, and the left hemisphere controls the right side of the body.
+    - The two halves communicate with one another through a large C shaped structure called corpus callosum which is the center part of the cerebrum.
 
 Each hemisphere is further divided into four major lobes:
    
@@ -130,14 +108,6 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
 
     Overview of the brainstem
 
-.. admonition:: Fun Fact #5
-
-    **Our brain has no pain receptors that's why neurosurgeons can operate on brain tissue while the patients are awake. Still headache can occur because of the surrounding blood vessels,nerves and muscles which have pain receptors in it.**
-
-    .. figure:: ../media/module-1-fun-fact-5.*
-        :align: center
-        :alt: Human nervous system fun fact#5
-
 .. admonition:: Blood Brain Barrier (BBB) 
 
  - It is a highly selective, protective barrier that separates the circulating blood from the brain and fluid in the central nervous system (CNS).
@@ -148,6 +118,8 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
 ======================
 
 The spinal cord begins at the base of the medulla and passes through a large opening(foramen magnum) at the bottom of the skull. Supported by the vertebrae, it serves as a communication highway between the brain and the rest of the body. This long, tubular structure transmits sensory information from the body to the brain and sends motor commands from the brain to the body. Additionally, it is responsible for reflex actions, which are quick and involuntary responses to stimuli.
+
+.. todo:: The number of vertebrae is wrong, we have to update the image.
 
 .. figure:: ../media/spinal-cord.*
     :align: center
