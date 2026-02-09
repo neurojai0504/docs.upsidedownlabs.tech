@@ -40,7 +40,7 @@ It is divided into two major parts:
          
 .. admonition:: Fun Fact #2
 
-    **The human nervous system can transmit signals at speeds over 120m/s ( about 431 km/h), faster than a Formula 1 race car.**
+    **The human nervous system can transmit signals at speeds over 120m/s (about 431 km/h), faster than a Formula 1 race car.**
 
     .. figure:: ../media/module-1-fun-fact-2.*
         :align: center
@@ -133,7 +133,7 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
 
 .. admonition:: Fun Fact #5
 
-    **Our brain has no pain receptors that's why neurosurgeons can operate on brain tissue while the patients are awake. Still headache can occur because of the surrounding blood vessels,nerves and muscles which have pain receptors in it.**
+    **Our brain has no pain receptors that's why neurosurgeons can operate on brain tissue while the patients are awake. Still, headaches can occur because of the surrounding blood vessels,nerves and muscles which have pain receptors in it.**
 
     .. figure:: ../media/module-1-fun-fact-5.*
         :align: center
