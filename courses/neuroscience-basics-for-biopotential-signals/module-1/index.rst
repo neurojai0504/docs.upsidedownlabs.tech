@@ -153,7 +153,7 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
         :align: center
         :alt: Human nervous system fun fact#6
 
-        The two halves communicate with one another through a large C shaped structure called **corpus callosum** which is the center part of the cerebrum
+        The two halves communicate with one another through a large C-shaped structure called the **corpus callosum**, which connects the cerebral hemispheres.
 
 1.2.2 The Spinal Cord
 ======================
@@ -189,7 +189,7 @@ b. **Parasympathetic Nervous System:** It does the opposite of the sympathetic n
 
 .. note:: 
 
-    There are 2 types of cells in the nervous system : **Neurons (nerve cells)** and **Neuroglia (glial cells)**
+    There are two types of cells in the nervous system: **Neurons (nerve cells)** and **Neuroglia (glial cells)**
 
 1.4 Neurons
 **************
@@ -198,7 +198,7 @@ Neurons are the building blocks of the nervous system and are responsible for re
 
 .. admonition:: Fun Fact #7
 
-    **Our brain is made up of about 86 billion neurons (100 trillion synaptic connections)**
+    **Our brain is made up of about 86 billion neurons (100 trillion synaptic connections).**
 
     .. figure:: ../media/module-1-fun-fact-7.*
         :align: center
