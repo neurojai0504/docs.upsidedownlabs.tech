@@ -7,10 +7,10 @@ Module 1: Human Nervous System
 ******************
 
 The Human nervous system consists of a brain, spinal cord, nerves and is one of the most complex and vital systems 
-in the body, responsible for receiving, transmitting, and processing information. It acts as the body's command 
+in the body, responsible for receiving, transmitting, and processing information. It acts as the body's command and control 
 center and enables communication between different parts of the body, allowing organisms to interact with their environment.
 
-It is divided into two major parts:
+It is divided into two major parts based on structure (anatomy):
 
 - Central Nervous System (CNS)
 - Peripheral Nervous System (PNS)
@@ -145,6 +145,16 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
  - It protects the brain from toxins, pathogens, and fluctuations in blood composition (e.g., hormones, neurotransmitters, potassium).
  - Clinical importance: Many drugs can’t treat brain diseases because they can’t cross the BBB therefore, special methods are used such as lipid-soluble drugs, nanoparticles, or direct brain injections.
 
+.. admonition:: Fun Fact #6
+
+    **The right hemisphere of the brain controls the left side of the body, and the left hemisphere of the brain controls the right side of the body.**
+    
+    .. figure:: ../media/module-1-fun-fact-6.*
+        :align: center
+        :alt: Human nervous system fun fact#6
+
+        The two halves communicate with one another through a large C shaped structure called **corpus callosum** which is the center part of the cerebrum
+
 1.2.2 The Spinal Cord
 ======================
 
@@ -177,14 +187,30 @@ The autonomic nervous system controls involuntary physiological processes, such 
 a. **Sympathetic Nervous System:** Known as the "fight or flight" system, it prepares the body for stress or emergency situations by increasing heart rate, dilating pupils, releasing adrenaline, and redirecting blood flow to muscles.
 b. **Parasympathetic Nervous System:** It does the opposite of the sympathetic nervous system. Often referred to as the "rest and digest" system, it promotes relaxation by slowing the heart rate, promoting digestion, and conserving energy after a stressful event.
 
+.. note:: 
+
+    There are 2 types of cells in the nervous system : **Neurons (nerve cells)** and **Neuroglia (glial cells)**
+
 1.4 Neurons
 **************
 
 Neurons are the building blocks of the nervous system and are responsible for receiving and transmitting electrochemical signals throughout the body.
 
-.. admonition:: Fun Fact
-    
-    - Our brain is made up of about 86 billion  neurons (100 trillion synaptic connections).
+.. admonition:: Fun Fact #7
+
+    **Our brain is made up of about 86 billion neurons (100 trillion synaptic connections)**
+
+    .. figure:: ../media/module-1-fun-fact-7.*
+        :align: center
+        :alt: Human nervous system fun fact#7
+
+.. admonition:: Fun Fact #8
+
+    **Mature neurons can't divide after birth, but they can still form new connections throughout life. That's why learning new skills keeps your brain "young"**
+
+    .. figure:: ../media/module-1-fun-fact-8.*
+        :align: center
+        :alt: Human nervous system fun fact#8
 
 1.4.1 Types of neurons
 =========================
@@ -219,9 +245,7 @@ Based on Function
 - **Myelin sheath:** Myelin sheath is a fatty layer that insulates the axon, speeding up signal transmission. 
 - **Synapse:** Neurons do not touch each other, but where one neuron comes close to another neuron, a synapse is formed between the two which acts as a junction between two neurons where neurotransmitters are released to transmit signals to the next neuron.
 
-.. admonition:: Fun Fact
-    
-    There are axon-less neurons too, where the signal is transmitted and received both by the dendrites.
+.. note:: There are axon-less neurons too, where the signal is transmitted and received both by the dendrites.
 
 1.5 Glial cells
 ******************
