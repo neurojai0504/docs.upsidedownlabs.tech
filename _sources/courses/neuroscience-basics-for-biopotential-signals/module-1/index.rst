@@ -7,7 +7,7 @@ Module 1: Human Nervous System
 ******************
 
 The Human nervous system consists of a brain, spinal cord, nerves and is one of the most complex and vital systems 
-in the body, responsible for receiving, transmitting, and processing information. It acts as the body's command and control 
+in the body, responsible for receiving, transmitting, and processing information. It acts as the body's command & control 
 center and enables communication between different parts of the body, allowing organisms to interact with their environment.
 
 It is divided into two major parts based on structure (anatomy):
@@ -27,7 +27,7 @@ It is divided into two major parts based on structure (anatomy):
 
     An overview of the nervous system
     
-**This overview is a simplified representation and does not show the full nervous system. You may refer to advanced textbook for further explanation.**
+**This overview (above) is a simplified representation and does not show the full nervous system. You may refer to advanced textbook for further explanation.**
 
 .. admonition:: Fun Fact #1
 
@@ -66,7 +66,7 @@ The brain is the most complex organ which communicates with the body by sending 
 
 .. admonition:: Fun Fact #4
 
-    **Despite the brain complexity, it just consumes a power of 20 watt which is roughly less than a typical bulb.**
+    **Our brain has no pain receptors that's why neurosurgeons can operate on brain tissue while the patients are awake. Still, headaches can occur because of the surrounding blood vessels,nerves and muscles which have pain receptors in it.**
 
     .. figure:: ../media/module-1-fun-fact-4.*
         :align: center
@@ -133,8 +133,8 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
 
 .. admonition:: Fun Fact #5
 
-    **Our brain has no pain receptors that's why neurosurgeons can operate on brain tissue while the patients are awake. Still, headaches can occur because of the surrounding blood vessels,nerves and muscles which have pain receptors in it.**
-
+    **Despite the brain complexity, it just consumes a power of 20 watt which is roughly less than a typical bulb.**
+    
     .. figure:: ../media/module-1-fun-fact-5.*
         :align: center
         :alt: Human nervous system fun fact#5
@@ -143,7 +143,7 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
 
  - It is a highly selective, protective barrier that separates the circulating blood from the brain and fluid in the central nervous system (CNS).
  - It protects the brain from toxins, pathogens, and fluctuations in blood composition (e.g., hormones, neurotransmitters, potassium).
- - Clinical importance: Many drugs can’t treat brain diseases because they can’t cross the BBB therefore, special methods are used such as lipid-soluble drugs, nanoparticles, or direct brain injections.
+ - **Clinical importance**: Many drugs can’t treat brain diseases because they can’t cross the BBB therefore, special methods are used such as lipid-soluble drugs, nanoparticles, or direct brain injections.
 
 .. admonition:: Fun Fact #6
 
@@ -246,6 +246,14 @@ Based on Function
 - **Synapse:** Neurons do not touch each other, but where one neuron comes close to another neuron, a synapse is formed between the two which acts as a junction between two neurons where neurotransmitters are released to transmit signals to the next neuron.
 
 .. note:: There are axon-less neurons too, where the signal is transmitted and received both by the dendrites.
+
+.. admonition:: Fun Fact #9
+
+    **The longest cells in the human body are neurons (nerve cells). Some neurons (motor neurons) can reach up to 1-1.5 metres extending from lower spinal cord to toes.**
+
+    .. figure:: ../media/module-1-fun-fact-9.*
+        :align: center
+        :alt: Human nervous system fun fact#9
 
 1.5 Glial cells
 ******************
