@@ -15,18 +15,18 @@ It is divided into two major parts based on structure (anatomy):
 - Central Nervous System (CNS)
 - Peripheral Nervous System (PNS)
 
-.. figure:: ../media/parts-of-nervous-system.*
+.. figure:: ../media/parts-of-human-nervous-system.*
     :align: center
-    :alt: parts of nervous system
+    :alt: Parts of nervous system
 
-    Types of nervous system
+    Parts of Human nervous system
 
-.. figure:: ../media/flowchart-nervous-system.*
+.. figure:: ../media/nervous-system-flowchart.* 
     :align: center
-    :alt: nervous system flowchart
+    :alt: Nervous system flowchart
 
     An overview of the nervous system
-    
+
 **This overview (above) is a simplified representation and does not show the full nervous system. You may refer to advanced textbook for further explanation.**
 
 .. admonition:: Fun Fact #1
@@ -37,7 +37,6 @@ It is divided into two major parts based on structure (anatomy):
         :align: center
         :alt: Human nervous system fun fact#1
 
-         
 .. admonition:: Fun Fact #2
 
     **The human nervous system can transmit signals at speeds over 120m/s (about 431 km/h), faster than a Formula 1 race car.**
@@ -74,7 +73,7 @@ The brain is the most complex organ which communicates with the body by sending 
 
 .. figure:: ../media/parts-of-human-brain.*
     :align: center
-    :alt: Part of the brain
+    :alt: Parts of human brain
 
     3 major parts of human brain
 
@@ -85,7 +84,7 @@ Cerebrum is the largest part of the brain  which can be divided into 2 hemispher
 
 .. figure:: ../media/two-hemispheres.*
     :align: center
-    :alt: Brain Anatomy
+    :alt: Two hemispheres of brain
 
     The 2 hemispheres of the brain
 
@@ -107,10 +106,9 @@ Cerebellum
 
 The cerebellum (little brain) is a fist-sized portion of the brain located at the back of the head and above the brainstem. Its function is to coordinate voluntary muscle movements and to maintain posture, balance and equilibrium. The 2 hemispheres of cerebellum are connected by the vermis.
 
-
 .. figure:: ../media/parts-of-human-brain-1.*
     :align: center
-    :alt: Part of the brain
+    :alt: Remaining parts of the brain
 
     The cerebellum and brainstem
 
@@ -122,8 +120,6 @@ The brainstem (middle of brain) connects the cerebrum to the spinal cord. The br
 a. **Midbrain:** Involved in motor control and auditory/visual processing.
 b. **Pons:** It is a connection between midbrain and medulla. It controls sleep, respiration, and some motor functions.
 c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where the brain meets the spinal cord. The medulla is crucial for survival, as it regulates vital bodily functions, including heart rate, breathing, blood circulation, and the balance of oxygen and carbon dioxide levels. It also controls reflexive actions such as sneezing, vomiting, coughing, and swallowing.
-
-.. todo:: oblongata spelling is wrong
 
 .. figure:: ../media/brainstem.*
     :align: center
@@ -179,6 +175,12 @@ The somatic nervous system controls voluntary movements and transmits sensory in
 a. **Sensory Neurons (Afferent Neurons):** These neurons carry signals from sensory receptors (skin, muscles, joints) to the CNS, allowing us to perceive sensations like pain, temperature, and touch.
 b. **Motor Neurons (Efferent Neurons):** These neurons transmit commands from the CNS to the skeletal muscles, enabling voluntary movement such as walking, talking, and picking up objects.
 
+.. figure:: ../media/somatic-nervous-system.*
+    :align: center
+    :alt: Somatic nervous system
+
+    Somatic reflex arc
+
 1.3.2 Autonomic Nervous System (ANS)
 ======================================
 
@@ -206,7 +208,7 @@ Neurons are the building blocks of the nervous system and are responsible for re
 
 .. admonition:: Fun Fact #8
 
-    **Mature neurons can't divide after birth, but they can still form new connections throughout life. That's why learning new skills keeps your brain "young"**
+    **Most mature neurons can't divide after birth, but they can still form new connections throughout life. That's why learning new skills keeps your brain "young"**
 
     .. figure:: ../media/module-1-fun-fact-8.*
         :align: center
@@ -218,16 +220,15 @@ Neurons are the building blocks of the nervous system and are responsible for re
 Based on Function
 ------------------------
  
-
 1. **Sensory Neurons:** Transmit sensory information (e.g., pain, temperature, pressure) from receptors to the CNS.
 2. **Motor Neurons:** Carry commands from the CNS to muscles and glands, enabling actions like muscle contraction or hormone release.
 3. **Interneurons:** These neurons are found in the CNS and act as connectors between sensory and motor neurons. They help process and integrate information. It is the most common type of neuron.
 
-.. todo:: CORRECT INTERNEURON DIAGRAM
-
 .. figure:: ../media/types-of-neurons.*
     :align: center
     :alt: types of neurons
+
+    Types of neurons based on function
 
 1.4.2 Structure of neuron
 ============================
@@ -286,7 +287,11 @@ Glial cells (or neuroglia) are non-neuronal cells of the nervous system which pr
 1.5.2 Types of glial cells
 ===============================
 
-.. todo:: Upload types of glial cells images
+.. figure:: ../media/types-of-neuroglia.*
+    :align: center
+    :alt: types of neuroglia
+
+    Types of glial cells based on location
 
 1.5.2.1 In Central nervous system
 -----------------------------------------
@@ -313,7 +318,7 @@ a. Astrocytes
 - Provide nutrients to neurons
 - Regulate ion balance, neurotransmitters (e.g., glutamate uptake)
 - Help in synapse formation
-- MOST ABUNDANT GLIAL CELLS IN CNS 
+- Most abundant glial cell type in the CNS 
 
 b. Oligodendrocytes
 """"""""""""""""""""""""
