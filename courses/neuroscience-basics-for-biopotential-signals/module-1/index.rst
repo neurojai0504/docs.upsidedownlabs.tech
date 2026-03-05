@@ -8,8 +8,10 @@ Module 1: Human Nervous System
 
 The Human nervous system consists of a brain, spinal cord, nerves and is one of the most complex and vital systems 
 in the body, responsible for receiving, transmitting, and processing information. It acts as the body's command & control 
+in the body, responsible for receiving, transmitting, and processing information. It acts as the body's command & control 
 center and enables communication between different parts of the body, allowing organisms to interact with their environment.
 
+It is divided into two major parts based on structure (anatomy):
 It is divided into two major parts based on structure (anatomy):
 
 - Central Nervous System (CNS)
@@ -53,6 +55,23 @@ The central nervous system (CNS) is the body’s command center and is made up o
 1.2.1 The Brain(Encephalon)
 ===============================
 
+The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system.
+
+.. admonition:: Fun Fact #3
+
+    **The human brain weighs about 3 pounds(1.3-1.4 KG) in the average adult. Out of which around 75% weight is just of water only.**
+
+    .. figure:: ../media/module-1-fun-fact-3.*
+        :align: center
+        :alt: Human nervous system fun fact#3
+
+.. admonition:: Fun Fact #4
+
+    **Our brain has no pain receptors that's why neurosurgeons can operate on brain tissue while the patients are awake. Still, headaches can occur because of the surrounding blood vessels,nerves and muscles which have pain receptors in it.**
+
+    .. figure:: ../media/module-1-fun-fact-4.*
+        :align: center
+        :alt: Human nervous system fun fact#4
 The brain is the most complex organ which communicates with the body by sending and receiving chemical and electrical signals. Some signals remain within the brain, while others are transmitted through the spinal cord and across a network of nerves to distant parts of the body. This communication relies on billions of neurons that form the central nervous system.
 
 .. admonition:: Fun Fact #3
@@ -135,10 +154,29 @@ c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where t
         :align: center
         :alt: Human nervous system fun fact#5
 
+.. admonition:: Fun Fact #5
+
+    **Despite the brain complexity, it just consumes a power of 20 watt which is roughly less than a typical bulb.**
+    
+    .. figure:: ../media/module-1-fun-fact-5.*
+        :align: center
+        :alt: Human nervous system fun fact#5
+
 .. admonition:: Blood Brain Barrier (BBB) 
 
  - It is a highly selective, protective barrier that separates the circulating blood from the brain and fluid in the central nervous system (CNS).
  - It protects the brain from toxins, pathogens, and fluctuations in blood composition (e.g., hormones, neurotransmitters, potassium).
+ - **Clinical importance**: Many drugs can’t treat brain diseases because they can’t cross the BBB therefore, special methods are used such as lipid-soluble drugs, nanoparticles, or direct brain injections.
+
+.. admonition:: Fun Fact #6
+
+    **The right hemisphere of the brain controls the left side of the body, and the left hemisphere of the brain controls the right side of the body.**
+    
+    .. figure:: ../media/module-1-fun-fact-6.*
+        :align: center
+        :alt: Human nervous system fun fact#6
+
+        The two halves communicate with one another through a large C-shaped structure called the **corpus callosum**, which connects the cerebral hemispheres.
  - **Clinical importance**: Many drugs can’t treat brain diseases because they can’t cross the BBB therefore, special methods are used such as lipid-soluble drugs, nanoparticles, or direct brain injections.
 
 .. admonition:: Fun Fact #6
@@ -188,6 +226,10 @@ The autonomic nervous system controls involuntary physiological processes, such 
 
 a. **Sympathetic Nervous System:** Known as the "fight or flight" system, it prepares the body for stress or emergency situations by increasing heart rate, dilating pupils, releasing adrenaline, and redirecting blood flow to muscles.
 b. **Parasympathetic Nervous System:** It does the opposite of the sympathetic nervous system. Often referred to as the "rest and digest" system, it promotes relaxation by slowing the heart rate, promoting digestion, and conserving energy after a stressful event.
+
+.. note:: 
+
+    There are two types of cells in the nervous system: **Neurons (nerve cells)** and **Neuroglia (glial cells)**
 
 .. note:: 
 
@@ -246,6 +288,15 @@ Based on Function
 - **Myelin sheath:** Myelin sheath is a fatty layer that insulates the axon, speeding up signal transmission. 
 - **Synapse:** Neurons do not touch each other, but where one neuron comes close to another neuron, a synapse is formed between the two which acts as a junction between two neurons where neurotransmitters are released to transmit signals to the next neuron.
 
+.. note:: There are axon-less neurons too, where the signal is transmitted and received both by the dendrites.
+
+.. admonition:: Fun Fact #9
+
+    **The longest cells in the human body are neurons (nerve cells). Some neurons (motor neurons) can reach up to 1-1.5 metres extending from lower spinal cord to toes.**
+
+    .. figure:: ../media/module-1-fun-fact-9.*
+        :align: center
+        :alt: Human nervous system fun fact#9
 .. note:: There are axon-less neurons too, where the signal is transmitted and received both by the dendrites.
 
 .. admonition:: Fun Fact #9
@@ -364,3 +415,4 @@ This module builds the foundation needed to understand how neurons create electr
 1. https://www.hopkinsmedicine.org/health/conditions-and-diseases/anatomy-of-the-brain
 2. https://my.clevelandclinic.org/health/body/24931-blood-brain-barrier-bbb
 3. https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/types-glia 
+

@@ -171,4 +171,4 @@ Module 11: Conclusion
 .. toctree::
   :maxdepth: 2
 
-  module-11/index 
+  module-11/index
