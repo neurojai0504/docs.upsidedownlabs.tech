@@ -130,7 +130,7 @@ Functions of cerebellum
 2. It receives proprioceptive information from the spinal cord and special sensory inputs from the eyes (visual), ears (auditory), and vestibular organs responsible for balance.
 3. It sends signals to most areas of the brain that are responsible for controlling movement.
 4. Because of these extensive connections, the cerebellum integrates sensory information with motor signals to help coordinate movements.
-5. It helps regulate every aspect of movement : its speed, distance, strength, and direction, as well as how smoothly it begins and ends.
+5. It helps regulate every aspect of movement: its speed, distance, strength, and direction, as well as how smoothly it begins and ends.
 6. As a result, damage to the cerebellum leads to poor coordination and imprecise movements.
 7. The cerebellum also sends signals to brainstem nuclei that give rise to major descending motor pathways.
 8. Therefore, injury to the cerebellum often results in abnormal posture and problems with balance.
@@ -144,7 +144,7 @@ The brainstem (middle of brain) connects the cerebrum to the spinal cord. The br
 
 a. **Midbrain:** Involved in motor control and auditory/visual processing.
 b. **Pons:** It is a connection between midbrain and medulla. It controls sleep, respiration, and some motor functions.
-c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where the brain meets the spinal cord. The medulla is crucial for survival, as it regulates vital bodily functions, including heart rate, breathing, blood circulation, and the balance of oxygen and carbon dioxide levels. It also controls reflexive actions such as sneezing, vomiting, coughing, and swallowing. Additionally,most cranial nerves (iii-xii) originate from the brainstem, making it essential for sensory and motor functions of the head and neck.
+c. **Medulla oblongata:** At the bottom of the brainstem, the medulla is where the brain meets the spinal cord. The medulla is crucial for survival, as it regulates vital bodily functions, including heart rate, breathing, blood circulation, and the balance of oxygen and carbon dioxide levels. It also controls reflexive actions such as sneezing, vomiting, coughing, and swallowing. Additionally, most cranial nerves (III-XII) originate from the brainstem, highlighting its importance in sensory and motor functions of the head and neck.
 
 .. figure:: ../media/brainstem.*
     :align: center
@@ -216,8 +216,8 @@ b. **Parasympathetic Nervous System:** It does the opposite of the sympathetic n
 
 .. admonition:: Enteric Nervous System (ENS)
 
-    - It is considered mostly a part of the autonomic nervous system along with sympathetic and parasympathetic systems but in some cases it is also considered as a separate division of the nervous system.
-    - It is a complex network of neurons that governs the function of the gastrointestinal system thats why it is often called the **gut brain** or **second brain**. It can operate independently of the brain and spinal cord, but it also communicates with the CNS through the sympathetic and parasympathetic nervous systems.  
+    - It is considered mostly a part of the autonomic nervous system along with sympathetic and parasympathetic systems, but in some cases, it is also considered as a separate division of the nervous system.
+    - It is a complex network of neurons that governs the function of the gastrointestinal system, thats why it is often called the **gut brain** or **second brain**. It can operate independently of the brain and spinal cord, but it also communicates with the CNS through the sympathetic and parasympathetic nervous systems.  
     - It controls various functions of the digestive system, including motility (movement of food through the digestive tract), secretion of digestive enzymes, blood flow to the gut, and immune responses in the gastrointestinal tract.
     - The ENS contains around 100 million neurons, which is more than the spinal cord, and it can function autonomously, meaning it can regulate digestive processes without input from the brain.
     - **Clinical importance**: The ENS is involved in various gastrointestinal disorders, such as irritable bowel syndrome (IBS) and inflammatory bowel disease (IBD), and it is also being studied for its potential role in mental health conditions like anxiety and depression due to the gut-brain connection.
