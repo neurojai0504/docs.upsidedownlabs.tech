@@ -75,7 +75,7 @@ Proper skin preparation is crucial before recording any biopotential signal whet
 6.2.2 Steps to follow
 ============================
 
-You can follow the steps given below to perform proper skin preparartion:
+You can follow the steps given below to perform proper skin preparation:
 
 Step 1: Identify the targeted area
 --------------------------------------------------
