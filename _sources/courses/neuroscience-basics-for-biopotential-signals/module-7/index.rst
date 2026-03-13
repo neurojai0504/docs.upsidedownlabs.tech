@@ -64,7 +64,6 @@ electrodes `(BioAmp bands) <https://store.upsidedownlabs.tech/?s=bioamp+band&pos
 ====================================
 
 When the muscle contracts, it creates tiny electrical signals. The electrodes pick up these voltage changes called motor unit action potentials. 
-potentials. 
 
 7.3.3 Signal Amplification and Filtering
 ===============================================

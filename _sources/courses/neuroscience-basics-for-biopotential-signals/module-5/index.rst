@@ -209,7 +209,7 @@ Katz used electrophysiology to study how muscle cells respond electrically when 
 * One of Katz’s major discoveries was the idea of quantal release, meaning neurotransmitters are released in small, fixed packets instead of continuously.
 * He confirmed this by studying miniature end-plate potentials (MEPPs), which occur even without any stimulation. Miniature end-plate potentials are tiny, spontaneous electrical signals seen in muscle fibers even when the motor neuron is not firing.
 
-5.4.2 Significance : 
+5.4.2 Significance: 
 ========================
 
 Bernard Katz studied the frog neuromuscular junction and discovered that neurotransmitters are released in discrete packets (quanta). Using electrophysiology, he showed that Calcium is essential for neurotransmitter release-lower calcium → smaller EPPs. His findings proved that synaptic transmission is quantized, not continuous, and earned him the Nobel Prize (1970).
