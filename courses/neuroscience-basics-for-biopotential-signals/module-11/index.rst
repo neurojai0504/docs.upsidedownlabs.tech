@@ -3,10 +3,18 @@
 Module 11 : Conclusion
 #############################################
 
+.. figure:: ../media/course-conclusion.*
+   :align: center
+   :alt: Course Conclusion
+
 11.1 Why Neuroscience Matters Today
 *********************************************
 
 - Imagine a world where we don't just treat the brain, we understand it. **Neuroscience is not just a dusty textbook subject, it's the key to decoding humanity's greatest mysteries**. From the spark of creativity that birthed symphonies and startups to the silent struggles of **mental health crises affecting almost every 1 in 7 people globally**, neuroscience bridges the gap between who we are and who we could become. 
+
+.. figure:: ../media/mental-health-crisis.*
+   :align: center
+   :alt: Mental Health Crisis
 
 - **Neuroscience is no longer confined to laboratories and hospitals**, it is now a foundational pillar of modern technology, healthcare and human machine interaction. From understanding brain function and sensory systems to developing assistive devices, brain computer interfaces and wearable health technologies, neuroscience plays a critical role in shaping the future.
 
@@ -35,6 +43,10 @@ Across Modules 1 to 10, this course systematically guided you through :
 
 11.3 Importance of This Course Being Open Source
 *******************************************************
+
+.. figure:: ../media/open-source-education.*
+   :align: center
+   :alt: Open Source Education
 
 One of the core values behind this course is accessibility. High-quality neuroscience and biomedical education is often expensive and restricted. By making this course open source, we aim to :
 
