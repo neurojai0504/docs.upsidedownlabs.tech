@@ -3,7 +3,7 @@
 Module 10 : EOG
 #############################################
 
-- **Basic Terminologies**
+- **Basic Terminology**
 
   1. **Electrooculography** : Technique to measure the electrical activity of the eye.
   2. **Electrooculograph** : Device to measure the electrical activity of the eye.
