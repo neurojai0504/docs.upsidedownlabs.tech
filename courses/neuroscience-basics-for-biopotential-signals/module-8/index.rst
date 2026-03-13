@@ -229,7 +229,7 @@ In this module, we learned about ECG/EKG, a non-invasive technique used to recor
 
 .. warning::
 
-    **This content is provided solely for educational purposes only. Always seek medical advice from a healthcare expert for clinical application.**
+    **This content is provided solely for educational purposes. Always seek medical advice from a healthcare expert for clinical application.**
 
 
 8.9 References

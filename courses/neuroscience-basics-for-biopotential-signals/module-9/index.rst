@@ -234,7 +234,7 @@ EEG is a non-invasive technique that records the brain’s electrical activity u
 
 .. warning::
 
-    **This content is provided solely for educational purposes only. Always seek medical advice from a healthcare expert for clinical application.**
+    **This content is provided solely for educational purposes. Always seek medical advice from a healthcare expert for clinical application.**
 
 9.9 References
 ************************

@@ -153,7 +153,7 @@ Electrooculography is a valuable non invasive technique for recording eye moveme
 
 .. warning::
 
-    **This content is provided solely for learning purposes only. Always seek medical advice from a healthcare expert for clinical application.**
+    **This content is provided solely for learning purposes. Always seek medical advice from a healthcare expert for clinical application.**
 
 10.8 References 
 *********************
