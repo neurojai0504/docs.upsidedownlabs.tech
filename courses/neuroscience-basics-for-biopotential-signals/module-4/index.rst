@@ -64,7 +64,7 @@ The action potential consists of several distinct phases, each characterized by 
 Resting Phase 
 ===============
 
-At the resting phase, the neuron has a resting potential of around -70 mv, and the voltage-gated sodium and 
+At the resting phase, the neuron has a resting potential of around -70 mV, and the voltage-gated sodium and 
 potassium channels are closed.
 
 

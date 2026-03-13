@@ -49,7 +49,7 @@ When groups of neurons in the brain fire synchronously, they generate tiny elect
 9.3.3 Signal Amplification and Filtering
 ==================================================
 
-Since these signals are extremely weak (measured in microvolts), they are first amplified to make them readable. Then, unwanted noise,such as eye blinks, muscle artifacts, or 50/60 Hz power line interference-is filtered out to ensure the recorded data is clean and accurate.
+Since these signals are extremely weak (measured in microvolts), they are first amplified to make them readable. Then, unwanted noise, such as eye blinks, muscle artifacts, or 50/60 Hz power line interference-is filtered out to ensure the recorded data is clean and accurate.
 
 **Upside Down Labs Hardware compatible with EEG signal acquisition and processing:**
 
@@ -110,7 +110,7 @@ In some advanced setups, additional electrodes are placed for more detailed spat
 
 5. **Gamma waves** 
 
-   - Frequency range : 30-100 Hz
+   - Frequency range : 30-80 Hz
    - Associated with higher mental activity, cognitive processing, and information integration. 
    - They are often seen in tasks requiring concentration and problem-solving. 
    - Gamma waves are the fastest EEG oscillations.

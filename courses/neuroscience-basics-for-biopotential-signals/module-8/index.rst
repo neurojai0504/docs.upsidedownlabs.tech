@@ -80,16 +80,16 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 - **QRS Interval**: The QRS interval is measured from the beginning of the Q wave (or R wave if the Q is absent) to the end of the S wave, which is the point where the wave returns to the baseline, known as the J point
 
    - **Normal duration:** The normal QRS interval is between 0.06 and 0.10 seconds (60 to 100 milliseconds).
-   - **Significance:** This represents ventricular depolarization. The atrial repolarization (T wave) also occurs during this period.
+   - **Significance:** This represents ventricular depolarization. The atrial repolarization (Ta wave) also occurs during this period.
 
-- **ST Segment**: This is the interval between the J point and ends at the beginning of T wave. It is calculated by deducting QRS interval from QT interval.
+- **ST Segment**: This is the interval between the J point and ends at the beginning of T wave. 
 
-   - **Normal duration:** The average duration is 0.32 second.
+   - **Normal duration:** The average duration is 0.08 to 0.12 second (rate dependent).
    - **Significance:** This represents ventricular repolarization. 
   
 - **T Wave**: Represents ventricular repolarization, or the recovery phase after contraction.
 
-- **QT Interval**: This intervalincludes the QRS complex, ST segment and T wave. It is measured from the beginning of the QRS complex to the end of the T wave.
+- **QT Interval**: This interval includes the QRS complex, ST segment and T wave. It is measured from the beginning of the QRS complex to the end of the T wave.
    
    - **Normal duration:** The normal range is between 0.40 and 0.43 second.
    - **Significance:** This represents ventricular depolarization and ventricular repolarization. It corresponds to the duration of electrical systole. 

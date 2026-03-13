@@ -217,7 +217,7 @@ The Peripheral Nervous System connects the Central Nervous System to the rest of
 1.3.1 Somatic Nervous System (SNS)
 =====================================
 
-The Somatic Nervous System controls voluntary movements and transmits sensory information to and from the central nervous system. It consists:
+The Somatic Nervous System controls voluntary movements and transmits sensory information to and from the central nervous system. It consists of:
 
 a. **Sensory Neurons (Afferent Neurons):** These neurons carry signals from sensory receptors (skin, muscles, joints) to the CNS, allowing us to perceive sensations like pain, temperature, and touch.
 b. **Motor Neurons (Efferent Neurons):** These neurons transmit commands from the CNS to the skeletal muscles, enabling voluntary movement such as walking, talking, and picking up objects.

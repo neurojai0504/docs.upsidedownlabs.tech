@@ -44,7 +44,7 @@ Mechanism of Electrical Synapse
 Structure of Chemical Synapse
 -------------------------------------------
 
-Chemical synapse consist of a presynaptic neuron (which sends signals) and a postsynaptic neuron (which receives signal), separated by a synaptic cleft. 
+Chemical synapse consists of a presynaptic neuron (which sends signals) and a postsynaptic neuron (which receives signal), separated by a synaptic cleft. 
 
 Mechanism of Chemical Synapse
 --------------------------------------
@@ -73,7 +73,7 @@ the vesicle merges with the plasma membrane and releases the stored neurotransmi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Once released, the neurotransmitters diffuse across the synaptic cleft and reach the postsynaptic membrane. The postsynaptic membrane contains specific receptors that
-recognize and bind to the neurotransmitters. These receptors are ligand-dependent, meaning they are activated when a neurotransmitters binds to them. 
+recognize and bind to the neurotransmitters. These receptors are ligand-dependent, meaning they are activated when a neurotransmitter binds to them. 
 
 5.1.3 Types of Postsynaptic Receptors
 ===============================================
@@ -216,7 +216,7 @@ Bernard Katz studied the frog neuromuscular junction and discovered that neurotr
 
 5.5 SNARE Proteins [3]_
 *************************
-S proteins are special proteins that help a neuron in releasing neurotransmitters. They are of 2 types:
+SNARE proteins are special proteins that help a neuron in releasing neurotransmitters. They are of 2 types:
 
 * **v-SNAREs (vesicle SNAREs)**: These proteins are located on the synaptic vesicle membrane. The most common v-SNARE is synaptobrevin (also known as VAMP).
 * **t-SNAREs (target SNAREs)**: These are found on the presynaptic membrane and interact with v-SNAREs to facilitate vesicle fusion. The main t-SNAREs include syntaxin and SNAP-25.
