@@ -19,7 +19,7 @@ science behind biopotential signals and the hardware used to record them.
 Why Neuroscience Matters Today
 *****************************************
 
-- Imagine a world where we don't just treat the brain, we understand it. **Neuroscience is not just a dusty textbook subject, it's the key to decoding humanity's greatest mysteries**. From the spark of creativity that birthed symphonies and startups to the silent struggles of **mental health crises affecting almost every 1 in 7 people globally** [1]_ , neuroscience bridges the gap between who we are and who we could become. 
+- Imagine a world where we don't just treat the brain, we understand it. **Neuroscience is not just a dusty textbook subject, it's the key to decoding humanity's greatest mysteries**. From the spark of creativity that birthed symphonies and startups to the silent struggles of **mental health crises affecting almost 1 in 7 people globally** [1]_ , neuroscience bridges the gap between who we are and who we could become. 
 
 .. figure:: neuroscience-basics-for-biopotential-signals/media/mental-health-crisis.*
    :align: center
