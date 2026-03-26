@@ -31,9 +31,9 @@ Why Neuroscience Matters Today
 
 - These courses were designed to provide a **strong conceptual foundation in neuroscience specifically oriented toward biopotential signal acquisition**, ensuring that learners can move confidently from theory to practical implementation.
 
-.. note:: **How EMG, EOG & ECG relates to neuroscience ?**
+.. note:: **"How EMG, EOG & ECG relates to neuroscience?"**
 
-    Did this question cross your mind as well? If so, you are not alone we also had the same doubt at first. Neuroscience is often misunderstood as being limited to the brain and EEG recordings. In reality, neuroscience encompasses the entire nervous system, not just the brain. Signals such as ECG, EMG, and EOG are not separate from neuroscience as they are direct physiological expressions of neural activity. **Neuroscience is defined not by where electrodes are placed, but by whether the recorded signal originates from neural control or not**.
+    Did this question cross your mind as well? If so, you are not alone; we also had the same doubt at first. Neuroscience is often misunderstood as being limited to the brain and EEG recordings. In reality, neuroscience encompasses the entire nervous system, not just the brain. Signals such as ECG, EMG, and EOG are not separate from neuroscience as they are direct physiological expressions of neural activity. **Neuroscience is defined not by where electrodes are placed, but by whether the recorded signal originates from neural control or not**.
 
 Importance of these Courses Being Open Source
 *******************************************************
