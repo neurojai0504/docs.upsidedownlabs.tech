@@ -337,7 +337,7 @@ Based on dendritic pattern
         :align: center
         :alt: Human nervous system fun fact
 
-1.5 Glial Cells
+1.5 Glial cells
 ******************
 
 Glial cells (or neuroglia) are non-neuronal cells of the nervous system which provide structural support, nourishment and protection to the neurons. 

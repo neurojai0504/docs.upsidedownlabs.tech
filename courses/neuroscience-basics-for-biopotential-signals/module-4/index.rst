@@ -94,7 +94,7 @@ Repolarization Phase (Falling Phase)
 =============================================
 
 - Repolarization occurs due to opening of voltage-gated K⁺ channels, which causes efflux of potassium ions (K⁺ ) from the neuron.
--  K⁺ channels are activated by the same depolarization that opens Na⁺ channels, but they open more slowly.
+- K⁺ channels are activated by the same depolarization that opens Na⁺ channels, but they open more slowly.
 - At the peak of the action potential (around +35 mV), two key events occur:
   
   a. Voltage-gated Na⁺ channels become inactivated, stopping Na⁺ influx.

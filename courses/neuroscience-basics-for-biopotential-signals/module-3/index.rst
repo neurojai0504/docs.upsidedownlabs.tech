@@ -131,4 +131,4 @@ Together, these passive properties explain why some signals weaken over distance
 
 .. [1] `Bretschneider, F., & De Weille, J. R. (2006). Electricity. In Elsevier eBooks (pp. 1–33). <https://doi.org/10.1016/b978-012370588-4/50060-9>`_
 
-.. [2] https://dl.icdst.org/pdfs/files3/4eefe1a7a1ce94cf7ffb9e98f7ca5084.pdf
+2. https://dl.icdst.org/pdfs/files3/4eefe1a7a1ce94cf7ffb9e98f7ca5084.pdf
