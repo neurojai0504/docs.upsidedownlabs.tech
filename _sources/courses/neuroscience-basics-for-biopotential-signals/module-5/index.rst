@@ -330,7 +330,7 @@ Instead, these signals come from the summed postsynaptic potentials (EPSPs + IPS
 5.7.7 Gabapentin and Pregabalin
 ===============================
 
-**Mechanism**: Gabapentin and pregabalin inhibit voltage-gated calcium (Ca²⁺ ) channels in presynaptic neurons, reducing calcium influx.
+**Mechanism**: Gabapentin and pregabalin inhibit voltage-gated calcium (Ca²⁺) channels in presynaptic neurons, reducing calcium influx.
 
 **Effects**: Reduced calcium entry leads to decreased neurotransmitter release from the presynaptic terminal.
 

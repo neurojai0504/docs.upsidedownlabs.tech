@@ -3,6 +3,10 @@
 Module 7: EMG
 ##########################
 
+.. figure:: ../media/course-emg-banner.*
+   :align: center
+   :alt: EMG Banner 
+
 Basic Terminology
 *********************************
 
@@ -52,6 +56,18 @@ of the skin above the muscle.
 In surface EMG, small sensors called electrodes are placed on the skin directly above the muscle being studied. These are 
 usually pre-gelled  `(Gel electrodes) <https://store.upsidedownlabs.tech/?s=gel+electrodes&post_type=product>`_ or dry 
 electrodes `(BioAmp bands) <https://store.upsidedownlabs.tech/?s=bioamp+band&post_type=product>`_  which stick to the skin and may not require conductive gel. 
+
+.. figure:: ../media/course-emg-gel-electrode.*
+   :align: center
+   :alt: EMG Gel Electrode Placement 
+
+   Using gel electrodes for surface EMG recording
+
+.. figure:: ../media/course-emg-dry-electrode.*
+   :align: center
+   :alt: EMG Dry Electrode Placement 
+
+   Using dry electrodes (BioAmp Bands) for surface EMG recording
 
 .. note::
 
@@ -120,6 +136,12 @@ We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` so
 7.5.1 Clinical Applications
 ===========================================
 
+.. figure:: ../media/course-emg-clinical-applications.*
+   :align: center
+   :alt: EMG Clinical Applications
+
+   EMG clinical applications (rehabilitation)
+
 Surface EMG (sEMG) plays an important role in healthcare, especially for diagnosing and treating muscle and nerve related 
 problems:
 
@@ -132,6 +154,12 @@ problems:
 7.5.2 Sports Science and Biomechanics
 ===============================================
 
+.. figure:: ../media/course-emg-sports-applications.*
+   :align: center
+   :alt: EMG Sports Applications
+
+   EMG applications in sports and exercise science
+
 In sports and exercise, sEMG gives coaches and athletes detailed insight into what the muscles are actually doing:
 
 1. **Performance Monitoring**: By recording which muscles fire, when, and how hard during training or competition, athletes and trainers can create more effective programs, improve strength and power, and reduce the risk of injuries.
@@ -140,6 +168,12 @@ In sports and exercise, sEMG gives coaches and athletes detailed insight into wh
 
 7.5.3 Prosthetics and Robotics
 ===========================================
+
+.. figure:: ../media/course-emg-prosthetics-applications.*
+   :align: center
+   :alt: EMG Prosthetics Applications
+
+   EMG applications in prosthetics and robotics
 
 One of the most life-changing uses of sEMG is in controlling artificial limbs and assistive devices:
 

@@ -1,11 +1,11 @@
 .. _neuroscience-basics-for-biopotential-signals-module-6:
 
-Module 6: Biopotential Signals 
-#############################################
+Module 6: Biopotential Signals  [1]_
+#####################################
 
-Biopotentials are electrical signals generated within the body. They come from excitable cells found in the nervous system,
+Biopotential signals are electrical signals generated within the body. They come from excitable cells found in the nervous system,
 muscles, and glands. When one of these cells gets stimulated, it triggers either an action potential or a graded potential. 
-These electrical potentials form the basis of all measurable biopotential signals in the body. [1]_ 
+These electrical potentials form the basis of all measurable biopotential signals in the body.
 
 **Upside Down Labs** has engineered multiple open-source :ref:`BioAmp Hardware <upsidedownlabs_hardware_home>` and :ref:`BioAmp Software <upsidedownlabs_software_home>` to measure and 
 visualize the body's biopotential signals. These signals include:
@@ -18,30 +18,30 @@ visualize the body's biopotential signals. These signals include:
     
 - **Electrocardiography (ECG)**: 
   
-Electrocardiography (ECG) is a non-invasive diagnostic technique used to record the electrical activity of the heart over 
-time. The heart generates electrical impulses that coordinate the contraction and relaxation of cardiac muscles, allowing 
-blood to be pumped throughout the body. ECG electrodes placed on the skin detect these electrical signals and display them as 
-waveforms (P wave, QRS complex, and T wave). This method is widely used to evaluate heart rhythm, detect arrhythmias, 
-myocardial infarction, and other cardiac abnormalities.
+  Electrocardiography (ECG) is a non-invasive diagnostic technique used to record the electrical activity of the heart over 
+  time. The heart generates electrical impulses that coordinate the contraction and relaxation of cardiac muscles, allowing 
+  blood to be pumped throughout the body. ECG electrodes placed on the skin detect these electrical signals and display them as 
+  waveforms (P wave, QRS complex, and T wave). This method is widely used to evaluate heart rhythm, detect arrhythmias, 
+  myocardial infarction, and other cardiac abnormalities.
 
 - **Electromyography (EMG)**: 
 
-Electromyography (EMG) is a technique used to measure and record the electrical activity produced by skeletal muscles during rest and contraction. When a motor neuron
-stimulates a muscle fiber, an electrical signal called a motor unit action potential is generated. EMG detects these signals using surface electrodes or needle electrodes
-inserted into the muscle. It is commonly used to assess neuromuscular disorders, muscle dysfunction, nerve damage, and diseases affecting motor control.
+  Electromyography (EMG) is a technique used to measure and record the electrical activity produced by skeletal muscles during rest and contraction. When a motor neuron
+  stimulates a muscle fiber, an electrical signal called a motor unit action potential is generated. EMG detects these signals using surface electrodes or needle electrodes
+  inserted into the muscle. It is commonly used to assess neuromuscular disorders, muscle dysfunction, nerve damage, and diseases affecting motor control.
 
 - **Electrooculography (EOG)**: 
 
-Electrooculography (EOG) is a technique used to measure the electrical potential difference between the front (cornea) and back (retina) of the eye. As the eyes move, this
-potential difference changes and can be detected by electrodes placed around the eyes. EOG is commonly used to track eye movements, study visual behavior, and assess
-retinal function. It is also used in sleep research to identify rapid eye movement (REM) during sleep.
+  Electrooculography (EOG) is a technique used to measure the electrical potential difference between the front (cornea) and back (retina) of the eye. As the eyes move, this
+  potential difference changes and can be detected by electrodes placed around the eyes. EOG is commonly used to track eye movements, study visual behavior, and assess
+  retinal function. It is also used in sleep research to identify rapid eye movement (REM) during sleep.
 
 - **Electroencephalography (EEG)**:
 
-Electroencephalography (EEG) is a method used to record the electrical activity of the brain produced by the synchronized activity of neurons, primarily in the cerebral cortex.
-Electrodes placed on the scalp detect small voltage fluctuations resulting from neuronal activity. EEG signals appear as brain waves (such as alpha, beta, theta, and delta waves).
-This technique is widely used in neuroscience and clinical settings to study brain function, diagnose neurological disorders such as epilepsy, monitor sleep stages, and investigate
-cognitive processes.
+  Electroencephalography (EEG) is a method used to record the electrical activity of the brain produced by the synchronized activity of neurons, primarily in the cerebral cortex.
+  Electrodes placed on the scalp detect small voltage fluctuations resulting from neuronal activity. EEG signals appear as brain waves (such as alpha, beta, theta, and delta waves).
+  This technique is widely used in neuroscience and clinical settings to study brain function, diagnose neurological disorders such as epilepsy, monitor sleep stages, and investigate
+  cognitive processes.
 
 
 BioAmp devices serve as a catalyst for the development of innovative **Human-Computer Interface (HCI)** and **Brain-Computer 
@@ -88,7 +88,7 @@ Electrooculography (EOG)
     :align: center
     :alt: Target area to record EOG 
 
-    Target area to record EOG
+    Target area to record EOG(single channel)
 
 Electromyography (EMG)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -97,7 +97,7 @@ Electromyography (EMG)
     :align: center
     :alt: Target area to record EMG
 
-    Target area to record EMG
+    Target area to record EMG(single channel)
 
 
 Electrocardiography (ECG)
@@ -107,7 +107,7 @@ Electrocardiography (ECG)
     :align: center
     :alt: Target area to record ECG
 
-    Target area to record ECG
+    Target area to record ECG(single channel)
 
 
 Electroencephalography (EEG)
@@ -117,7 +117,7 @@ Electroencephalography (EEG)
     :align: center
     :alt: Target area to record EEG
 
-    Target area to record EEG
+    Target area to record EEG(single channel)
 
 Step 2: Apply NuPrep gel
 ------------------------------
