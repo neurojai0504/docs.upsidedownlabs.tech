@@ -5,7 +5,7 @@ Module 5: The Synapse
 
 A synapse is a junction between two neurons (nerve cells) or between a neuron and another cell, such as muscle or a gland cell that allows them to communicate. It is the site where electrical or chemical signals are transmitted from one cell to another.
 
-.. todo:: ADD SYNAPSE DIAGRAM 
+.. todo:: Add a synaptic transmission graphic here
 
 5.1 Types of synapse
 *************************
@@ -18,7 +18,7 @@ There are generally 2 main types of synapse:
 5.1.1 Electrical Synapse 
 =================================
 
-.. todo:: Add diagram
+.. todo:: Add graphic of electrical synapse
 
 Electrical synapses allow direct communication between adjacent cells through specialized protein channels called gap junctions.
 
@@ -39,7 +39,7 @@ Mechanism of Electrical Synapse
 5.1.2 Chemical Synapse 
 ===============================
 
-.. todo:: Add diagram
+.. todo:: Add graphic of chemical synapse
 
 Structure of Chemical Synapse
 -------------------------------------------
@@ -52,6 +52,8 @@ Mechanism of Chemical Synapse
 1. Arrival of Action Potential
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. todo:: Add graphic of this step as shared
+
 When an action potential reaches the presynaptic terminal, it causes depolarization of the presynaptic membrane. This electrical signal initiates the movement of synaptic vesicles
 toward the presynaptic membrane near the synaptic cleft. These vesicles contain neurotransmitters, which function as chemical messenger molecules that transmit signals
 between neurons.
@@ -59,12 +61,16 @@ between neurons.
 2. Opening of Voltage-Gated Calcium Channels
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. todo:: Add graphic of this step as shared
+
 The depolarization of the presynaptic membrane causes the opening of voltage-gated calcium (Ca²⁺) channels. As a result, calcium ions enter the presynaptic terminal from
 the extracellular fluid. The increase in intracellular calcium concentration triggers conformational changes in the proteins associated with synaptic vesicles. These changes
 prepare the vesicles for fusion with the presynaptic membrane.
 
 3. Exocytosis of Neurotransmitters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. todo:: Add graphic of this step as shared
 
 The influx of calcium ions causes the synaptic vesicles to fuse with the presynaptic membrane. This process is known as exocytosis. During exocytosis, the membrane of
 the vesicle merges with the plasma membrane and releases the stored neurotransmitters into the synaptic cleft.
@@ -103,6 +109,8 @@ secondary messengers. This process produces slower but more prolonged cellular r
     protein stimulates adenylyl cyclase and increases cyclic AMP (cAMP) levels. The Gi protein inhibits adenylyl cyclase and decreases cAMP levels, while the Gq protein activates
     phospholipase C (PLC) leading to the production of IP₃ and DAG, which further mediate cellular responses.
 
+.. todo:: Add a graphic for metabotropic and ionotropic receptors as shared
+
 .. note:: 
    
    - For a very long time, scientists believed that electrical synapse is present in whole nervous system (DEVELOPED) but in reality it was chemical synapse which is more common.  
@@ -134,6 +142,8 @@ secondary messengers. This process produces slower but more prolonged cellular r
 *******************************
 
 After neurotransmitters are released into the synaptic cleft, they do not remain there for long. Neurotransmitters present in the synaptic cleft generally follow three main pathways:
+
+.. todo:: Add a graphic for fate of neurotransmitters as shared
 
 1. Reuptake
 ==================
@@ -186,6 +196,8 @@ Important Points
 *********************************
 
 The Bernard Katz experiment, conducted in the mid-20th century by physiologist Bernard Katz and his colleagues, was pivotal in understanding synaptic transmission, particularly at the neuromuscular junction. Here’s a detailed overview of the experiment and its significance:
+
+.. todo:: Add a graphic for bernard Katz experiment as shared
 
 5.4.1 Overview of the Experiment
 ======================================
@@ -278,7 +290,7 @@ Spatial summation occurs when EPSPs or IPSPs arrive at the same time from differ
 5.6.3 How Synaptic Summation Generates Biopotential Signals (EEG, ECG, EMG, and EOG)
 ============================================================================================
 
-Biopotential signals measured from the body—like EEG, ECG, EMG, and EOG—are not recordings of single neurons or single action potentials.
+Biopotential signals measured from the body like EEG, ECG, EMG, and EOG are not recordings of single neurons or single action potentials.
 Instead, these signals come from the summed postsynaptic potentials (EPSPs + IPSPs) of thousands to millions of cells firing together. This combined electrical activity creates voltage changes large enough to be detected by electrodes on the skin or scalp.
 
 

@@ -16,7 +16,7 @@ Basic Terminology
 
 - **Electrooculogram** : An electrooculogram is the graphical recording or output produced by electrooculography. It represents the changes in electrical potential associated with eye movements over time. The electrooculogram typically appears as a waveform or trace on a computer screen or recording system, allowing researchers or clinicians to study patterns of eye movement, and blinking activity.
 
-History of EOG [3]_
+History of EOG [1]_
 *******************************
 
 1. Early discovery of electrical activity of the eye (19th century)
@@ -96,7 +96,7 @@ c. In **neurology and cognitive research** EOG is used to measure
 
 Electrooculography (EOG) is a non-invasive electrophysiological technique used to record the electrical activity produced by eye movements. It is most commonly used to assess retinal function, especially the Retinal Pigment Epithelium (RPE). 
 
-**EOG frequency range : 0.1 to 20 Hz** [1]_
+**EOG frequency range : 0.1 to 20 Hz** [2]_
 
 10.2 Basic principle 
 ***********************
@@ -153,7 +153,7 @@ We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` so
 1. Ophthalmology & Neurology
 ------------------------------------------
 
-- Used in assessment of retinal pigment epithelium (RPE) function to detect diseases such as Best vitelliform macular dystrophy and other maculopathies. [2]_
+- Used in assessment of retinal pigment epithelium (RPE) function to detect diseases such as Best vitelliform macular dystrophy and other maculopathies. [3]_
 - Used in diagnosis and monitoring of eye movement disorders such as nystagmus, saccadic abnormalities, and ocular motor nerve palsies.
 
 2. Sleep medicine
@@ -271,7 +271,6 @@ Electrooculography is a valuable non invasive technique for recording eye moveme
 10.8 References 
 *********************
 
-.. [1] `Banerjee A., Datta S., Pal M., Konar A., Tibarewala D. N., Janarthanan R. "Classifying electrooculogram to detect directional eye movements." Procedia Technology, Vol. 10 (2013), pp. 67–75. <https://doi.org/10.1016/j.protcy.2013.12.338>`_
-.. [2] `Creel DJ. The electrooculogram. Handb Clin Neurol. 2019;160:495-499. doi:10.1016/B978-0-444-64032-1.00033-3 <https://pubmed.ncbi.nlm.nih.gov/31277871/>`_
-
-.. [3] `Heckenlively JR & Arden GB – Principles and Practice of Clinical Electrophysiology of Vision, Adler’s Physiology of the Eye (11th / 12th Edition), Yanoff & Duker – Ophthalmology`
+.. [1] `Heckenlively JR & Arden GB – Principles and Practice of Clinical Electrophysiology of Vision, Adler’s Physiology of the Eye (11th / 12th Edition), Yanoff & Duker – Ophthalmology`
+.. [2] `Banerjee A., Datta S., Pal M., Konar A., Tibarewala D. N., Janarthanan R. "Classifying electrooculogram to detect directional eye movements." Procedia Technology, Vol. 10 (2013), pp. 67–75. <https://doi.org/10.1016/j.protcy.2013.12.338>`_
+.. [3] `Creel DJ. The electrooculogram. Handb Clin Neurol. 2019;160:495-499. doi:10.1016/B978-0-444-64032-1.00033-3 <https://pubmed.ncbi.nlm.nih.gov/31277871/>`_

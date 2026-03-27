@@ -20,6 +20,8 @@ The resting membrane potential of a neuron is the electrical potential differenc
 membrane at which the neuron is in a non-excited state. [1]_  Another way to define it is as the electrical potential difference across a neuron's plasma membrane when the neuron is not actively sending signals.
 It represents the "ready state" of the neuron, where it is stable, polarized, and prepared to fire an action potential when stimulated.
 
+.. todo:: Add a resting potential banner
+
 Understanding the resting potential is essential because it forms the electrical basis of neuronal excitability. Before studying the resting potential
 in detail, it is indeed important to understand the electrical properties of neurons, since neurons primarily communicate through 
 electrical signals (changes in membrane potential) and chemical synapses.
@@ -40,6 +42,8 @@ Current is defined as the rate of flow of electrical charge. In metals, it is du
 
    Current: The movement of ions across the membrane
 
+.. todo:: Add a current graphic (hand designed)
+
 2.1.2 Voltage
 ==============
 
@@ -50,6 +54,8 @@ It is the electrical potential that drives the flow of charge. In the context of
    :alt: voltage in neurons
 
    Voltage: electric potential difference across the neuron's membrane
+
+.. todo:: Add a voltage graphic (hand designed)
 
 To better understand electric potential, it's essential to define electrostatic force.
 
@@ -64,6 +70,8 @@ are part of the fundamental forces of nature and are described by Coulomb's law.
    :alt: electrostatic force
 
    Electrostatic force
+
+.. todo:: Add a similar graphic hand designed
 
 2.1.4 Coulomb's law
 ====================
@@ -80,6 +88,8 @@ Equation 1:
 - k = Coulomb constant (8.99×10*9 Nm*2/C*2)
 - q1,q2 = magnitudes of charges
 - r = distance between the centers of the two charges
+
+.. todo:: Add a graphic of coulomb law (hand designed)
 
 .. admonition:: Additional Info
 
@@ -104,6 +114,8 @@ Equation 1:
 
    Repulsive force
 
+.. todo:: Add 2 graphics hand designed, each of repulsive and attractive forces
+
 2.2 Resting Membrane Potential
 **********************************
 
@@ -117,6 +129,8 @@ potential.
    :alt: Resting potential
 
    Resting potential
+
+.. todo:: Add a similar graphic hand designed
 
 2.2.1 Key features of Resting Membrane Potential (RMP)
 ==========================================================
@@ -173,6 +187,8 @@ Due to the concentration gradient, ions tend to move from areas of higher concen
 
    Diffusion of ions
 
+.. todo:: Add 2 graphics here, one is similar to above(hand designed) and other one is as per shared image
+
 2. Electrostatic forces [1]_
 -----------------------------------
 
@@ -204,6 +220,8 @@ The equilibrium potential (also known as the Nernst potential) for a specific io
 
    Equilibrium potential
 
+.. todo:: Add a similar graphic hand designed
+
 **Nernst Equation:** The equilibrium potential for a specific ion can be calculated using the Nernst equation: [2]_
 
 .. math::
@@ -218,6 +236,8 @@ Where:
 - z is the valence (charge) of the ion.
 - F is Faraday's constant.
 - |Iout| and |Iin| are the concentrations of the ion outside and inside the cell, respectively.
+
+.. todo:: Add a graphic that includes formula and above data
 
 Equilibrium Potentials for major ions: [1]_
 
@@ -242,6 +262,8 @@ where:
 - |PX| is permeability of ion X
 - |Xin| is concentration of ion X inside the cell
 - |Xout| is concentration of ion X outside the cell
+
+.. todo:: Add a graphic that includes above formula and info written above
 
 .. note:: The Nernst potential (or equilibrium potential) indicates the voltage for a specific ion, but since the resting potential is affected by multiple ions, we use the Goldman equation to calculate the overall resting potential of the cell. [1]_
 
@@ -372,6 +394,8 @@ overall cellular homeostasis.
    :alt: Sodium-Potassium pump
 
    Sodium-Potassium Pump
+
+.. todo:: Add a hand designed sodium potassium pump graphic here
 
 .. note::
    1. The pump helps maintain the electrochemical gradient essential for the resting potential, typically around -70 mV in neurons. This gradient is crucial for the generation of action potentials. [7]_

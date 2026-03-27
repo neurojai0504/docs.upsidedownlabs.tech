@@ -40,7 +40,7 @@ Upside Down Labs is committed to :
 11.3 Looking Forward
 ******************************
 
-.. todo:: Add a graphic where different students will be shown contributing to different fields of neuroscience like becoming scientist, neurosurgeon, researchers and innovators of neuroscience. 
+.. todo:: Add a graphic where different students will be shown contributing to different fields of neuroscience like becoming neuroscientist, neurosurgeon, researchers, educators and innovators.
 
 Neuroscience and biopotential signal acquisition are rapidly evolving fields. With the foundation you have gained through this course, you are now equipped to:
 

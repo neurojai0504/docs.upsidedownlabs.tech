@@ -35,6 +35,8 @@ Factors affecting membrane resistance
 - **Myelination:** Myelin increases membrane resistance by preventing ion leakage across the membrane.
 - **Temperature:** Higher temperatures can increase ion mobility, which may decrease membrane resistance.
 
+.. todo:: Add a membrane resistance graphic here showing factors affecting
+
 .. note:: A high membrane resistance helps maintain the membrane's resting potential by minimizing the flow of ions across it. 
 
 .. figure:: ../media/membrane-resistance.*
@@ -55,15 +57,17 @@ Factors affecting axial resistance
 .. figure:: ../media/axial-resistance.*
    :alt: Axial Resistance
 
+.. todo:: Add a axial resistance graphic here showing factor affecting
+
 .. note:: Axial resistance affects how far a signal can travel along an axon without significant potential loss. Lower axial resistance allows signals to travel farther and faster.
 
-.. todo:: ADD RESISTANCE FORMULA
+.. todo:: Add resistance formula
 
 .. admonition:: Conductance
 
    It is the ease with which electric current can flow through a membrane. In the context of neurons, it refers to the ease with which ions can move across the neuronal membrane, meaning a higher conductance indicates a lower resistance, allowing for easier passage of electrical signals through the neuron. 
 
-.. todo:: ADD CONDUCTANCE FORMULA
+.. todo:: Add capacitance formula
 
 
 3.1.2 Capacitance
@@ -83,6 +87,8 @@ Factors Affecting Membrane Capacitance:
 - **Myelination:** Myelin sheaths increase the effective thickness of the membrane, which can decrease capacitance and allow for faster signal transmission.
 
 .. todo:: CAPACITOR FORMULA
+
+.. todo:: Add a capacitance graphic here showing factors affecting it
 
 Role in Membrane Potential
 ---------------------------
