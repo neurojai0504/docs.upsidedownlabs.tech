@@ -11,6 +11,8 @@ In this module, we will study the phases, mechanisms, and factors influencing th
 4.1 Voltage-Gated Ion Channels 
 *******************************
 
+.. todo:: Add a graphic for voltage gated ion channel showing all 3 states(inactivated,closed and open)
+
 In the previous lessons, we have studied about the passive leak ion channels which are unable to generate rapid 
 changes in the membrane potential of a neuron, therefore neurons require another type of ion channel called Voltage Gated 
 Ion Channels.
@@ -58,6 +60,8 @@ The latent period is the short time interval between the application of a stimul
 
 .. figure:: ../media/phases-of-the-action-potential.*
    :alt: phases-of-the-action-potential
+
+.. todo:: Image uploaded to be redesigned (hand made)   
 
 The action potential consists of several distinct phases, each characterized by specific changes in membrane potential and ion movement : 
 
@@ -147,6 +151,8 @@ Return to Resting Phase [1]_
 4.4.2 Propagation in Unmyelinated axons
 ==============================================
 
+.. todo:: Add a graphic for propagation through unmyelinated axon as shared
+
 1. At the site of action potential generation, Na⁺ influx produces accumulation of positive charges, called a current sink.
 2. These positive charges spread to adjacent resting membrane regions.
 3. The adjacent membrane has a resting potential of –70 mV, so the positive charges reduce its potential toward threshold (–55 mV).
@@ -164,6 +170,8 @@ Return to Resting Phase [1]_
 
 4.4.3 Propagation in Myelinated axons (Saltatory Conduction)
 ==================================================================
+
+.. todo:: Add a graphic for propagation through myelinated axon as shared
 
 1. Myelin sheath acts as an electrical insulator, preventing free ion movement across the membrane.
 2. Few voltage-gated Na⁺ channels are present in the myelinated segments. Therefore, action potentials cannot be generated in the myelinated regions.
@@ -215,11 +223,13 @@ to fire another action potential, or requires a stronger-than-normal stimulus to
 action potentials propagate in one direction (without reversing course) and that the cell has enough time to 
 reset its membrane potential to its resting state.
 
+.. todo:: Graphic to be redesigned (hand made)
+
 .. figure:: ../media/refractory-period.*
    :alt: Refractory Period
 
 
-4.5.1 Types of Refractory Periods
+Types of Refractory Periods
 ======================================
 
 1. Absolute Refractory Period: [1]_
@@ -233,8 +243,6 @@ Cause: During the absolute refractory period, the voltage-gated Na⁺ channels a
 
 **Significance:** This period ensures that the action potential travels in only one direction along the axon, as the region that has already undergone depolarization cannot be re-excited immediately. It also prevents the overlapping of action potentials.
 
-.. todo:: add absolute refractory period diagram here.
-
 2. Relative Refractory Period: [1]_
 ------------------------------------------
 
@@ -246,8 +254,6 @@ action potential, but only if the stimulus is stronger than normal.
 **Cause:** During this period, voltage-gated K⁺ channels are still open, causing the membrane potential to be more negative than usual (hyperpolarized). While some of the Na⁺ channels are back to their resting state and capable of reopening, not all of them are reset, so a stronger-than-usual stimulus is needed to overcome this state.
 
 **Significance:** The relative refractory period allows for the possibility of a new action potential but prevents excessive firing, ensuring that neurons do not fire too frequently.
-
-.. todo:: add relative refractory period diagram here.
 
 .. admonition:: Important Fact
    

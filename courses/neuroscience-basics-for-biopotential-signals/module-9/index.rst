@@ -3,6 +3,8 @@
 Module 9 : EEG
 #############################################
 
+.. todo:: Add EEG banner (Devices: NPG Lite + BioAmp EXG Pill)
+
 Basic Terminology
 *********************************
 
@@ -39,7 +41,12 @@ EEG measures the tiny electrical voltages (in microvolts) generated on the scalp
 ==================================
 
 1. In **surface EEG**, small sensors called electrodes are placed on the scalp according to standardized systems like the 10-20 system, which ensures consistent positioning over brain regions.
+
+.. todo:: Surface EEG image required
+
 2. **Electrode Cap**: A wearable cap that holds multiple electrodes in place. This ensures consistent electrode placement and is used for convenience during longer recordings.
+
+.. todo:: Electrode cap EEG image required 
 
 9.3.2 Signal Detection
 =================================
@@ -87,12 +94,16 @@ In some advanced setups, additional electrodes are placed for more detailed spat
    - Amplitude is usually high (>75 microvolts) and can reach up to 200 microvolts in infants.
    - Delta waves are normally present during deep sleep and are also observed in infants, but they can be abnormal in awake adults, indicating brain injury or dysfunction.
 
+.. todo:: Graphics required for associated with 
+
 2. **Theta waves**
 
    - Frequency range : 4-7 Hz
    - Associated with drowsiness and early sleep stages
    - Common during NREM stage 1 and 2 sleep, as well as during deep meditation or relaxation.
    - Also associated with creativity, memory processing and hippocampal activity, but excessive theta activity in awake adults can indicate neurological disorders or cognitive impairment.
+
+.. todo:: Graphics required for associated with 
 
 3. **Alpha waves**
 
@@ -101,12 +112,16 @@ In some advanced setups, additional electrodes are placed for more detailed spat
    - Alpha waves are most prominent when the eyes are closed.
    - Alpha waves decreases or disappears when a person opens their eyes, focuses attention, or engages in mental activity. This phenomenon is known as alpha blocking or alpha attenuation.
 
+.. todo:: Graphics required for associated with 
+
 4. **Beta waves**
 
    - Frequency range : 13-30 Hz
    - Most common EEG pattern seen in awake, alert adults and children
    - Abnormal beta patterns can indicate neurological dysfunction such as in Parkinson’s disease.
    - These waves have relatively low amplitude and high frequency, and are associated with active thinking, problem-solving, and focused mental activity. They are also observed during REM sleep and in certain psychiatric conditions such as anxiety or schizophrenia.
+
+.. todo:: Graphics required for associated with
 
 5. **Gamma waves** 
 
@@ -116,6 +131,8 @@ In some advanced setups, additional electrodes are placed for more detailed spat
    - Gamma waves are the fastest EEG oscillations.
    - They are thought to play a role in consciousness, attention, and memory formation. Abnormal gamma activity has been linked to conditions such as autism and schizophrenia.
    - Gamma waves are typically of low amplitude and can be difficult to detect with standard EEG equipment, often requiring specialized techniques for accurate measurement.
+
+.. todo:: Graphics required for associated with 
 
 9.5 Applications of EEG 
 ********************************

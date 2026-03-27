@@ -3,7 +3,6 @@
 Module 8: ECG/EKG
 #############################################
 
-
 Basic Terminology
 *******************************
 
@@ -107,6 +106,8 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 
     In an electrocardiogram (ECG), a **lead** refers to a specific electrical connection between two electrodes on the body, which allows the recording of the heart's electrical activity from a particular angle or perspective, essentially providing a "view" of the heart's electrical signals from different directions. **A standard 12-lead ECG uses 10 electrodes to create 12 different leads, giving a comprehensive picture of the heart's electrical activity.**
 
+.. todo:: Add a graphic for 12 lead electrode placement for ecg
+
 **Bipolar Leads (I, II, III)**: These leads record the electrical activity between two points.
 
 - Lead I: Measures between the right and left arm.
@@ -120,6 +121,8 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 - aVF: Measures the electrical activity from the left leg.
 
 **Precordial/Chest Leads (V1 to V6)**: These are placed directly on the chest and provide a more localized view of the heart's electrical activity. 
+
+.. todo:: Add a einthoven triangle graphic here
 
 8.4.3 Cardiac Axis
 ===========================
