@@ -3,7 +3,9 @@
 Module 9 : EEG
 #############################################
 
-.. todo:: Add EEG banner (Devices: NPG Lite + BioAmp EXG Pill)
+.. figure:: ../media/course-eeg-banner.*
+   :align: center
+   :alt: EEG Banner 
 
 Basic Terminology
 *********************************
@@ -20,6 +22,10 @@ Basic Terminology
 ****************************
 
 EEG is a non-invasive medical test that records the electrical activity of the brain using small electrodes placed on the scalp. It helps detect abnormal brain wave patterns and is commonly used to diagnose epilepsy, sleep disorders, brain injuries and for studying psychiatric conditions such as bipolar disorder and schizophrenia. 
+
+.. figure:: ../media/course-eeg-introduction.*
+   :align: center
+   :alt: EEG Introductory Image
 
 **Normal EEG Frequency range :**  [1]_
 
@@ -145,6 +151,12 @@ In some advanced setups, additional electrodes are placed for more detailed spat
 - **Monitoring of Brain Activity:** EEG is used in critical care settings to monitor patients who are in coma, vegetative states, or under anesthesia. It can help assess brain function and guide treatment decisions.
 - **Brain Death Diagnosis:** EEG can be used to confirm brain death, which is characterized by the absence of electrical activity in the brain. [4]_
 - **Neurocognitive Disorders:** EEG can help assess conditions such as dementia, Alzheimer’s disease, or encephalitis, as abnormal patterns of brain activity may be observed. [5]_ 
+
+.. figure:: ../media/course-eeg-clinical-applications.*
+   :align: center
+   :alt: EEG Clinical Applications
+
+   EEG helps in diagnosis of brain disorders
 
 2. Research Applications 
 ===============================

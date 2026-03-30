@@ -27,6 +27,10 @@ Why Neuroscience Matters Today
 
 - **Neuroscience is no longer confined to laboratories and hospitals**, it is now a foundational pillar of modern technology, healthcare and human machine interaction. From understanding brain function and sensory systems to developing assistive devices, brain computer interfaces and wearable health technologies, neuroscience plays a critical role in shaping the future.
 
+.. figure:: neuroscience-basics-for-biopotential-signals/media/neuroscience-accessibility.*
+   :align: center
+   :alt: Neuroscience becoming accessible 
+
 - Biopotential signals such as EEG, EMG, ECG, and EOG allow us to listen directly to the body’s electrical language. These signals enable early diagnosis, continuous monitoring, rehabilitation technologies, and inclusive assistive systems for people with disabilities. As technology advances, the integration of neuroscience with electronics, data science and open hardware has become not only valuable but essential.
 
 - These courses were designed to provide a **strong conceptual foundation in neuroscience specifically oriented toward biopotential signal acquisition**, ensuring that learners can move confidently from theory to practical implementation.
