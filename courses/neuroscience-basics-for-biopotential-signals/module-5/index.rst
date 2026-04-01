@@ -18,12 +18,12 @@ There are generally 2 main types of synapse:
 5.1.1 Electrical Synapse 
 =================================
 
-.. todo:: Add graphic of electrical synapse
-
 Electrical synapses allow direct communication between adjacent cells through specialized protein channels called gap junctions.
 
 Structure of Electrical Synapse
 -----------------------------------
+
+.. todo:: Add graphic of electrical synapse structure
 
 - Electrical synapses are formed by gap junction channels that connect the cytoplasm of two neighboring cells.
 - Each gap junction channel is composed of two connexons, one from each cell.
@@ -38,8 +38,6 @@ Mechanism of Electrical Synapse
  
 5.1.2 Chemical Synapse 
 ===============================
-
-.. todo:: Add graphic of chemical synapse
 
 Structure of Chemical Synapse
 -------------------------------------------
@@ -192,12 +190,12 @@ Important Points
 * How far and how strongly they spread depends on membrane resistance (Rm), internal resistance (Ri), capacitance (Cm), the length constant (λ), and the time constant (τ). :ref:`(Module 3) <neuroscience-basics-for-biopotential-signals-module-3>`
 * When many EPSPs combine and reach threshold, the neuron fires an action potential. IPSPs work against this process, preventing the membrane from reaching threshold and reducing the chance of firing. :ref:`(Module 4) <neuroscience-basics-for-biopotential-signals-module-4>`
 
+.. todo:: Add a graphic of overview of synaptic transmission at neuromuscular junction as shared
+
 5.4 Bernard Katz experiment
 *********************************
 
 The Bernard Katz experiment, conducted in the mid-20th century by physiologist Bernard Katz and his colleagues, was pivotal in understanding synaptic transmission, particularly at the neuromuscular junction. Here’s a detailed overview of the experiment and its significance:
-
-.. todo:: Add a graphic for bernard Katz experiment as shared
 
 5.4.1 Overview of the Experiment
 ======================================
@@ -206,17 +204,17 @@ The Bernard Katz experiment, conducted in the mid-20th century by physiologist B
 ---------------
 Katz studied the neuromuscular junction in frogs, the place where motor neurons connect with muscle fibers. His goal was to figure out how a nerve signal triggers a muscle to contract.
 
-2. Method
+1. Method
 --------------
 Katz used electrophysiology to study how muscle cells respond electrically when a motor neuron activates them. He measured the postsynaptic potentials in the muscle fibers after stimulating the motor neuron and also observed how changing the calcium ion concentration affected these responses.
 
-3. Findings
+1. Findings
 ----------------
 * Katz observed that when the presynaptic neuron releases neurotransmitters (mainly acetylcholine), the muscle fiber produces end-plate potentials (EPPs). End-plate potentials are the small electrical changes produced in muscle fiber when a motor neuron releases neurotransmitters at the neuromuscular junction.
 * He noticed that the strength of an EPP changes depending on how many neurotransmitter molecules are released. 
 * When he lowered the calcium concentration in the surrounding solution, the EPPs became smaller, showing that calcium ions are essential for neurotransmitter release.
 
-4. Quantal Release
+1. Quantal Release
 ---------------------
 * One of Katz’s major discoveries was the idea of quantal release, meaning neurotransmitters are released in small, fixed packets instead of continuously.
 * He confirmed this by studying miniature end-plate potentials (MEPPs), which occur even without any stimulation. Miniature end-plate potentials are tiny, spontaneous electrical signals seen in muscle fibers even when the motor neuron is not firing.

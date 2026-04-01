@@ -154,17 +154,17 @@ We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` so
 ------------------------------------------
 
 - Used in assessment of retinal pigment epithelium (RPE) function to detect diseases such as Best vitelliform macular dystrophy and other maculopathies. [3]_
-- Used in diagnosis and monitoring of eye movement disorders such as nystagmus, saccadic abnormalities, and ocular motor nerve palsies.
+- Used in diagnosis and monitoring of eye movement disorders such as nystagmus, saccadic abnormalities, and ocular motor nerve palsies. [4]_
 
-2. Sleep medicine
+2. Sleep medicine [5]_
 --------------------------------
 
 - Used for assessment of sleep disorders (such as narcolepsy, sleep apnea, parasomnias, etc.) by sleep staging as done in polysomnography to observe REM(rapid eye movement) sleep which is associated with dreaming during sleep.
 - EOG is recorded together with electroencephalography (EEG) and electromyography (EMG) during polysomnography to classify sleep stages (N1, N2, N3, and REM). Characteristic eye movement patterns such as slow rolling eye movements and rapid eye movements help in accurate sleep staging and diagnosis of sleep disorders.
 
 
-10.4.2 Human-Computer interaction
-=======================================
+10.4.2 Human-Computer interaction [6]_
+===================================================
 
 .. figure:: ../media/course-eog-hci-applications.*
    :align: center
@@ -172,7 +172,7 @@ We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` so
 
    EOG applications in human computer interaction (HCI)
 
-1. Marketing and Advertising 
+1. Marketing and Advertising
 ---------------------------------------
 
 EOG based eye tracking is used in market research to analyze consumer behavior, such as what parts of advertisements or websites capture attention.
@@ -193,16 +193,16 @@ without using hands.
 
    EOG applications in assistive technology
 
-1. Communication Aids
+1. Communication Aids [7]_
 ---------------------------------
 EOG is widely used in assistive technology for individuals with severe disabilities (e.g., locked-in syndrome). It allows them to communicate by detecting eye movements to select letters, words, or symbols on a screen.
 
-2. Control Systems 
+2. Control Systems [8]_
 ------------------------------------
 
 Eye movements captured by EOG can be integrated into control systems for various devices like wheelchairs or even computers, helping people with mobility impairments.
 
-10.4.4 Driver Monitoring in Vehicles Using Eye-Tracking 
+10.4.4 Driver Monitoring in Vehicles Using Eye-Tracking [9]_
 ===============================================================
 
 Although most commercial driver monitoring systems rely on camera-based eye tracking, EOG has been explored in research for detecting driver fatigue and drowsiness through eye movement patterns. By analyzing eye movements, the system can identify when a driver is losing concentration or becoming tired. This information can then be integrated into vehicle safety features to provide timely alerts or adjust vehicle controls to enhance safety on the road.
@@ -273,4 +273,10 @@ Electrooculography is a valuable non invasive technique for recording eye moveme
 
 .. [1] `Heckenlively JR & Arden GB – Principles and Practice of Clinical Electrophysiology of Vision, Adler’s Physiology of the Eye (11th / 12th Edition), Yanoff & Duker – Ophthalmology`
 .. [2] `Banerjee A., Datta S., Pal M., Konar A., Tibarewala D. N., Janarthanan R. "Classifying electrooculogram to detect directional eye movements." Procedia Technology, Vol. 10 (2013), pp. 67–75. <https://doi.org/10.1016/j.protcy.2013.12.338>`_
-.. [3] `Creel DJ. The electrooculogram. Handb Clin Neurol. 2019;160:495-499. doi:10.1016/B978-0-444-64032-1.00033-3 <https://pubmed.ncbi.nlm.nih.gov/31277871/>`_
+.. [3] `The short wavelength electro-oculogram (SW-EOG) in best disease: preliminary results <https://pubmed.ncbi.nlm.nih.gov/41629643/>`_
+.. [4] `A quantitative assessment of EOG eye tracking during free viewing in sighted and in congenitally blind <https://www.sciencedirect.com/science/article/pii/S0006899325003555>`_
+.. [5] `Electro-oculography-based detection of sleep-wake in sleep apnea patients <https://pubmed.ncbi.nlm.nih.gov/25269754/>`_
+.. [6] `Feasibility of Using Electrooculography-Based Eye-Trackers for Neuromarketing Applications <https://ieeexplore.ieee.org/abstract/document/9931738>`_
+.. [7] `Electrooculugram based Communication System for People with Locked-in-Syndrome <https://ieeexplore.ieee.org/abstract/document/9179323>`_
+.. [8] `Design and Development of an EOG-based System to Control Electric Wheelchair for People Suffering from Quadriplegia or Quadriparesis <https://ieeexplore.ieee.org/abstract/document/8644378>`_
+.. [9] `Development of vehicle driver drowsiness detection system using electrooculogram (EOG) <https://ieeexplore.ieee.org/abstract/document/4977181>`_

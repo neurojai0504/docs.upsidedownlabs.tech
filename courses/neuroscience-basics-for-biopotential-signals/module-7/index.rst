@@ -38,7 +38,7 @@ does not directly measure the activity at the NMJ, it can provide indirect insig
 through the electrical activity it detects in muscles. 
 
 **EMG frequency range**: The EMG signal ranges from **10 to 500 Hz** in frequency, but most of its useful energy is concentrated 
-between **50 and 150 Hz**.
+between **50 and 150 Hz** [1]_
 
 7.2 Basic principle 
 ******************************
@@ -145,9 +145,9 @@ We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` so
 Surface EMG (sEMG) plays an important role in healthcare, especially for diagnosing and treating muscle and nerve related 
 problems:
 
-1. **Neurological disorders**: Clinicians use sEMG to diagnose conditions such as muscular dystrophy, amyotrophic lateral sclerosis (ALS), myasthenia gravis, and carpal tunnel syndrome. By looking at abnormal muscle activation patterns, clinicians can spot problems that might not show up on standard tests.
+1. **Neurological disorders**: Clinicians use sEMG to diagnose conditions such as muscular dystrophy, amyotrophic lateral sclerosis (ALS), myasthenia gravis, and carpal tunnel syndrome. By looking at abnormal muscle activation patterns, clinicians can spot problems that might not show up on standard tests. [2]_
 
-2. **Muscle Weakness and Fatigue**: It’s very useful for assessing how well muscles work in patients who experience weakness, chronic fatigue, or paralysis (for example, after a stroke or spinal cord injury).
+2. **Muscle Weakness and Fatigue**: It’s very useful for assessing how well muscles work in patients who experience weakness, chronic fatigue, or paralysis (for example, after a stroke or spinal cord injury). [3]_
 
 3. **Biofeedback Therapy**: Patients can see their own muscle activity in real time on a screen and learn to control it better. This is especially helpful in rehabilitation after injuries, surgeries, or neurological events.
 
@@ -313,3 +313,10 @@ are highlighted below:
 *******************************
 
 In this module, we studied the basics of EMG, its terminology, and focused on Surface EMG (sEMG) as a non-invasive method to measure muscle electrical activity. We learned how sEMG works, including electrode placement, signal detection, amplification, and processing. This module discussed its major applications in clinical diagnosis, sports, rehabilitation, prosthetics, and robotics, along with advantages like real-time feedback and non-invasiveness. We also covered limitations such as crosstalk, movement artifacts, and inability to detect deep muscles, and highlighted its potential in future biomedical and technological innovations.
+
+7.9 References
+********************************
+
+.. [1] https://www.delsys.com/downloads/TUTORIAL/semg-detection-and-recording.pdf
+.. [2] `Recent progress in the diagnostic use of surface EMG for neurological diseases <https://www.sciencedirect.com/science/article/abs/pii/S1050641100000201>`_
+.. [3] `Assessment of Muscles Fatigue Based on Surface EMG Signals Using Machine Learning and Statistical Approaches: A Review <https://iopscience.iop.org/article/10.1088/1757-899X/705/1/012010/meta>`_
