@@ -23,7 +23,8 @@ In this course, we have covered a wide range of topics related to neuroscience a
 11.2 Role of Upside Down Labs
 **********************************
 
-.. todo:: Add a graphic for role of upside down labs in revolutionising neuroscience domain
+.. figure:: ../media/course-upside-down-labs-role.*
+   :align: center
 
 This course would not have been possible without **Upside Down Labs**.
 
@@ -40,7 +41,8 @@ Upside Down Labs is committed to :
 11.3 Looking Forward
 ******************************
 
-.. todo:: Add a graphic where different students will be shown contributing to different fields of neuroscience like becoming neuroscientist, neurosurgeon, researchers, educators and innovators.
+.. figure:: ../media/course-looking-forward.*
+   :align: center
 
 Neuroscience and biopotential signal acquisition are rapidly evolving fields. With the foundation you have gained through this course, you are now equipped to:
 

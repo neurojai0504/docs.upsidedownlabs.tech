@@ -3,6 +3,10 @@
 Module 8: ECG/EKG
 #############################################
 
+.. figure:: ../media/course-ecg-banner.*
+   :align: center
+   :alt: ECG Banner
+
 Basic Terminology
 *******************************
 
@@ -62,6 +66,10 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 
 8.4.1 ECG PQRST Waveform
 ===========================
+
+.. figure:: ../media/course-ecg-pqrst-waveform.*
+   :align: center
+   :alt: EEG PQRST Waveform
 
 - **P Wave**:  Represents atrial depolarization. It is the first small upward deflection on the ECG.
 
@@ -127,6 +135,10 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 8.4.3 Cardiac Axis
 ===========================
 
+.. figure:: ../media/course-ecg-axis-deviation.*
+   :align: center
+   :alt: Cardiac Axis Deviation
+
 The cardiac axis refers to the overall direction of electrical depolarization of the ventricles during the QRS complex. It represents the average direction in which the electrical
 impulse spreads through the ventricles. The cardiac axis is usually expressed in degrees and is analyzed using the frontal plane limb leads of the ECG.
 In a healthy adult, the normal cardiac axis ranges from **–30° to +90°**.
@@ -168,6 +180,10 @@ If the QRS complex is positive → axis is directed downward. If negative → ax
 
 8.5 Applications of ECG 
 *************************************
+
+.. figure:: ../media/course-ecg-clinical-applications.*
+   :align: center
+   :alt: ECG Clinical Applications
 
 **For clinical applications, it is advisable to consult an advanced medical textbook, as it provides more reliable information.**
 
