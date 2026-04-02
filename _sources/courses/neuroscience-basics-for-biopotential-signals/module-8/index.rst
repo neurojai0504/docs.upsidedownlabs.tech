@@ -64,12 +64,14 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
     2. **Segments** : Flat lines between waves 
     3. **Intervals** : Time durations that include both wave and segment 
 
-8.4.1 ECG PQRST Waveform
-===========================
+8.4.1 ECG PQRST Waveform [4]_
+=======================================
 
 .. figure:: ../media/course-ecg-pqrst-waveform.*
    :align: center
-   :alt: EEG PQRST Waveform
+   :alt: ECG PQRST Waveform
+
+   Lead II ECG Waveform [3]_
 
 - **P Wave**:  Represents atrial depolarization. It is the first small upward deflection on the ECG.
 
@@ -114,7 +116,7 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 
     In an electrocardiogram (ECG), a **lead** refers to a specific electrical connection between two electrodes on the body, which allows the recording of the heart's electrical activity from a particular angle or perspective, essentially providing a "view" of the heart's electrical signals from different directions. **A standard 12-lead ECG uses 10 electrodes to create 12 different leads, giving a comprehensive picture of the heart's electrical activity.**
 
-.. todo:: Add a graphic for 12 lead electrode placement for ecg
+.. todo:: Add a graphic for 12 lead placement for ecg
 
 **Bipolar Leads (I, II, III)**: These leads record the electrical activity between two points.
 
@@ -132,12 +134,14 @@ An ECG is composed of several waves, intervals, and segments, each corresponding
 
 .. todo:: Add a einthoven triangle graphic here
 
-8.4.3 Cardiac Axis
+8.4.3 Cardiac Axis [5]_
 ===========================
 
 .. figure:: ../media/course-ecg-axis-deviation.*
    :align: center
    :alt: Cardiac Axis Deviation
+
+   Cardiac Axis Deviation [2]_
 
 The cardiac axis refers to the overall direction of electrical depolarization of the ventricles during the QRS complex. It represents the average direction in which the electrical
 impulse spreads through the ventricles. The cardiac axis is usually expressed in degrees and is analyzed using the frontal plane limb leads of the ECG.
@@ -255,3 +259,7 @@ In this module, we learned about ECG/EKG, a non-invasive technique used to recor
 *******************
 
 .. [1] `Tereshchenko LG, Josephson ME. Frequency content and characteristics of ventricular conduction. J Electrocardiol. 2015;48(6):933-937. doi:10.1016/j.jelectrocard.2015.08.034 <https://pmc.ncbi.nlm.nih.gov/articles/PMC4624499/>`_
+.. [2] Pal, G. (2019). Comprehensive Textbook of Medical Physiology: Two Volume Set (2nd ed.). JP Medical.{Pg 769}
+.. [3] Pal, G. (2019). Comprehensive Textbook of Medical Physiology: Two Volume Set (2nd ed.). JP Medical.{Pg 765}
+.. [4] Pal, G. (2019). Comprehensive Textbook of Medical Physiology: Two Volume Set (2nd ed.). JP Medical.{Pg 764 to 766}
+.. [5] Pal, G. (2019). Comprehensive Textbook of Medical Physiology: Two Volume Set (2nd ed.). JP Medical.{Pg 769 to 770}
