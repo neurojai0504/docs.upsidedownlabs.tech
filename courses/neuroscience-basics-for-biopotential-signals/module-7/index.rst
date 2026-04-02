@@ -149,9 +149,9 @@ problems:
 
 2. **Muscle Weakness and Fatigue**: It’s very useful for assessing how well muscles work in patients who experience weakness, chronic fatigue, or paralysis (for example, after a stroke or spinal cord injury). [3]_
 
-3. **Biofeedback Therapy**: Patients can see their own muscle activity in real time on a screen and learn to control it better. This is especially helpful in rehabilitation after injuries, surgeries, or neurological events.
+3. **Biofeedback Therapy**: Patients can see their own muscle activity in real time on a screen and learn to control it better. This is especially helpful in rehabilitation after injuries, surgeries, or neurological events. [4]_
 
-7.5.2 Sports Science and Biomechanics
+7.5.2 Sports Science and Biomechanics [5]_
 ===============================================
 
 .. figure:: ../media/course-emg-sports-applications.*
@@ -177,13 +177,13 @@ In sports and exercise, sEMG gives coaches and athletes detailed insight into wh
 
 One of the most life-changing uses of sEMG is in controlling artificial limbs and assistive devices:
 
-1. **Control of Prosthetic Limbs**: People with amputations can use the remaining muscle signals in their stump (residual limb) to operate advanced prosthetic arms or hands. When they think about moving the missing limb, the small electrical signals produced by the muscles are picked up by surface electrodes and translated into natural movements (grasping, rotating the wrist, etc.).
+1. **Control of Prosthetic Limbs**: People with amputations can use the remaining muscle signals in their stump (residual limb) to operate advanced prosthetic arms or hands. When they think about moving the missing limb, the small electrical signals produced by the muscles are picked up by surface electrodes and translated into natural movements (grasping, rotating the wrist, etc.). [6]_
 
-2. **Robotics and Exoskeletons**: The same principle powers robotic exoskeletons and assistive robots. For someone with paralysis or severe weakness, the tiny muscle signals they can still produce allow intuitive control of a powered exoskeleton that helps them stand, walk, or lift objects.
+2. **Robotics and Exoskeletons**: The same principle powers robotic exoskeletons and assistive robots. For someone with paralysis or severe weakness, the tiny muscle signals they can still produce allow intuitive control of a powered exoskeleton that helps them stand, walk, or lift objects. [7]_
 
-3. **Human-Machine Interfaces**: Beyond prosthetics, sEMG can also function as an input signal for controlling computers and electronic systems. Muscle activity from the forearm can be used for gesture recognition, computer interaction, gaming systems, and assistive technologies such as wheelchairs or smart home devices, providing intuitive control for users.
+3. **Human-Machine Interfaces**: Beyond prosthetics, sEMG can also function as an input signal for controlling computers and electronic systems. Muscle activity from the forearm can be used for gesture recognition, computer interaction, gaming systems, and assistive technologies such as wheelchairs or smart home devices, providing intuitive control for users. [8]_
 
-4. **Ergonomics and Occupational Health**: Surface electromyography (sEMG) is widely used in ergonomics to evaluate muscle activity and workload during occupational tasks. By measuring muscle activation patterns during repetitive or physically demanding work, researchers can identify excessive muscular strain that may lead to fatigue or injury. sEMG analysis helps improve workplace design, posture, and tool ergonomics, thereby reducing the risk of musculoskeletal disorders and repetitive strain injuries in workers.
+4. **Ergonomics and Occupational Health**: Surface electromyography (sEMG) is widely used in ergonomics to evaluate muscle activity and workload during occupational tasks. By measuring muscle activation patterns during repetitive or physically demanding work, researchers can identify excessive muscular strain that may lead to fatigue or injury. sEMG analysis helps improve workplace design, posture, and tool ergonomics, thereby reducing the risk of musculoskeletal disorders and repetitive strain injuries in workers. [9]_
 
 Projects Using EMG
 ====================
@@ -320,3 +320,9 @@ In this module, we studied the basics of EMG, its terminology, and focused on Su
 .. [1] https://www.delsys.com/downloads/TUTORIAL/semg-detection-and-recording.pdf
 .. [2] `Recent progress in the diagnostic use of surface EMG for neurological diseases <https://www.sciencedirect.com/science/article/abs/pii/S1050641100000201>`_
 .. [3] `Assessment of Muscles Fatigue Based on Surface EMG Signals Using Machine Learning and Statistical Approaches: A Review <https://iopscience.iop.org/article/10.1088/1757-899X/705/1/012010/meta>`_
+.. [4] `EMG biofeedback for the recovery of motor function after stroke <https://pmc.ncbi.nlm.nih.gov/articles/PMC6464966/>`_
+.. [5] `Sport Biomechanics Applications Using Inertial, Force, and EMG Sensors: A Literature Overview <https://pmc.ncbi.nlm.nih.gov/articles/PMC7330631/>`_
+.. [6] `Functional evaluation of a real-time EMG controlled prosthetic hand <https://pmc.ncbi.nlm.nih.gov/articles/PMC12034578/>`_
+.. [7] `An EMG-driven exoskeleton hand robotic training device on chronic stroke subjects: task training system for stroke rehabilitation <https://pubmed.ncbi.nlm.nih.gov/22275545/>`_ 
+.. [8] `Evaluating the Feasibility of EMG-Based Human–Machine Interfaces for Driving <https://pmc.ncbi.nlm.nih.gov/articles/PMC12698871/>`_
+.. [9] `Surface EMG in Ergonomics and Occupational Medicine <https://www.researchgate.net/publication/301336856_Surface_EMG_in_Ergonomics_and_Occupational_Medicine>`_

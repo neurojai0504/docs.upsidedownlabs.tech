@@ -103,6 +103,10 @@ Electrooculography (EOG) is a non-invasive electrophysiological technique used t
 
 The basic principle of EOG is based on the fact that the human eye acts as an electric dipole where the cornea (front part of the eye) is positively charged and the retina (back part of the eye) is negatively charged. This creates a corneo retinal standing potential whose value ranges from 2mV to 10mV with a typical value of 5-6 mV in humans. 
 
+.. figure:: ../media/course-eog-eye-dipole.*
+    :align: center
+    :alt: Eye Dipole
+
 10.3 How it works 
 ************************
 
@@ -124,6 +128,10 @@ In EOG, surface electrodes are placed on the skin around the eyes to capture eye
 =============================
 
 The human eye acts as an electrical dipole, with the cornea being positively charged relative to the retina. When the eyes move, the orientation of this dipole changes, producing measurable voltage differences across the electrodes. These voltage changes correspond to eye movements such as saccades, smooth pursuits, and blinks and are recorded as EOG signals.
+
+.. figure:: ../media/course-eog-signal-detection.*
+    :align: center
+    :alt: EOG Signal Detection
 
 10.3.3 Signal Amplification and Filtering
 ================================================
