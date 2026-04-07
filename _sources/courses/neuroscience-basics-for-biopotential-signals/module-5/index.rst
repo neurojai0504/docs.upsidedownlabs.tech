@@ -204,17 +204,17 @@ The Bernard Katz experiment, conducted in the mid-20th century by physiologist B
 ---------------
 Katz studied the neuromuscular junction in frogs, the place where motor neurons connect with muscle fibers. His goal was to figure out how a nerve signal triggers a muscle to contract.
 
-1. Method
+2. Method
 --------------
 Katz used electrophysiology to study how muscle cells respond electrically when a motor neuron activates them. He measured the postsynaptic potentials in the muscle fibers after stimulating the motor neuron and also observed how changing the calcium ion concentration affected these responses.
 
-1. Findings
+3. Findings
 ----------------
 * Katz observed that when the presynaptic neuron releases neurotransmitters (mainly acetylcholine), the muscle fiber produces end-plate potentials (EPPs). End-plate potentials are the small electrical changes produced in muscle fiber when a motor neuron releases neurotransmitters at the neuromuscular junction.
 * He noticed that the strength of an EPP changes depending on how many neurotransmitter molecules are released. 
 * When he lowered the calcium concentration in the surrounding solution, the EPPs became smaller, showing that calcium ions are essential for neurotransmitter release.
 
-1. Quantal Release
+4. Quantal Release
 ---------------------
 * One of Katz’s major discoveries was the idea of quantal release, meaning neurotransmitters are released in small, fixed packets instead of continuously.
 * He confirmed this by studying miniature end-plate potentials (MEPPs), which occur even without any stimulation. Miniature end-plate potentials are tiny, spontaneous electrical signals seen in muscle fibers even when the motor neuron is not firing.
@@ -355,7 +355,7 @@ Instead, these signals come from the summed postsynaptic potentials (EPSPs + IPS
 5.8 Summary
 ********************
 
-In module 5, we explored how synapses enable communication between neurons, the difference between electrical and chemical synapses, how neurotransmitters create EPSPs and IPSPs, and how neurons add these signals through synaptic summation. We also learned about quantal release, the role of SNARE proteins, and how toxins affect synaptic function. All of this gives us the foundation to understand how large groups of neurons generate measurable electrical activity. In the next module, we will build on this knowledge and study biopotential signals such as EEG, EMG, ECG, and EOG—how they are produced, how we record them, and what they tell us about the body.
+In module 5, we explored how synapses enable communication between neurons, the difference between electrical and chemical synapses, how neurotransmitters create EPSPs and IPSPs, and how neurons add these signals through synaptic summation. We also learned about quantal release, the role of SNARE proteins, and how toxins affect synaptic function. All of this gives us the foundation to understand how large groups of neurons generate measurable electrical activity. In the next module, we will build on this knowledge and study biopotential signals such as EEG, EMG, ECG, and EOG how they are produced, how we record them, and what they tell us about the body.
 
 5.9 References
 ********************
