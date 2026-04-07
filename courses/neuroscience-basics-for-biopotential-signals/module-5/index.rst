@@ -36,7 +36,7 @@ Mechanism of Electrical Synapse
 - This depolarization opens the gap junction channels, allowing ions to flow directly from the presynaptic cell to the postsynaptic cell.
 - This results in a nearly instantaneous transmission of the electrical signal, allowing for rapid communication between cells.
  
-5.1.2 Chemical Synapse 
+5.1.2 Chemical Synapse [6]_
 ===============================
 
 Structure of Chemical Synapse
@@ -79,7 +79,7 @@ the vesicle merges with the plasma membrane and releases the stored neurotransmi
 Once released, the neurotransmitters diffuse across the synaptic cleft and reach the postsynaptic membrane. The postsynaptic membrane contains specific receptors that
 recognize and bind to the neurotransmitters. These receptors are ligand-dependent, meaning they are activated when a neurotransmitter binds to them. 
 
-5.1.3 Types of Postsynaptic Receptors
+5.1.3 Types of Postsynaptic Receptors [7]_
 ===============================================
 
 Postsynaptic receptors can be broadly classified into **ionotropic** receptors and **metabotropic** receptors.
@@ -192,8 +192,8 @@ Important Points
 
 .. todo:: Add a graphic of overview of synaptic transmission at neuromuscular junction as shared
 
-5.4 Bernard Katz experiment
-*********************************
+5.4 Bernard Katz experiment [5]_
+************************************
 
 The Bernard Katz experiment, conducted in the mid-20th century by physiologist Bernard Katz and his colleagues, was pivotal in understanding synaptic transmission, particularly at the neuromuscular junction. Here’s a detailed overview of the experiment and its significance:
 
@@ -238,8 +238,8 @@ Mechanism of Action
 2. **Fusion**: Upon the arrival of an action potential, calcium ions enter the presynaptic terminal, triggering the conformational change in the SNARE complex that leads to the fusion of the vesicle with the membrane.
 3. **Neurotransmitter Release**: Once the vesicle fuses with the membrane, neurotransmitters are released into the synaptic cleft. 
 
-5.6 Synaptic summation
-**************************
+5.6 Synaptic summation [4]_
+*****************************
 
 Synaptic summation is the way a neuron adds up all the EPSPs and IPSPs it receives from thousands of synapses to decide whether it should fire an action potential. Since each EPSP or IPSP is very small (around 0.2–1 mV), a single synapse is never enough to make the neuron fire. Instead, the neuron relies on the combined effect of many inputs.
 
@@ -364,3 +364,8 @@ In module 5, we explored how synapses enable communication between neurons, the 
 
 .. [2] `Postsynaptic potentials <https://www.kenhub.com/en/library/physiology/postsynaptic-potentials>`_
 .. [3] `Ungar, D., & Hughson, F. M. (2003). SNARE protein structure and function. Annual Review of Cell and Developmental Biology, 19(1), 493–517. <https://doi.org/10.1146/annurev.cellbio.19.110701.155609>`_
+.. [4] https://uw.pressbooks.pub/synapses/chapter/summation-of-synaptic-potentials/
+
+.. [5] `Purves D, Augustine GJ, Fitzpatrick D, et al., editors. Neuroscience. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. Quantal Transmission at Neuromuscular Synapses. <https://www.ncbi.nlm.nih.gov/books/NBK11028/>`_
+.. [6] https://courses.lumenlearning.com/wm-biology2/chapter/chemical-and-electrical-synapses/
+.. [7] `Purves D, Augustine GJ, Fitzpatrick D, et al., editors. Neuroscience. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. Two Families of Postsynaptic Receptors. <https://www.ncbi.nlm.nih.gov/books/NBK10855/>`_

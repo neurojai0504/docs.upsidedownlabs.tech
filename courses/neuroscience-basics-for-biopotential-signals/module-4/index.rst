@@ -8,8 +8,8 @@ membrane, which is critical for transmitting signals down an axon. It is the fun
 neurons communicate with one another and other cells. Another word used for the action potential is **spike**. 
 In this module, we will study the phases, mechanisms, and factors influencing the propagation of the action potential. [1]_
 
-4.1 Voltage-Gated Ion Channels 
-*******************************
+4.1 Voltage-Gated Ion Channels [1]_
+*****************************************
 
 .. todo:: Add a graphic for voltage gated ion channel showing all 3 states(inactivated,closed and open)
 
@@ -65,14 +65,14 @@ The latent period is the short time interval between the application of a stimul
 
 The action potential consists of several distinct phases, each characterized by specific changes in membrane potential and ion movement : 
 
-Resting Phase 
-===============
+Resting Phase [1]_
+=======================
 
 At the resting phase, the neuron has a resting potential of around -70 mV, and the voltage-gated sodium and 
 potassium channels are closed.
 
 
-Depolarization Phase (Rising Phase) 
+Depolarization Phase (Rising Phase) [1]_
 ===========================================
 
 1. Depolarization occurs due to opening of voltage-gated Na⁺ channels, which causes rapid influx of Na⁺ ions into the neuron.
@@ -94,7 +94,7 @@ Depolarization Phase (Rising Phase)
   3. After the membrane potential crosses 0 mV, the inside of the cell becomes positive, which reduces further Na⁺ entry due to electrical repulsion.
   4. During one action potential, approximately 20,000 Na⁺ ions enter the neuron.
 
-Repolarization Phase (Falling Phase) 
+Repolarization Phase (Falling Phase) [1]_
 =============================================
 
 - Repolarization occurs due to opening of voltage-gated K⁺ channels, which causes efflux of potassium ions (K⁺ ) from the neuron.
@@ -262,8 +262,8 @@ action potential, but only if the stimulus is stronger than normal.
 4.6 Additional Info Section 
 *********************************
 
-4.6.1 Tetrodotoxin (TTX) and its Effect on Action Potential
-==============================================================
+4.6.1 Tetrodotoxin (TTX) and its Effect on Action Potential [2]_
+=======================================================================
 
 Tetrodotoxin (TTX) is a potent neurotoxin known for blocking nerve function, leading to paralysis and potentially 
 death. It is found in certain animals, particularly pufferfish (fugu), but also in some other marine organisms, 
@@ -292,7 +292,7 @@ nerve signaling.
 
 .. admonition:: Important Fact
 
-    Pufferfish is eaten for its subtle flavor and the tingling, numbing sensation that the TTX causes when eaten in small doses. It is considered as a delicacy in some cultures. [2]_
+    Pufferfish is eaten for its subtle flavor and the tingling, numbing sensation that the TTX causes when eaten in small doses. It is considered as a delicacy in some cultures.
 
 4.6.2 Local Anesthetics
 ===============================
