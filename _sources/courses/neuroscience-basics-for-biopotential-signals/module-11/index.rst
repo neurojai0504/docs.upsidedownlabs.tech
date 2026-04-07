@@ -13,9 +13,9 @@ Module 11 : Conclusion
 In this course, we have covered a wide range of topics related to neuroscience and biopotential signals, including:
 
 - The fundamentals of neuroscience and the nervous system
-- Key biopotential signals such as EEG, EMG, ECG, and EOG, including their physiological origin and basic characteristics.
+- Key biopotential signals such as EEG, EMG, ECG, and EOG, including their physiological origin and basic characteristics
 - Methods for acquiring and analyzing biopotential signals
-- Important challenges such as noise and motion artifacts.
+- Important challenges such as noise and motion artifacts
 - Applications of biopotential signals in research, healthcare, and technology
 - Hands-on projects and real-world applications
 - This course also connects concepts from resting membrane potential and action potential to larger signals like EEG and EMG, showing how neural activity becomes measurable signals.
@@ -53,11 +53,11 @@ Neuroscience and biopotential signal acquisition are rapidly evolving fields. Wi
 - Develop assistive and healthcare technologies
 - Contribute to open-source science
 - Continue learning with confidence and clarity
-- Further develop skills using tools like MATLAB, Python, and open-source platforms.
+- Further develop skills using tools like MATLAB, Python, and open-source platforms
 
-**This course is introductory and advanced topics will require further study and practice, but you now have a strong foundation to build upon. The future of neuroscience belongs to curious minds, ethical innovation, and accessible knowledge and you are now part of that future.**
+**This course is introductory and advanced topics will require further study and practice, but you now have a strong foundation to build upon. The future of neuroscience belongs to curious minds, ethical innovation, and accessible knowledge, and you are now part of that future.**
 
 11.4 Final Message
 ***********************
 
-Thank you for being part of this learning journey. May this course not only enhance your technical understanding but also inspire you to create, contribute, and care for science, for society and for yourself. Apply these concepts in practice, think critically, and work towards building meaningful neuroscience applications.
+Thank you for being part of this learning journey. May this course not only enhance your technical understanding but also inspire you to create, contribute, and care for science, for society, and for yourself. Apply these concepts in practice, think critically, and work towards building meaningful neuroscience applications.
