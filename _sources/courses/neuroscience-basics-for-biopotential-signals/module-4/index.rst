@@ -208,7 +208,7 @@ b. **Smaller Diameter:** Axons with smaller diameters have higher internal resis
 =================================
 
 1. Action potentials propagate in one direction, from the axon hillock toward the axon terminal.
-2. In sensory neurons, action potentials can also propagate from the peripheral sensory endings toward the cell body and then down the axon to the central nervous system. This is called anterograde conduction.
+2. In sensory neurons, action potentials can also propagate from the peripheral sensory endings toward the cell body and then down the axon to the central nervous system. This is called orthodromic conduction.
 3. In motor neurons, action potentials can propagate from the cell body toward the axon terminal.
 4. The refractory period (discussed in the next section) ensures that action potentials do not reverse direction and that the signal travels efficiently along the axon.
 5. In some cases, such as in certain types of neurons or under pathological conditions, action potentials can propagate in the reverse direction (antidromic conduction), but this is not the normal mode of signal transmission.
