@@ -149,6 +149,9 @@ We offer our own **open source** :ref:`Chords <upsidedownlabs_software_home>` so
 
    Calibration is required to relate EOG voltage changes to eye movement angles. During calibration, subjects are asked to look at targets positioned at known angles (e.g., ±10° or ±20°). The recorded voltage changes are then mapped to eye movement direction and magnitude. This allows for accurate interpretation of EOG signals in terms of eye position and movement.
 
+10.4 Applications of EOG
+*******************************
+
 10.4.1 Clinical applications 
 ======================================
 
