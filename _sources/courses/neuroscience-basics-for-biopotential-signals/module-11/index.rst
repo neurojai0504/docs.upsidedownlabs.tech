@@ -46,7 +46,7 @@ Upside Down Labs is committed to :
 .. figure:: ../media/course-looking-forward.*
    :align: center
 
-Neuroscience and biopotential signal acquisition are rapidly evolving fields. With the foundation you have gained through this course, you are now equipped to:
+Neuroscience and biopotential signal acquisition are rapidly evolving fields. With the strong foundation you have gained through this course, you are now equipped to:
 
 - Build real-world projects
 - Explore research and innovation
@@ -55,7 +55,7 @@ Neuroscience and biopotential signal acquisition are rapidly evolving fields. Wi
 - Continue learning with confidence and clarity
 - Further develop skills using tools like MATLAB, Python, and open-source platforms
 
-**This course is introductory and advanced topics will require further study and practice, but you now have a strong foundation to build upon. The future of neuroscience belongs to curious minds, ethical innovation, and accessible knowledge, and you are now part of that future.**
+**The future of neuroscience belongs to curious minds, ethical innovation, and accessible knowledge, and you are now part of that future.**
 
 11.4 Final Message
 ***********************

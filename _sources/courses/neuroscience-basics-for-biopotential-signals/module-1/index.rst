@@ -451,7 +451,7 @@ enables them to produce and transmit signals throughout the nervous system.
 .. [2] `Blood-Brain Barrier (BBB) <https://my.clevelandclinic.org/health/body/24931-blood-brain-barrier-bbb>`_
 .. [3] `Types of glia <https://qbi.uq.edu.au/brain-basics/brain/brain-physiology/types-glia>`_
 .. [4] `Chen Y and Zhang J (2021) How Energy Supports Our Brain to Yield Consciousness: Insights From Neuroimaging Based on the Neuroenergetics Hypothesis. Front. Syst. Neurosci. 15:648860. doi: 10.3389/fnsys.2021.648860 <https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2021.648860/full>`_ 
-.. [5] `Human Nerve Conduction Velocity (NCV) <https://iastate.pressbooks.pub/curehumanphysiology/chapter/human-nerve-conduction/#:~:text=Speed%20of%20neural%20transmission,skipping%20node%2Dto%2Dnode.>`_
+.. [5] `Human Nerve Conduction Velocity (NCV) <https://iastate.pressbooks.pub/curehumanphysiology/chapter/human-nerve-conduction/>`_
 .. [6] `Zhang N, Zhang J, Du S and Ma G (2022) Dehydration and rehydration affect brain regional density and homogeneity among young male adults, determined via magnetic resonance imaging: A pilot self-control trial. Front. Nutr. 9:906088. doi: 10.3389/fnut.2022.906088 <https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.906088/full>`_
 .. [7] `If the brain can't feel pain, why do I get headaches? <https://www.brainfacts.org/ask-an-expert/if-the-brain-cant-feel-pain-why-do-i-get-headaches>`_
 .. [8] `Magielse N, Heuer K, Toro R, Schutter DJLG, Valk SL. A Comparative Perspective on the Cerebello-Cerebral System and Its Link to Cognition. Cerebellum. 2023;22(6):1293-1307. doi:10.1007/s12311-022-01495-0 <http://pmc.ncbi.nlm.nih.gov/articles/PMC10657313/>`_
