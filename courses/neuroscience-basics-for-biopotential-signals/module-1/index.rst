@@ -282,7 +282,7 @@ Neurons are the building blocks of the nervous system and are responsible for re
 - **Nucleus:** Nucleus contains the genetic material (chromosomes) of the neuron cell.
 - **Dendrites:** Dendrites are the tree root shaped part of the neuron which is responsible for receiving information from other neurons and to transmit electrical signals to the cell body.
 - **Axons:** Axons are the tail-like structure of the neuron which are responsible for transmitting electrical impulses (action potentials) away from the cell body toward other neurons.
-- **Myelin sheath:** Myelin sheath is a lipid rich sheath that insulates the axon, speeding up signal transmission. 
+- **Myelin sheath:** Myelin sheath is a lipid-rich sheath (fatty layer) that insulates the axon, speeding up signal transmission. 
 - **Synapse:** Neurons do not touch each other, but where one neuron comes close to another neuron, a synapse is formed between the two which acts as a junction between two neurons where neurotransmitters are released to transmit signals to the next neuron.
 
 .. note:: There are axonless neurons too, where the signal is transmitted and received both by the dendrites.
